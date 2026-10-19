@@ -2,7 +2,7 @@
 
 Web pública, objetiva y contrastable que reúne **datos brutos de fuentes oficiales e independientes** para valorar la calidad de los gobiernos y legislaturas en España (desde 1977 cuando hay datos). **No hay índice compuesto ni nota propia**: cada cifra enlaza a su fuente y lleva su fecha de extracción. Lo que no se ha podido obtener aparece como `pendiente`.
 
-🌐 Web: https://manolenta.github.io/observatorio-politico/
+🌐 Web: https://manolenta.github.io/observatorio-politico/ (publicada con GitHub Pages; datos regenerados a diario por GitHub Actions)
 
 ![Captura: calidad democrática](docs/captura.png)
 
