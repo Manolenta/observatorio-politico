@@ -1,0 +1,1183 @@
+{
+ "extraido": "2026-10-19T22:27:21+02:00",
+ "fuente": "https://www.boe.es/buscar/boe.php",
+ "presupuestos": {
+  "consulta": "https://www.boe.es/buscar/boe.php?campo%5B0%5D=ORIS&dato%5B0%5D%5B1%5D=1&operador%5B0%5D=and&campo%5B1%5D=TITULOS&dato%5B1%5D=%22Presupuestos+Generales+del+Estado+para%22&operador%5B1%5D=and&operador%5B6%5D=and&campo%5B6%5D=FPU&dato%5B6%5D%5B0%5D=1977-01-01&dato%5B6%5D%5B1%5D=2026-12-31&page_hits=2000&sort_field%5B0%5D=FPU&sort_order%5B0%5D=asc&accion=Buscar",
+  "años": [
+   {
+    "año": 1978,
+    "estado": "prórroga parcial: ley publicada después del 1 de enero",
+    "legislatura": "Constituyente",
+    "ley": "Ley 1/1978",
+    "ref": "BOE-A-1978-1722",
+    "publicada": "1978-01-20",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1978-1722"
+   },
+   {
+    "año": 1979,
+    "estado": "prórroga parcial: ley publicada después del 1 de enero",
+    "legislatura": "Constituyente",
+    "ley": "Ley 1/1979",
+    "ref": "BOE-A-1979-17464",
+    "publicada": "1979-07-20",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1979-17464"
+   },
+   {
+    "año": 1980,
+    "estado": "aprobados en plazo",
+    "legislatura": "I",
+    "ley": "Ley 42/1979",
+    "ref": "BOE-A-1979-30664",
+    "publicada": "1979-12-31",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1979-30664"
+   },
+   {
+    "año": 1981,
+    "estado": "aprobados en plazo",
+    "legislatura": "I",
+    "ley": "Ley 74/1980",
+    "ref": "BOE-A-1980-27973",
+    "publicada": "1980-12-30",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-27973"
+   },
+   {
+    "año": 1982,
+    "estado": "aprobados en plazo",
+    "legislatura": "I",
+    "ley": "Ley 44/1981",
+    "ref": "BOE-A-1981-29991",
+    "publicada": "1981-12-28",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1981-29991"
+   },
+   {
+    "año": 1983,
+    "estado": "prórroga parcial: ley publicada después del 1 de enero",
+    "legislatura": "II",
+    "ley": "Ley 9/1983",
+    "ref": "BOE-A-1983-19653",
+    "publicada": "1983-07-14",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1983-19653"
+   },
+   {
+    "año": 1984,
+    "estado": "aprobados en plazo",
+    "legislatura": "II",
+    "ley": "Ley 44/1983",
+    "ref": "BOE-A-1983-34167",
+    "publicada": "1983-12-30",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1983-34167"
+   },
+   {
+    "año": 1985,
+    "estado": "aprobados en plazo",
+    "legislatura": "II",
+    "ley": "Ley 50/1984",
+    "ref": "BOE-A-1984-28337",
+    "publicada": "1984-12-31",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1984-28337"
+   },
+   {
+    "año": 1986,
+    "estado": "aprobados en plazo",
+    "legislatura": "II",
+    "ley": "Ley 46/1985",
+    "ref": "BOE-A-1985-26831",
+    "publicada": "1985-12-28",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1985-26831"
+   },
+   {
+    "año": 1987,
+    "estado": "aprobados en plazo",
+    "legislatura": "III",
+    "ley": "Ley 21/1986",
+    "ref": "BOE-A-1986-33382",
+    "publicada": "1986-12-24",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1986-33382"
+   },
+   {
+    "año": 1988,
+    "estado": "aprobados en plazo",
+    "legislatura": "III",
+    "ley": "Ley 33/1987",
+    "ref": "BOE-A-1987-28404",
+    "publicada": "1987-12-24",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-28404"
+   },
+   {
+    "año": 1989,
+    "estado": "aprobados en plazo",
+    "legislatura": "III",
+    "ley": "Ley 37/1988",
+    "ref": "BOE-A-1988-29563",
+    "publicada": "1988-12-29",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1988-29563"
+   },
+   {
+    "año": 1990,
+    "estado": "prórroga parcial: ley publicada después del 1 de enero",
+    "legislatura": "IV",
+    "ley": "Ley 4/1990",
+    "ref": "BOE-A-1990-15347",
+    "publicada": "1990-06-30",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1990-15347"
+   },
+   {
+    "año": 1991,
+    "estado": "aprobados en plazo",
+    "legislatura": "IV",
+    "ley": "Ley 31/1990",
+    "ref": "BOE-A-1990-31180",
+    "publicada": "1990-12-28",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1990-31180"
+   },
+   {
+    "año": 1992,
+    "estado": "aprobados en plazo",
+    "legislatura": "IV",
+    "ley": "Ley 31/1991",
+    "ref": "BOE-A-1991-30903",
+    "publicada": "1991-12-31",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1991-30903"
+   },
+   {
+    "año": 1993,
+    "estado": "aprobados en plazo",
+    "legislatura": "IV",
+    "ley": "Ley 39/1992",
+    "ref": "BOE-A-1992-28826",
+    "publicada": "1992-12-30",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1992-28826"
+   },
+   {
+    "año": 1994,
+    "estado": "aprobados en plazo",
+    "legislatura": "V",
+    "ley": "Ley 21/1993",
+    "ref": "BOE-A-1993-31087",
+    "publicada": "1993-12-30",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1993-31087"
+   },
+   {
+    "año": 1995,
+    "estado": "aprobados en plazo",
+    "legislatura": "V",
+    "ley": "Ley 41/1994",
+    "ref": "BOE-A-1994-28967",
+    "publicada": "1994-12-31",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1994-28967"
+   },
+   {
+    "año": 1996,
+    "estado": "prorrogados todo el año",
+    "legislatura": "V"
+   },
+   {
+    "año": 1997,
+    "estado": "aprobados en plazo",
+    "legislatura": "VI",
+    "ley": "Ley 12/1996",
+    "ref": "BOE-A-1996-29116",
+    "publicada": "1996-12-31",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1996-29116"
+   },
+   {
+    "año": 1998,
+    "estado": "aprobados en plazo",
+    "legislatura": "VI",
+    "ley": "Ley 65/1997",
+    "ref": "BOE-A-1997-28052",
+    "publicada": "1997-12-31",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1997-28052"
+   },
+   {
+    "año": 1999,
+    "estado": "aprobados en plazo",
+    "legislatura": "VI",
+    "ley": "Ley 49/1998",
+    "ref": "BOE-A-1998-30154",
+    "publicada": "1998-12-31",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1998-30154"
+   },
+   {
+    "año": 2000,
+    "estado": "aprobados en plazo",
+    "legislatura": "VI",
+    "ley": "Ley 54/1999",
+    "ref": "BOE-A-1999-24785",
+    "publicada": "1999-12-30",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24785"
+   },
+   {
+    "año": 2001,
+    "estado": "aprobados en plazo",
+    "legislatura": "VII",
+    "ley": "Ley 13/2000",
+    "ref": "BOE-A-2000-24265",
+    "publicada": "2000-12-29",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2000-24265"
+   },
+   {
+    "año": 2002,
+    "estado": "aprobados en plazo",
+    "legislatura": "VII",
+    "ley": "Ley 23/2001",
+    "ref": "BOE-A-2001-24964",
+    "publicada": "2001-12-31",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24964"
+   },
+   {
+    "año": 2003,
+    "estado": "aprobados en plazo",
+    "legislatura": "VII",
+    "ley": "Ley 52/2002",
+    "ref": "BOE-A-2002-25411",
+    "publicada": "2002-12-31",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25411"
+   },
+   {
+    "año": 2004,
+    "estado": "aprobados en plazo",
+    "legislatura": "VII",
+    "ley": "Ley 61/2003",
+    "ref": "BOE-A-2003-23935",
+    "publicada": "2003-12-31",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2003-23935"
+   },
+   {
+    "año": 2005,
+    "estado": "aprobados en plazo",
+    "legislatura": "VIII",
+    "ley": "Ley 2/2004",
+    "ref": "BOE-A-2004-21688",
+    "publicada": "2004-12-28",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2004-21688"
+   },
+   {
+    "año": 2006,
+    "estado": "aprobados en plazo",
+    "legislatura": "VIII",
+    "ley": "Ley 30/2005",
+    "ref": "BOE-A-2005-21525",
+    "publicada": "2005-12-30",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2005-21525"
+   },
+   {
+    "año": 2007,
+    "estado": "aprobados en plazo",
+    "legislatura": "VIII",
+    "ley": "Ley 42/2006",
+    "ref": "BOE-A-2006-22865",
+    "publicada": "2006-12-29",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2006-22865"
+   },
+   {
+    "año": 2008,
+    "estado": "aprobados en plazo",
+    "legislatura": "VIII",
+    "ley": "Ley 51/2007",
+    "ref": "BOE-A-2007-22295",
+    "publicada": "2007-12-27",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-22295"
+   },
+   {
+    "año": 2009,
+    "estado": "aprobados en plazo",
+    "legislatura": "IX",
+    "ley": "Ley 2/2008",
+    "ref": "BOE-A-2008-20744",
+    "publicada": "2008-12-24",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20744"
+   },
+   {
+    "año": 2010,
+    "estado": "aprobados en plazo",
+    "legislatura": "IX",
+    "ley": "Ley 26/2009",
+    "ref": "BOE-A-2009-20765",
+    "publicada": "2009-12-24",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2009-20765"
+   },
+   {
+    "año": 2011,
+    "estado": "aprobados en plazo",
+    "legislatura": "IX",
+    "ley": "Ley 39/2010",
+    "ref": "BOE-A-2010-19703",
+    "publicada": "2010-12-23",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-19703"
+   },
+   {
+    "año": 2012,
+    "estado": "prórroga parcial: ley publicada después del 1 de enero",
+    "legislatura": "X",
+    "ley": "Ley 2/2012",
+    "ref": "BOE-A-2012-8745",
+    "publicada": "2012-06-30",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2012-8745"
+   },
+   {
+    "año": 2013,
+    "estado": "aprobados en plazo",
+    "legislatura": "X",
+    "ley": "Ley 17/2012",
+    "ref": "BOE-A-2012-15651",
+    "publicada": "2012-12-28",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15651"
+   },
+   {
+    "año": 2014,
+    "estado": "aprobados en plazo",
+    "legislatura": "X",
+    "ley": "Ley 22/2013",
+    "ref": "BOE-A-2013-13616",
+    "publicada": "2013-12-26",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13616"
+   },
+   {
+    "año": 2015,
+    "estado": "aprobados en plazo",
+    "legislatura": "X",
+    "ley": "Ley 36/2014",
+    "ref": "BOE-A-2014-13612",
+    "publicada": "2014-12-30",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13612"
+   },
+   {
+    "año": 2016,
+    "estado": "aprobados en plazo",
+    "legislatura": "X",
+    "ley": "Ley 48/2015",
+    "ref": "BOE-A-2015-11644",
+    "publicada": "2015-10-30",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11644"
+   },
+   {
+    "año": 2017,
+    "estado": "prórroga parcial: ley publicada después del 1 de enero",
+    "legislatura": "XII",
+    "ley": "Ley 3/2017",
+    "ref": "BOE-A-2017-7387",
+    "publicada": "2017-06-28",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7387"
+   },
+   {
+    "año": 2018,
+    "estado": "prórroga parcial: ley publicada después del 1 de enero",
+    "legislatura": "XII",
+    "ley": "Ley 6/2018",
+    "ref": "BOE-A-2018-9268",
+    "publicada": "2018-07-04",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2018-9268"
+   },
+   {
+    "año": 2019,
+    "estado": "prorrogados todo el año",
+    "legislatura": "XII"
+   },
+   {
+    "año": 2020,
+    "estado": "prorrogados todo el año",
+    "legislatura": "XIV"
+   },
+   {
+    "año": 2021,
+    "estado": "aprobados en plazo",
+    "legislatura": "XIV",
+    "ley": "Ley 11/2020",
+    "ref": "BOE-A-2020-17339",
+    "publicada": "2020-12-31",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17339"
+   },
+   {
+    "año": 2022,
+    "estado": "aprobados en plazo",
+    "legislatura": "XIV",
+    "ley": "Ley 22/2021",
+    "ref": "BOE-A-2021-21653",
+    "publicada": "2021-12-29",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21653"
+   },
+   {
+    "año": 2023,
+    "estado": "aprobados en plazo",
+    "legislatura": "XIV",
+    "ley": "Ley 31/2022",
+    "ref": "BOE-A-2022-22128",
+    "publicada": "2022-12-24",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22128"
+   },
+   {
+    "año": 2024,
+    "estado": "prorrogados todo el año",
+    "legislatura": "XV"
+   },
+   {
+    "año": 2025,
+    "estado": "prorrogados todo el año",
+    "legislatura": "XV"
+   },
+   {
+    "año": 2026,
+    "estado": "prorrogados todo el año",
+    "legislatura": "XV"
+   }
+  ]
+ },
+ "cgpj": {
+  "consulta": "https://www.boe.es/buscar/boe.php?campo%5B0%5D=ORIS&dato%5B0%5D%5B2%5D=2&operador%5B0%5D=and&campo%5B1%5D=TITULOS&dato%5B1%5D=%22Vocales+del+Consejo+General+del+Poder+Judicial%22&operador%5B1%5D=and&operador%5B6%5D=and&campo%5B6%5D=FPU&dato%5B6%5D%5B0%5D=1977-01-01&dato%5B6%5D%5B1%5D=2026-12-31&page_hits=2000&sort_field%5B0%5D=FPU&sort_order%5B0%5D=asc&accion=Buscar",
+  "renovaciones": [
+   {
+    "renovacion": "1985-10-16",
+    "rds": [
+     {
+      "rd": "Real Decreto 1881/1985",
+      "camara": "Congreso",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1985-21400"
+     },
+     {
+      "rd": "Real Decreto 1882/1985",
+      "camara": "Senado",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1985-21401"
+     }
+    ]
+   },
+   {
+    "renovacion": "1990-11-06",
+    "rds": [
+     {
+      "rd": "Real Decreto 1344/1990",
+      "camara": "Congreso",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1990-26963"
+     },
+     {
+      "rd": "Real Decreto 1345/1990",
+      "camara": "Senado",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1990-26964"
+     }
+    ],
+    "mandato_anterior_vence_aprox": "1990-10-16",
+    "dias_retraso_aprox": 21
+   },
+   {
+    "renovacion": "1996-07-23",
+    "rds": [
+     {
+      "rd": "Real Decreto 1835/1996",
+      "camara": "Congreso",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1996-16860"
+     },
+     {
+      "rd": "Real Decreto 1836/1996",
+      "camara": "Senado",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1996-16861"
+     }
+    ],
+    "mandato_anterior_vence_aprox": "1995-11-06",
+    "dias_retraso_aprox": 260
+   },
+   {
+    "renovacion": "2001-11-06",
+    "rds": [
+     {
+      "rd": "Real Decreto 1222/2001",
+      "camara": "Congreso",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2001-20743"
+     },
+     {
+      "rd": "Real Decreto 1223/2001",
+      "camara": "Senado",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2001-20744"
+     }
+    ],
+    "mandato_anterior_vence_aprox": "2001-07-23",
+    "dias_retraso_aprox": 106
+   },
+   {
+    "renovacion": "2008-09-22",
+    "rds": [
+     {
+      "rd": "Real Decreto 1574/2008",
+      "camara": "Congreso",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2008-15369"
+     },
+     {
+      "rd": "Real Decreto 1575/2008",
+      "camara": "Senado",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2008-15370"
+     }
+    ],
+    "mandato_anterior_vence_aprox": "2006-11-06",
+    "dias_retraso_aprox": 686
+   },
+   {
+    "renovacion": "2013-11-29",
+    "rds": [
+     {
+      "rd": "Real Decreto 930/2013",
+      "camara": "Congreso",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12634"
+     },
+     {
+      "rd": "Real Decreto 931/2013",
+      "camara": "Senado",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12635"
+     }
+    ],
+    "mandato_anterior_vence_aprox": "2013-09-22",
+    "dias_retraso_aprox": 68
+   },
+   {
+    "renovacion": "2024-07-24",
+    "rds": [
+     {
+      "rd": "Real Decreto 755/2024",
+      "camara": "Congreso",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-15351"
+     },
+     {
+      "rd": "Real Decreto 756/2024",
+      "camara": "Senado",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-15352"
+     }
+    ],
+    "mandato_anterior_vence_aprox": "2018-11-29",
+    "dias_retraso_aprox": 2064
+   }
+  ],
+  "nota": "Mandato de 5 años (art. 568 LOPJ). Se aproxima con la fecha del RD de nombramiento; la constitución del Consejo es unos días posterior, así que el retraso real puede variar en ±10 días. La primera renovación de la serie (1985) es la primera con la LOPJ de 1985; el CGPJ de 1980 no figura con este título en el buscador."
+ },
+ "rdl_proyecto_xv": {
+  "legislatura": [
+   "Leg.15"
+  ],
+  "fuente": "https://www.congreso.es/webpublica/opendata/iniciativas/ProyectosDeLey__20261019050029.json",
+  "web": "https://www.congreso.es/es/opendata/iniciativas",
+  "tramitados_como_proyecto": 43,
+  "terminados_como_ley": 0,
+  "caducados": 43,
+  "detalle": [
+   {
+    "expediente": "121/000002/0000",
+    "rdl": "Real Decreto-ley 6/2023",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000003/0000",
+    "rdl": "Real Decreto-ley 8/2023",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000024/0000",
+    "rdl": "Real Decreto-ley 1/2024",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000027/0000",
+    "rdl": "Real Decreto-ley 2/2024",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000028/0000",
+    "rdl": "Real Decreto-ley 3/2024",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000032/0000",
+    "rdl": "Real Decreto-ley 4/2024",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000037/0000",
+    "rdl": "Real Decreto-ley 5/2024",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000039/0000",
+    "rdl": "Real Decreto-ley 6/2024",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000042/0000",
+    "rdl": "Real Decreto-ley 7/2024",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000044/0000",
+    "rdl": "Real Decreto-ley 8/2024",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000045/0000",
+    "rdl": "Real Decreto-ley 11/2024",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000047/0000",
+    "rdl": "Real Decreto-ley 1/2025",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000055/0000",
+    "rdl": "Real Decreto-ley 2/2025",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000056/0000",
+    "rdl": "Real Decreto-ley 3/2025",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000057/0000",
+    "rdl": "Real Decreto-ley 4/2025",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000062/0000",
+    "rdl": "Real Decreto-ley 5/2025",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000065/0000",
+    "rdl": "Real Decreto-ley 6/2025",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000066/0000",
+    "rdl": "Real Decreto-ley 8/2025",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000069/0000",
+    "rdl": "Real Decreto-ley 9/2025",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000070/0000",
+    "rdl": "Real Decreto-ley 10/2025",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000076/0000",
+    "rdl": "Real Decreto-ley 11/2025",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000078/0000",
+    "rdl": "Real Decreto-ley 12/2025",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000080/0000",
+    "rdl": "Real Decreto-ley 13/2025",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000081/0000",
+    "rdl": "Real Decreto-ley 14/2025",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000082/0000",
+    "rdl": "Real Decreto-ley 15/2025",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000084/0000",
+    "rdl": "Real Decreto-ley 17/2025",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000085/0000",
+    "rdl": "Real Decreto-ley 1/2026",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000086/0000",
+    "rdl": "Real Decreto-ley 3/2026",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000089/0000",
+    "rdl": "Real Decreto-ley 5/2026",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000090/0000",
+    "rdl": "Real Decreto-ley 6/2026",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000091/0000",
+    "rdl": "Real Decreto-ley 7/2026",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000093/0000",
+    "rdl": "Real Decreto-ley 9/2026",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000095/0000",
+    "rdl": "Real Decreto-ley 10/2026",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000097/0000",
+    "rdl": "Real Decreto-ley 11/2026",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000099/0000",
+    "rdl": "Real Decreto-ley 12/2026",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000100/0000",
+    "rdl": "Real Decreto-ley 13/2026",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000102/0000",
+    "rdl": "Real Decreto-ley 14/2026",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000104/0000",
+    "rdl": "Real Decreto-ley 17/2026",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000107/0000",
+    "rdl": "Real Decreto-ley 18/2026",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000108/0000",
+    "rdl": "Real Decreto-ley 19/2026",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000113/0000",
+    "rdl": "Real Decreto-ley 20/2026",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000114/0000",
+    "rdl": "Real Decreto-ley 22/2026",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   },
+   {
+    "expediente": "121/000115/0000",
+    "rdl": "Real Decreto-ley 23/2026",
+    "situacion": "Concluido - (Caducado)",
+    "resultado": ""
+   }
+  ],
+  "nota": "Los datos abiertos del Congreso solo cubren la legislatura en curso. Para legislaturas anteriores queda pendiente: los acuerdos de convalidación del BOE no indican si se acordó tramitar el RDL como proyecto de ley."
+ },
+ "funciones": {
+  "periodos": [
+   {
+    "desde_elecciones": "1979-03-01",
+    "elecciones": [
+     "1979-03-01"
+    ],
+    "rd_convocatoria": [
+     {
+      "rd": "Real Decreto 3073/1978",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1979-1"
+     }
+    ],
+    "hasta_nombramiento": "1979-03-31",
+    "nombramiento": {
+     "rd": "Real Decreto 681/1979",
+     "presidente": "don Adolfo Suárez González",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1979-9031"
+    },
+    "dias": 30,
+    "en_curso": false
+   },
+   {
+    "desde_elecciones": "1982-10-28",
+    "elecciones": [
+     "1982-10-28"
+    ],
+    "rd_convocatoria": [
+     {
+      "rd": "Real Decreto 2057/1982",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1982-21846"
+     }
+    ],
+    "hasta_nombramiento": "1982-12-01",
+    "nombramiento": {
+     "rd": "Real Decreto 3285/1982",
+     "presidente": "don Felipe González Márquez",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1982-31635"
+    },
+    "dias": 34,
+    "en_curso": false
+   },
+   {
+    "desde_elecciones": "1986-06-22",
+    "elecciones": [
+     "1986-06-22"
+    ],
+    "rd_convocatoria": [
+     {
+      "rd": "Real Decreto 794/1986",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1986-10007"
+     }
+    ],
+    "hasta_nombramiento": "1986-07-23",
+    "nombramiento": {
+     "rd": "Real Decreto 1514/1986",
+     "presidente": "don Felipe González Márquez",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1986-19914"
+    },
+    "dias": 31,
+    "en_curso": false
+   },
+   {
+    "desde_elecciones": "1989-10-29",
+    "elecciones": [
+     "1989-10-29"
+    ],
+    "rd_convocatoria": [
+     {
+      "rd": "Real Decreto 1047/1989",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1989-21483"
+     }
+    ],
+    "hasta_nombramiento": "1989-12-05",
+    "nombramiento": {
+     "rd": "Real Decreto 1452/1989",
+     "presidente": "don Felipe González Márquez",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1989-28901"
+    },
+    "dias": 37,
+    "en_curso": false
+   },
+   {
+    "desde_elecciones": "1993-06-06",
+    "elecciones": [
+     "1993-06-06"
+    ],
+    "rd_convocatoria": [
+     {
+      "rd": "Real Decreto 534/1993",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1993-9513"
+     }
+    ],
+    "hasta_nombramiento": "1993-07-09",
+    "nombramiento": {
+     "rd": "Real Decreto 1106/1993",
+     "presidente": "don Felipe González Márquez",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1993-18045"
+    },
+    "dias": 33,
+    "en_curso": false
+   },
+   {
+    "desde_elecciones": "1996-03-03",
+    "elecciones": [
+     "1996-03-03"
+    ],
+    "rd_convocatoria": [
+     {
+      "rd": "Real Decreto 1/1996",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1996-508"
+     }
+    ],
+    "hasta_nombramiento": "1996-05-04",
+    "nombramiento": {
+     "rd": "Real Decreto 757/1996",
+     "presidente": "don José María Aznar López",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1996-9942"
+    },
+    "dias": 62,
+    "en_curso": false
+   },
+   {
+    "desde_elecciones": "2000-03-12",
+    "elecciones": [
+     "2000-03-12"
+    ],
+    "rd_convocatoria": [
+     {
+      "rd": "Real Decreto 64/2000",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1001"
+     }
+    ],
+    "hasta_nombramiento": "2000-04-26",
+    "nombramiento": {
+     "rd": "Real Decreto 555/2000",
+     "presidente": "don José María Aznar López",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2000-7840"
+    },
+    "dias": 45,
+    "en_curso": false
+   },
+   {
+    "desde_elecciones": "2004-03-14",
+    "elecciones": [
+     "2004-03-14"
+    ],
+    "rd_convocatoria": [
+     {
+      "rd": "Real Decreto 100/2004",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1063"
+     }
+    ],
+    "hasta_nombramiento": "2004-04-16",
+    "nombramiento": {
+     "rd": "Real Decreto 552/2004",
+     "presidente": "don José Luis Rodríguez Zapatero",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2004-6855"
+    },
+    "dias": 33,
+    "en_curso": false
+   },
+   {
+    "desde_elecciones": "2008-03-09",
+    "elecciones": [
+     "2008-03-09"
+    ],
+    "rd_convocatoria": [
+     {
+      "rd": "Real Decreto 33/2008",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2008-641"
+     }
+    ],
+    "hasta_nombramiento": "2008-04-11",
+    "nombramiento": {
+     "rd": "Real Decreto 431/2008",
+     "presidente": "don José Luis Rodríguez Zapatero",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2008-6470"
+    },
+    "dias": 33,
+    "en_curso": false
+   },
+   {
+    "desde_elecciones": "2011-11-20",
+    "elecciones": [
+     "2011-11-20"
+    ],
+    "rd_convocatoria": [
+     {
+      "rd": "Real Decreto 1329/2011",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15160"
+     }
+    ],
+    "hasta_nombramiento": "2011-12-20",
+    "nombramiento": {
+     "rd": "Real Decreto 1822/2011",
+     "presidente": "don Mariano Rajoy Brey",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19861"
+    },
+    "dias": 30,
+    "en_curso": false
+   },
+   {
+    "desde_elecciones": "2015-12-20",
+    "elecciones": [
+     "2015-12-20",
+     "2016-06-26"
+    ],
+    "rd_convocatoria": [
+     {
+      "rd": "Real Decreto 977/2015",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11505"
+     },
+     {
+      "rd": "Real Decreto 184/2016",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2016-4280"
+     }
+    ],
+    "hasta_nombramiento": "2016-10-30",
+    "nombramiento": {
+     "rd": "Real Decreto 414/2016",
+     "presidente": "don Mariano Rajoy Brey",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2016-9962"
+    },
+    "dias": 315,
+    "en_curso": false
+   },
+   {
+    "desde_elecciones": "2019-04-28",
+    "elecciones": [
+     "2019-04-28",
+     "2019-11-10"
+    ],
+    "rd_convocatoria": [
+     {
+      "rd": "Real Decreto 129/2019",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3109"
+     },
+     {
+      "rd": "Real Decreto 551/2019",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2019-13558"
+     }
+    ],
+    "hasta_nombramiento": "2020-01-07",
+    "nombramiento": {
+     "rd": "Real Decreto 1/2020",
+     "presidente": "don Pedro Sánchez Pérez-Castejón",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2020-231"
+    },
+    "dias": 254,
+    "en_curso": false
+   },
+   {
+    "desde_elecciones": "2023-07-23",
+    "elecciones": [
+     "2023-07-23"
+    ],
+    "rd_convocatoria": [
+     {
+      "rd": "Real Decreto 400/2023",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2023-12663"
+     }
+    ],
+    "hasta_nombramiento": "2023-11-16",
+    "nombramiento": {
+     "rd": "Real Decreto 828/2023",
+     "presidente": "don Pedro Sánchez Pérez-Castejón",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2023-23302"
+    },
+    "dias": 116,
+    "en_curso": false
+   }
+  ],
+  "no_parseados": [],
+  "nota": "Días entre la jornada electoral (según el RD de convocatoria) y el RD de nombramiento del Presidente. No incluye la etapa en funciones tras una dimisión (1981) ni la moción de censura (2018, sin periodo en funciones)."
+ },
+ "tc": {
+  "estado": "pendiente",
+  "motivo": "El TC se renueva por tercios (Congreso, Senado, Gobierno y CGPJ) con mandatos de 9 años y sustituciones por vacantes; para calcular el retraso de cada tercio hay que asignar cada magistrado a su tercio y órgano proponente, dato que solo figura en el texto o PDF de cada RD. No se publica hasta tener una codificación verificada.",
+  "consulta": "https://www.boe.es/buscar/boe.php?campo%5B0%5D=ORIS&dato%5B0%5D%5B2%5D=2&operador%5B0%5D=and&campo%5B1%5D=TITULOS&dato%5B1%5D=%22Magistrado+del+Tribunal+Constitucional%22&operador%5B1%5D=and&operador%5B6%5D=and&campo%5B6%5D=FPU&dato%5B6%5D%5B0%5D=1977-01-01&dato%5B6%5D%5B1%5D=2026-12-31&page_hits=2000&sort_field%5B0%5D=FPU&sort_order%5B0%5D=asc&accion=Buscar"
+ },
+ "cache_elecciones": {
+  "BOE-A-1979-1": {
+   "ref": "BOE-A-1979-1",
+   "rd": "Real Decreto 3073/1978",
+   "elecciones": "1979-03-01"
+  },
+  "BOE-A-1989-21483": {
+   "ref": "BOE-A-1989-21483",
+   "rd": "Real Decreto 1047/1989",
+   "elecciones": "1989-10-29"
+  },
+  "BOE-A-1993-9513": {
+   "ref": "BOE-A-1993-9513",
+   "rd": "Real Decreto 534/1993",
+   "elecciones": "1993-06-06"
+  },
+  "BOE-A-1996-508": {
+   "ref": "BOE-A-1996-508",
+   "rd": "Real Decreto 1/1996",
+   "elecciones": "1996-03-03"
+  },
+  "BOE-A-2000-1001": {
+   "ref": "BOE-A-2000-1001",
+   "rd": "Real Decreto 64/2000",
+   "elecciones": "2000-03-12"
+  },
+  "BOE-A-2004-1063": {
+   "ref": "BOE-A-2004-1063",
+   "rd": "Real Decreto 100/2004",
+   "elecciones": "2004-03-14"
+  },
+  "BOE-A-2008-641": {
+   "ref": "BOE-A-2008-641",
+   "rd": "Real Decreto 33/2008",
+   "elecciones": "2008-03-09"
+  },
+  "BOE-A-2011-15160": {
+   "ref": "BOE-A-2011-15160",
+   "rd": "Real Decreto 1329/2011",
+   "elecciones": "2011-11-20"
+  },
+  "BOE-A-2015-11505": {
+   "ref": "BOE-A-2015-11505",
+   "rd": "Real Decreto 977/2015",
+   "elecciones": "2015-12-20"
+  },
+  "BOE-A-2016-4280": {
+   "ref": "BOE-A-2016-4280",
+   "rd": "Real Decreto 184/2016",
+   "elecciones": "2016-06-26"
+  },
+  "BOE-A-2019-3109": {
+   "ref": "BOE-A-2019-3109",
+   "rd": "Real Decreto 129/2019",
+   "elecciones": "2019-04-28"
+  },
+  "BOE-A-2019-13558": {
+   "ref": "BOE-A-2019-13558",
+   "rd": "Real Decreto 551/2019",
+   "elecciones": "2019-11-10"
+  },
+  "BOE-A-2023-12663": {
+   "ref": "BOE-A-2023-12663",
+   "rd": "Real Decreto 400/2023",
+   "elecciones": "2023-07-23"
+  },
+  "BOE-A-2026-20742": {
+   "ref": "BOE-A-2026-20742",
+   "rd": "Real Decreto 806/2026",
+   "elecciones": "2026-11-29"
+  },
+  "BOE-A-1982-21846": {
+   "ref": "BOE-A-1982-21846",
+   "rd": "Real Decreto 2057/1982",
+   "elecciones": "1982-10-28"
+  },
+  "BOE-A-1986-10007": {
+   "ref": "BOE-A-1986-10007",
+   "rd": "Real Decreto 794/1986",
+   "elecciones": "1986-06-22"
+  }
+ }
+}

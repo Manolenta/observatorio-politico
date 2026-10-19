@@ -1,0 +1,28 @@
+name: Corrección de dato
+description: Una cifra del observatorio no coincide con su fuente oficial
+title: "[Dato] "
+labels: ["corrección de dato"]
+body:
+  - type: input
+    id: indicador
+    attributes: {label: Indicador y cuadro, placeholder: "Cuadro 3 · RDL por legislatura · XIV"}
+    validations: {required: true}
+  - type: input
+    id: valor_web
+    attributes: {label: Valor que muestra el observatorio}
+    validations: {required: true}
+  - type: input
+    id: valor_correcto
+    attributes: {label: Valor que crees correcto}
+    validations: {required: true}
+  - type: input
+    id: fuente
+    attributes: {label: Enlace a la fuente oficial que lo prueba, placeholder: "https://www.boe.es/..."}
+    validations: {required: true}
+  - type: input
+    id: fecha
+    attributes: {label: Fecha de consulta de la fuente, placeholder: "AAAA-MM-DD"}
+    validations: {required: true}
+  - type: textarea
+    id: detalle
+    attributes: {label: Explicación, description: "Si sabes por qué difiere (criterio de fecha, tipo de norma…), cuéntalo."}

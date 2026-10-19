@@ -1,0 +1,24 @@
+name: Nueva fuente
+description: Propón una fuente de datos pública para un indicador nuevo o existente
+title: "[Fuente] "
+labels: ["nueva fuente"]
+body:
+  - type: input
+    id: nombre
+    attributes: {label: Nombre de la fuente y organismo}
+    validations: {required: true}
+  - type: input
+    id: url
+    attributes: {label: URL (idealmente API o descarga en CSV/JSON)}
+    validations: {required: true}
+  - type: dropdown
+    id: cuadro
+    attributes: {label: Cuadro, options: ["1 · Macro", "2 · Promesas", "3 · Calidad democrática", "4 · Corrupción", "Otro"]}
+    validations: {required: true}
+  - type: input
+    id: licencia
+    attributes: {label: Licencia o condiciones de reutilización}
+  - type: textarea
+    id: que_mide
+    attributes: {label: Qué mide, cobertura temporal y periodicidad}
+    validations: {required: true}

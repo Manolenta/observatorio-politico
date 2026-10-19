@@ -8,13 +8,15 @@ os.makedirs(DATA, exist_ok=True)
 UA = {"User-Agent": "ObservatorioCalidadPolitica/0.1 (datos abiertos; contacto en README)"}
 
 def now_iso():
-    return datetime.datetime.now().astimezone().isoformat(timespec="seconds")
+    from zoneinfo import ZoneInfo
+    return datetime.datetime.now(ZoneInfo("Europe/Madrid")).isoformat(timespec="seconds")
 
 def get(url, tries=4, timeout=120, **kw):
     last = None
+    h = {**UA, **kw.pop("headers", {})}
     for i in range(tries):
         try:
-            r = requests.get(url, headers={**UA, **kw.pop("headers", {})}, timeout=timeout, **kw)
+            r = requests.get(url, headers=h, timeout=timeout, **kw)
             r.raise_for_status()
             return r
         except Exception as e:  # noqa

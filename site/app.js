@@ -30,7 +30,7 @@ function card(parent, title, srcHtml) {
 const last = s => { const ks = Object.keys(s || {}).filter(y => /^\d{4}$/.test(y)).sort(); return ks.length ? [ks[ks.length - 1], s[ks[ks.length - 1]]] : [null, null]; };
 
 // Cabecera
-document.getElementById('meta').innerHTML = `Datos generados: ${fecha(O.generado)} · XV Legislatura: Cortes disueltas el 6-10-2026 (${link('https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742', 'RD 806/2026')}); elecciones el 29-11-2026.`;
+document.getElementById('meta').innerHTML = `Última actualización de datos: <b>${fecha((O.changelog && O.changelog.ultima_actualizacion_datos) || O.generado)}</b> (última comprobación ${fecha((O.changelog && O.changelog.ultima_ejecucion) || O.generado)}; ${link('https://github.com/Manolenta/observatorio-politico/blob/main/CHANGELOG.md', 'registro de cambios')}) · XV Legislatura: Cortes disueltas el 6-10-2026 (${link('https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742', 'RD 806/2026')}); elecciones el 29-11-2026.`;
 
 // 1 · MACRO
 (function () {
@@ -120,4 +120,35 @@ function selector(selId, cvId, srcId, cuadro) {
     ys.map(y => { const r = A[y]; return `<tr><td>${y}</td><td class="n">${r.trimestres}</td><td class="n">${r.personas_fisicas}</td><td class="n">${r.personas_juridicas}</td><td class="n">${r.procedimientos}</td><td class="n">${r.cond_conformidad}</td><td class="n">${r.cond_sin_conformidad}</td><td class="n">${r.parc_condenatorias}</td><td class="n">${r.absolutorias}</td><td class="n">${r.otras_causas}</td></tr>`; }).join('') + '</table>';
   selector('sel-cor', 'ch-cor', 'src-cor', 'corrupcion');
   document.getElementById('man-cor').innerHTML = ((O.manual && O.manual.manuales_corrupcion) || []).map(m => `<li><b>${m.nombre}</b>: ${m.estado === 'pendiente' ? '<span class="pend">pendiente</span> ' + m.motivo : m.valor} · ${link(m.url, 'fuente')}</li>`).join('');
+})();
+
+(function () {
+  const D = O.institucional || {}; const pend = t => `<span class="pend">pendiente</span> ${t}`;
+  const F = D.funciones || {};
+  if (F.periodos) {
+    new Chart(document.getElementById('ch-func'), {type: 'bar', data: {labels: F.periodos.map(p => p.elecciones.map(e => e.slice(0, 4)).join('+')),
+      datasets: [{label: 'Días desde las elecciones hasta el nombramiento del Presidente', data: F.periodos.map(p => p.dias), backgroundColor: '#ef6c00'}]},
+      options: {plugins: {tooltip: {callbacks: {afterLabel: c => { const p = F.periodos[c.dataIndex]; return `${p.desde_elecciones} → ${p.hasta_nombramiento}` + (p.nombramiento ? ` (${p.nombramiento.rd})` : ''); }}}}}});
+    document.getElementById('src-func').innerHTML = `Fuente: BOE. Fecha de las elecciones según cada RD de convocatoria (${F.periodos.flatMap(p => p.rd_convocatoria).map(r => link(r.url, r.rd.replace('Real Decreto', 'RD'))).join(', ')}); fin según el RD de nombramiento del Presidente. ${F.nota} Las repeticiones electorales (2015-16 y 2019) se suman en un solo periodo. Extraído ${fecha(D.extraido)}.`;
+  } else document.getElementById('src-func').innerHTML = pend(F.error || '');
+  const P = D.presupuestos || {};
+  if (P.años) {
+    const malos = P.años.filter(a => a.estado !== 'aprobados en plazo');
+    const tot = P.años.filter(a => a.estado === 'prorrogados todo el año').length;
+    document.getElementById('tabla-pge').innerHTML = `<p><b>${tot}</b> años sin ley de Presupuestos propia (prorrogados todo el año) y <b>${malos.length - tot}</b> con ley publicada después del 1 de enero, entre 1978 y ${P.años[P.años.length - 1].año}.</p><table><tr><th>Año</th><th>Situación</th><th>Ley</th><th>Publicada</th></tr>` +
+      malos.map(a => `<tr><td>${a.año}</td><td>${a.estado}</td><td>${a.ley ? link(a.url, a.ley) : '—'}</td><td>${a.publicada || '—'}</td></tr>`).join('') + '</table>';
+    document.getElementById('src-pge').innerHTML = `Fuente: ${link(P.consulta, 'BOE, Sección I: leyes «de Presupuestos Generales del Estado para…»')}. Un año sin ley propia funciona con los presupuestos prorrogados del anterior (art. 134.4 CE). Los años sin incidencias no se muestran.`;
+  }
+  const C = D.cgpj || {};
+  if (C.renovaciones) {
+    document.getElementById('tabla-cgpj-ren').innerHTML = `<table><tr><th>Renovación</th><th>Mandato anterior vencía (aprox.)</th><th>Días de retraso (aprox.)</th><th>BOE</th></tr>` +
+      C.renovaciones.map(r => `<tr><td>${r.renovacion}</td><td>${r.mandato_anterior_vence_aprox || '—'}</td><td>${r.dias_retraso_aprox ?? '—'}</td><td>${r.rds.map(x => link(x.url, x.camara)).join(' · ')}</td></tr>`).join('') + '</table>';
+    document.getElementById('src-cgpj-ren').innerHTML = `Fuente: ${link(C.consulta, 'BOE, Sección II: RD de nombramiento de Vocales del CGPJ')} (renovaciones completas: Congreso y Senado el mismo día; se excluyen los nombramientos parciales de 1989 y 1994). ${C.nota}`;
+  }
+  const R = D.rdl_proyecto_xv || {};
+  document.getElementById('rdl-pl').innerHTML = R.tramitados_como_proyecto !== undefined ?
+    `<p><b>XV Legislatura:</b> ${R.tramitados_como_proyecto} reales decretos-leyes se tramitaron además como proyecto de ley; <b>${R.terminados_como_ley}</b> terminaron en ley y ${R.caducados} caducaron (por la disolución o por quedar en plazo de enmiendas).</p><p><b>Legislaturas anteriores:</b> ${pend(R.nota)}</p>` : pend(R.error || '');
+  if (R.fuente) document.getElementById('src-rdl-pl').innerHTML = `Fuente: ${link(R.web, 'Congreso de los Diputados, datos abiertos')} (${link(R.fuente, 'Proyectos de ley, JSON')}): proyectos cuyo objeto dice «procedente del Real Decreto-ley».`;
+  const T = D.tc || {};
+  document.getElementById('tc').innerHTML = `<p><b>Retraso en la renovación del Tribunal Constitucional:</b> ${pend(T.motivo || '')} ${T.consulta ? link(T.consulta, 'Nombramientos en el BOE') : ''}</p>`;
 })();

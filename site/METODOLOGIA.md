@@ -153,6 +153,24 @@ Es un hecho registral: Ley 46/1977 y Ley Orgánica 1/2024 (BOE-A-2024-11776). Se
 - Hay desfase temporal: el índice de un año refleja en parte el anterior.
 - Usar índices que dependen unos de otros como si fueran independientes. Por ejemplo, el TI-CPI incorpora V-Dem y WJP.
 
+### 3.5 Indicadores institucionales (dato propio a partir del BOE y del Congreso; `scripts/fetch_institucional.py`)
+
+- **Días de Gobierno en funciones tras unas elecciones.** Se cuentan desde la jornada electoral hasta el real decreto de nombramiento del Presidente del Gobierno. La fecha de las elecciones sale del texto de cada RD de disolución. Los RD de 1979, 1982 y 1986 solo existen en PDF en el BOE: se leyeron con `pdftotext` y quedan guardados en caché, con su referencia BOE, en `data/institucional.json`. Cuando se repiten elecciones sin investidura (2015-2016 y 2019) se cuenta un solo periodo. No se incluyen la etapa en funciones de 1981 (dimisión) ni la de 2018 (moción de censura). Las elecciones de 1977 no tienen RD de disolución y quedan fuera.
+- **Años con Presupuestos prorrogados.** Un año sin «Ley N/AAAA … de Presupuestos Generales del Estado para AAAA» publicada en el BOE cuenta como «prorrogados todo el año» (art. 134.4 CE). Si la ley se publicó después del 1 de enero, el año cuenta como «prórroga parcial».
+- **Retraso en la renovación del CGPJ.** Se compara cada renovación completa (dos RD el mismo día, uno a propuesta del Congreso y otro del Senado) con la anterior más 5 años. Es una aproximación con la fecha del RD (±10 días respecto a la constitución del Consejo). Se excluyen los nombramientos parciales de 1989 y 1994, que fueron sustituciones.
+- **RDL tramitados como proyecto de ley.** Para la XV Legislatura se usan los datos abiertos del Congreso: proyectos de ley «procedente del Real Decreto-ley». Para las legislaturas anteriores el dato está **pendiente**: el Congreso solo publica en abierto la legislatura en curso, y los acuerdos de convalidación del BOE no dicen si se acordó tramitarlos como proyecto.
+- **Retraso en la renovación del Tribunal Constitucional.** **Pendiente.** El TC se renueva por tercios, con cuatro órganos proponentes y con sustituciones por vacante. Para calcular el retraso habría que asignar cada nombramiento del BOE a su tercio, y eso solo puede hacerse leyendo cada RD a mano.
+
+### 3.6 Validación y registro de cambios
+
+Antes de publicar, `scripts/validate.py` comprueba lo siguiente:
+- que no aparezcan huecos nuevos en la numeración del BOE (hay 35 conocidos y revisados);
+- que no haya saltos anómalos (×4 o más) entre años completos del CGPJ;
+- que todo dato manual tenga URL y fecha;
+- que los enlaces respondan. Un enlace roto solo genera un aviso.
+
+Si hay errores, el workflow no publica y abre un issue. `scripts/changelog.py` anota en `data/changelog.json` y en `CHANGELOG.md` las cifras clave que cambian en cada actualización.
+
 ## 4. Cuadro 4: corrupción
 
 | Indicador | Definición | Fuente | API | Frecuencia |

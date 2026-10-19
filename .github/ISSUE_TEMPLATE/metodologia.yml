@@ -1,0 +1,16 @@
+name: Metodología
+description: Discute un criterio de cálculo, una definición o un sesgo posible
+title: "[Metodología] "
+labels: ["metodología"]
+body:
+  - type: input
+    id: apartado
+    attributes: {label: Indicador o apartado de METODOLOGIA.md}
+    validations: {required: true}
+  - type: textarea
+    id: problema
+    attributes: {label: Qué criterio cuestionas y por qué}
+    validations: {required: true}
+  - type: textarea
+    id: propuesta
+    attributes: {label: Alternativa propuesta, description: "Con referencias (normativa, literatura, otros observatorios) si las hay."}

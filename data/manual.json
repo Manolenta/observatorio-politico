@@ -26,7 +26,7 @@
  ],
  "manuales_democracia": [
   {"nombre": "EIU Democracy Index", "estado": "pendiente", "url": "https://www.eiu.com/n/campaigns/democracy-index-2024/", "motivo": "Licencia no redistribuible; transcribir del informe anual"},
-  {"nombre": "Informe sobre el Estado de Derecho (Comisión Europea), capítulo España", "estado": "pendiente", "url": "https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/upholding-rule-law/rule-law/rule-law-report_es", "motivo": "Cualitativo: registrar recomendaciones y su seguimiento (sin nota numérica)"},
+  {"nombre": "Informe sobre el Estado de Derecho (Comisión Europea), capítulo España", "estado": "pendiente", "url": "https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/upholding-rule-law/rule-law_es", "motivo": "Cualitativo: registrar recomendaciones y su seguimiento (sin nota numérica)"},
   {"nombre": "World Justice Project Rule of Law Index", "estado": "pendiente", "url": "https://worldjusticeproject.org/rule-of-law-index/country/Spain", "motivo": "Descarga Excel anual; no integrado aún"},
   {"nombre": "Consejo de Transparencia y Buen Gobierno: reclamaciones y cumplimiento de resoluciones", "estado": "pendiente", "url": "https://www.consejodetransparencia.es/", "motivo": "Memorias anuales en PDF; no integrado aún"},
   {"nombre": "Amnistías", "estado": "dato", "valor": "Ley Orgánica 1/2024, de 10 de junio, de amnistía (única ley de amnistía desde la Ley 46/1977)", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-11776"}
