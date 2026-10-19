@@ -1,0 +1,38 @@
+CÓDIGO (scripts/, site/*.js, site/*.html, site/*.css, .github/)
+================================================================
+MIT License
+
+Copyright (c) 2026 Fernando Reverte
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+site/vendor/chart.umd.min.js: Chart.js, licencia MIT (https://www.chartjs.org).
+
+DATOS (data/, site/data.js)
+===========================
+Los datos no son obra de este proyecto y pertenecen a sus fuentes, que hay que citar al reutilizarlos:
+- Eurostat: © Unión Europea, reutilización con atribución (Decisión 2011/833/UE).
+- Banco Mundial (incl. WGI): CC BY 4.0.
+- FMI World Economic Outlook: términos de uso del FMI, con atribución.
+- BOE: reutilización libre con cita de la fuente (Ley 37/2007 y RD 1495/2011).
+- CGPJ (Repositorio de datos sobre procesos por corrupción): información pública, con atribución.
+- V-Dem, Freedom House y Transparency International, vía Our World in Data (CC BY 4.0), además de la cita de la fuente original.
+- Newtral PactoCheck: se cita y se enlaza; no se redistribuye su base de datos.
+EXCLUIDO: el EIU Democracy Index NO se incluye ni se redistribuye (licencia restrictiva).
+Los textos de METODOLOGIA.md, README.md y CONTRIBUTING.md: CC BY 4.0.

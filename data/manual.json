@@ -1,0 +1,40 @@
+{
+ "nota": "Datos recopilados a mano (no tienen API). Cada registro lleva fuente y fecha de consulta. Revisar en cada actualización.",
+ "consultado": "2026-10-19",
+ "pactocheck": {
+  "fuente": "Newtral PactoCheck", "url": "https://pactocheck.newtral.es/",
+  "url_balance": "https://www.newtral.es/gobierno-medidas-pactos-investidura-sanchez/20260723/",
+  "fecha_dato": "2026-06-22", "total": 50, "cumplidas": 7, "en_progreso": 27, "incumplidas": 5, "pendientes": 11,
+  "aviso": "Dato previo a la disolución de las Cortes (6-10-2026): las iniciativas 'en progreso' que estaban en tramitación parlamentaria decaen."
+ },
+ "promesas": [
+  {"promesa": "Ley de amnistía", "origen": "Pactos PSOE-ERC/Junts", "estado": "cumplida", "evidencia": "Publicada en BOE el 11-6-2024", "url": "https://www.newtral.es/gobierno-medidas-pactos-investidura-sanchez/20260723/"},
+  {"promesa": "Reforma art. 49 CE (suprimir 'disminuidos')", "origen": "Pacto PSOE-Sumar", "estado": "cumplida", "evidencia": "Reforma constitucional PSOE-PP 2024", "url": "https://pactocheck.newtral.es/medida-pck/culminar-la-reforma-del-articulo-49-de-la-constitucion-para-suprimir-el-termino-disminuidos/"},
+  {"promesa": "Ley de representación paritaria", "origen": "Pacto PSOE-Sumar", "estado": "cumplida", "evidencia": "Mínimo 40% de mujeres en consejos de cotizadas y grandes entidades", "url": "https://pactocheck.newtral.es/medida-pck/aprobar-la-ley-de-representacion-paritaria/"},
+  {"promesa": "Tributación mínima del 15% para grandes empresas", "origen": "Pacto PSOE-Sumar", "estado": "cumplida", "evidencia": "Transposición del impuesto mínimo global (Ley 7/2024)", "url": "https://pactocheck.newtral.es/medida-pck/conseguir-que-la-grandes-empresas-tributen-el-15-efectivo-de-las-ganancias-por-el-impuesto-de-sociedades/"},
+  {"promesa": "Ampliar permiso por nacimiento", "origen": "Pacto PSOE-Sumar", "estado": "cumplida", "evidencia": "RDL 9/2025: 19 semanas por progenitor (32 monoparentales). Permiso parental retribuido de 8 semanas: no verificado", "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15741"},
+  {"promesa": "SMI al 60% del salario medio", "origen": "Pacto PSOE-Sumar", "estado": "parcial", "evidencia": "SMI 2026: 1.221 €/mes (BOE 18-2-2026). Alcance del 60% no verificado", "url": "https://www.lamoncloa.gob.es/lang/en/gobierno/news/paginas/2024/minimum-wage-spain-smi.aspx"},
+  {"promesa": "Traspaso integral de Rodalies", "origen": "Pacto PSOE-ERC", "estado": "parcial", "evidencia": "Sociedad Rodalies de Catalunya creada en enero de 2026; traspaso no culminado", "url": "https://www.newtral.es/gobierno-medidas-pactos-investidura-sanchez/20260723/"},
+  {"promesa": "Jornada laboral de 37,5 h", "origen": "Pacto PSOE-Sumar", "estado": "incumplida", "evidencia": "Congreso tumbó la proposición (feb-2025) y el proyecto (2025)", "url": "https://pactocheck.newtral.es/medida-pck/reducir-la-jornada-laboral-a-37-horas-y-media-semanales/"},
+  {"promesa": "Reformar/derogar la 'ley mordaza'", "origen": "Pacto PSOE-Sumar / socios", "estado": "incumplida", "evidencia": "Proposición registrada en oct-2024, atascada en comisión; decae con la disolución", "url": "https://www.newtral.es/gobierno-medidas-pactos-investidura-sanchez/20260723/"},
+  {"promesa": "Ley integral contra la trata", "origen": "Pacto PSOE-Sumar", "estado": "incumplida", "evidencia": "Anteproyecto (mar-2024) sin segunda vuelta; legislatura terminada", "url": "https://www.newtral.es/gobierno-medidas-pactos-investidura-sanchez/20260723/"},
+  {"promesa": "Condonación de deuda autonómica (FLA)", "origen": "Pacto PSOE-ERC", "estado": "incumplida", "evidencia": "Proyecto no culminado; decae con la disolución", "url": "https://noticiasciudadanas.com/la-legislatura-termina-sin-nuevos-presupuestos-y-deja-en-el-aire-la-condonacion-de-la-deuda-autonomica-y-decenas-de-leyes/"},
+  {"promesa": "Transferir a Euskadi competencias pendientes en 2 años", "origen": "Pacto PSOE-PNV", "estado": "incumplida", "evidencia": "10 traspasadas, 22 pendientes (jul-2026)", "url": "https://www.newtral.es/gobierno-medidas-pactos-investidura-sanchez/20260723/"},
+  {"promesa": "Tiempos máximos de espera sanitaria por ley", "origen": "Pacto PSOE-Sumar", "estado": "incumplida", "evidencia": "Newtral: pendiente, sin tramitar", "url": "https://www.newtral.es/gobierno-medidas-pactos-investidura-sanchez/20260723/"},
+  {"promesa": "Ayudas para gafas y lentillas", "origen": "Pacto PSOE-Sumar", "estado": "incumplida", "evidencia": "RD oct-2025 solo hasta 16 años (excluye 17-18)", "url": "https://www.newtral.es/gobierno-medidas-pactos-investidura-sanchez/20260723/"},
+  {"promesa": "Aprobar Presupuestos Generales del Estado", "origen": "Programa PSOE / acción de gobierno", "estado": "incumplida", "evidencia": "PGE 2023 prorrogados en 2024, 2025 y 2026", "url": "https://www.abc.es/espana/sanchez-completa-legislatura-leyes-aprobadas-democracia-20261012011805-nt.html"}
+ ],
+ "manuales_democracia": [
+  {"nombre": "EIU Democracy Index", "estado": "pendiente", "url": "https://www.eiu.com/n/campaigns/democracy-index-2024/", "motivo": "Licencia no redistribuible; transcribir del informe anual"},
+  {"nombre": "Informe sobre el Estado de Derecho (Comisión Europea), capítulo España", "estado": "pendiente", "url": "https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/upholding-rule-law/rule-law/rule-law-report_es", "motivo": "Cualitativo: registrar recomendaciones y su seguimiento (sin nota numérica)"},
+  {"nombre": "World Justice Project Rule of Law Index", "estado": "pendiente", "url": "https://worldjusticeproject.org/rule-of-law-index/country/Spain", "motivo": "Descarga Excel anual; no integrado aún"},
+  {"nombre": "Consejo de Transparencia y Buen Gobierno: reclamaciones y cumplimiento de resoluciones", "estado": "pendiente", "url": "https://www.consejodetransparencia.es/", "motivo": "Memorias anuales en PDF; no integrado aún"},
+  {"nombre": "Amnistías", "estado": "dato", "valor": "Ley Orgánica 1/2024, de 10 de junio, de amnistía (única ley de amnistía desde la Ley 46/1977)", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-11776"}
+ ],
+ "manuales_corrupcion": [
+  {"nombre": "TI Índice de Percepción de la Corrupción 2025", "estado": "dato", "valor": "55/100, puesto 49/182 (2024: 56)", "url": "https://transparencia.org.es/actualidad/indice-de-percepcion-de-la-corrupcion-2025/"},
+  {"nombre": "GRECO: cumplimiento de recomendaciones (5ª ronda)", "estado": "pendiente", "url": "https://www.coe.int/es/web/greco/evaluations/spain", "motivo": "Informes PDF; registrar nº de recomendaciones cumplidas/parciales/no cumplidas"},
+  {"nombre": "Eurobarómetro especial sobre corrupción", "estado": "pendiente", "url": "https://europa.eu/eurobarometer/surveys/browse/all/series/4961", "motivo": "Microdatos/Informe por país; no integrado aún"},
+  {"nombre": "Causas archivadas, prescritas o anuladas por defectos procesales", "estado": "pendiente", "url": "https://www.poderjudicial.es/cgpj/es/Temas/Transparencia/Repositorio-de-datos-sobre-procesos-por-corrupcion/", "motivo": "No existe estadística oficial que desglose el motivo. El CGPJ solo da 'terminados por otras causas'. Requiere base de datos de casos (CENDOJ + prensa) con revisión humana"}
+ ]
+}

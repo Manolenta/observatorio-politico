@@ -1,0 +1,378 @@
+<!doctype html><html lang=es><head><meta charset=utf-8><title>Metodología</title><link rel=stylesheet href=style.css><style>main{max-width:1000px;background:#fff;padding:20px 30px}</style></head><body><main><p><a href=index.html>← Volver</a></p><h1>Metodología del Observatorio de calidad política (España)</h1>
+<p>Versión 0.1 · 19-10-2026 · Prototipo</p>
+<h2>0. Principios</h2>
+<ol>
+<li><strong>Primero el dato bruto y su fuente.</strong> Cada cifra lleva la fuente original con enlace, la consulta exacta (URL de API o búsqueda) y la fecha de extracción. Quien quiera puede repetir la consulta y obtener lo mismo.</li>
+<li><strong>Sin índice compuesto propio.</strong> No hay ponderaciones ni una nota final del gobierno. Si en el futuro se muestra alguna agregación, debe ser opcional, con los pesos visibles y modificables por el usuario y con el dato bruto al lado.</li>
+<li><strong>Hechos separados de valoraciones.</strong> Etiquetas:</li>
+<li><em>Hecho registral</em>: BOE, CGPJ, Eurostat.</li>
+<li><em>Índice de expertos o de percepción</em>: V-Dem, Freedom House, TI-CPI, WGI, EIU.</li>
+<li><em>Valoración de terceros</em>: verificadores como Newtral.
+   No se mezclan en un mismo gráfico.</li>
+<li><strong>Huecos visibles.</strong> Lo que no se ha podido obtener aparece como <code>pendiente</code>, nunca estimado ni interpolado.</li>
+<li><strong>Mismos criterios para todos los gobiernos.</strong> Mismas consultas y mismas reglas de asignación temporal para todas las legislaturas desde 1977.</li>
+<li><strong>Comparación internacional.</strong> Siempre que haya datos: España frente a UE-27, zona euro, Alemania, Francia, Italia y Portugal.</li>
+</ol>
+<h2>1. Cuadro 1: datos macroeconómicos</h2>
+<table>
+<thead>
+<tr>
+<th>Indicador</th>
+<th>Definición</th>
+<th>Fuente / conjunto de datos</th>
+<th>API</th>
+<th>Frecuencia</th>
+<th>Desde</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Crecimiento real del PIB</td>
+<td>% de variación anual del PIB en volumen</td>
+<td>Eurostat <code>tec00115</code></td>
+<td>Sí (JSON-stat, sin clave)</td>
+<td>Anual (y trimestral)</td>
+<td>2014 en este conjunto; FMI desde 1980</td>
+</tr>
+<tr>
+<td>PIB per cápita en PPA</td>
+<td>Índice de volumen, UE27=100</td>
+<td>Eurostat <code>tec00114</code></td>
+<td>Sí</td>
+<td>Anual</td>
+<td>2014 (otros conjuntos llegan a 1995)</td>
+</tr>
+<tr>
+<td>PIB per cápita PPA</td>
+<td>$ internacionales constantes de 2021</td>
+<td>Banco Mundial <code>NY.GDP.PCAP.PP.KD</code></td>
+<td>Sí (API v2)</td>
+<td>Anual</td>
+<td>1990</td>
+</tr>
+<tr>
+<td>Tasa de paro</td>
+<td>% de población activa, 15-74 años</td>
+<td>Eurostat <code>une_rt_a</code> (EPA armonizada)</td>
+<td>Sí</td>
+<td>Anual (mensual en <code>une_rt_m</code>)</td>
+<td>2009 aquí (FMI <code>LUR</code> desde 1980)</td>
+</tr>
+<tr>
+<td>Paro juvenil</td>
+<td>15-24 años</td>
+<td>Eurostat <code>une_rt_a</code></td>
+<td>Sí</td>
+<td>Anual</td>
+<td>2009</td>
+</tr>
+<tr>
+<td>Deuda pública</td>
+<td>% del PIB según el Protocolo de Déficit Excesivo</td>
+<td>Eurostat <code>gov_10dd_edpt1</code> (GD, S13)</td>
+<td>Sí</td>
+<td>Anual (notificaciones de abril y octubre)</td>
+<td>1995 (FMI <code>GGXWDG_NGDP</code> desde 1980)</td>
+</tr>
+<tr>
+<td>Déficit / superávit</td>
+<td>B9, % del PIB</td>
+<td>Eurostat <code>gov_10dd_edpt1</code> (B9)</td>
+<td>Sí</td>
+<td>Anual</td>
+<td>1995 (FMI <code>GGXCNL_NGDP</code>)</td>
+</tr>
+<tr>
+<td>Inflación</td>
+<td>IPCA, tasa media anual</td>
+<td>Eurostat <code>prc_hicp_aind</code> (CP00, RCH_A_AVG)</td>
+<td>Sí</td>
+<td>Anual (mensual en <code>prc_hicp_manr</code>)</td>
+<td>1996 (FMI <code>PCPIPCH</code> desde 1980)</td>
+</tr>
+<tr>
+<td>Productividad</td>
+<td>PIB por hora trabajada en PPS, UE27=100</td>
+<td>Eurostat <code>tesem160</code> (NLPR_HW)</td>
+<td>Sí</td>
+<td>Anual</td>
+<td>2005</td>
+</tr>
+<tr>
+<td>Series largas</td>
+<td>Paro, deuda, saldo, PIB, IPC</td>
+<td>FMI World Economic Outlook (DataMapper API)</td>
+<td>Sí</td>
+<td>Semestral (abril y octubre)</td>
+<td>1980</td>
+</tr>
+</tbody>
+</table>
+<p>Enlaces:
+- Eurostat: https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/
+- Banco Mundial: https://api.worldbank.org/v2/
+- FMI: https://www.imf.org/external/datamapper/api/v1/</p>
+<p><strong>Pendientes / ampliaciones:</strong>
+- OCDE (SDMX, https://sdmx.oecd.org/public/rest/): productividad multifactorial y salario real.
+- INE (API JSON Tempus3, https://servicios.ine.es/wstempus/js/): EPA trimestral, IPC mensual y AROPE.
+- BCE Data Portal (https://data-api.ecb.europa.eu/): prima de riesgo y tipos.</p>
+<p>Hay que verificar estas tres con sus API antes de integrarlas.</p>
+<p><strong>Comparar entre legislaturas:</strong>
+- Para cada legislatura se muestra el valor en el año de inicio y en el del final, y su diferencia frente a la UE-27 en esos mismos años. La diferencia relativa con la UE neutraliza buena parte del ciclo común.
+- Las series se marcan con líneas verticales en el inicio de cada legislatura. Esto es una referencia temporal, no una atribución.</p>
+<p><strong>Riesgos de sesgo:</strong>
+- <em>Atribución causal.</em> El paro, la deuda o la inflación dependen del ciclo global, de la política monetaria del BCE (desde 1999), de shocks como la COVID o la energía y de inercias de gobiernos anteriores. La web dice explícitamente que no atribuye.
+- <em>Elección del año base.</em> Usar siempre año de inicio y año de fin completos, sin escoger el más favorable.
+- <em>Revisiones.</em> Eurostat y el FMI revisan sus series. Se guarda la fecha de actualización en origen (campo <code>actualizado_fuente</code>). Conviene archivar cada extracción (git) para poder reconstruir lo que se publicó.
+- <em>Proyecciones.</em> El WEO incluye estimaciones y proyecciones. En la web aparecen con trazo discontinuo para los años ≥ año actual.
+- <em>Rupturas de serie.</em> EPA 2005, SEC 2010 y cambios de base del IPC. Hay que documentarlas en cada gráfico cuando se amplíe.</p>
+<h2>2. Cuadro 2: cumplimiento de promesas</h2>
+<p><strong>Indicadores:</strong>
+- (a) Recuento de Newtral PactoCheck: 50 compromisos de los pactos de gobierno e investidura de 2023, clasificados en cumplida, en progreso, pendiente o incumplida.
+- (b) Tabla curada de promesas clave con estado y evidencia documental, preferentemente del BOE.
+- (c) Futuro: cruce programa ↔ votaciones, como hace El Congreso en tu mano (https://elcongresoentumano.es/programas).</p>
+<p><strong>Fuentes:</strong>
+- https://pactocheck.newtral.es/ (metodología: https://www.newtral.es/pactocheck-metodologia/)
+- Programas electorales en PDF de cada partido
+- Acuerdos de investidura
+- BOE
+- Autoevaluación del Gobierno «Cumpliendo» (https://www.lamoncloa.gob.es/paginas/cumpliendo/index.aspx), etiquetada como <em>autoevaluación</em> y nunca usada como fuente única</p>
+<p><strong>API:</strong> no hay. Hay que recopilar a mano en <code>data/manual.json</code>, una vez al mes o cuando el verificador actualice.</p>
+<p><strong>Reglas:</strong>
+- «Cumplida» = norma publicada en el BOE, o medida ejecutada y verificable.
+- «Parcial» = existe la norma, pero con un alcance menor que el prometido.
+- «En trámite» = iniciativa viva en las Cortes o en el Consejo de Ministros.
+- «Incumplida» = descartada, plazo vencido o iniciativa decaída al disolverse las Cortes.
+- Cada estado lleva su enlace.</p>
+<p><strong>Comparar entre legislaturas:</strong> solo con una misma metodología. Hay que aplicar el mismo criterio de selección de promesas, por ejemplo las N promesas concretas y medibles del programa ganador y de los pactos, a cada legislatura. No hay series comparables antes de 2019; hay que construirlas.</p>
+<p><strong>Riesgos de sesgo:</strong>
+- La selección de qué promesas se miden: publicar la lista completa y el criterio de selección.
+- Las promesas vagas («impulsar», «fomentar»): se excluyen, como hace Newtral.
+- Un gobierno en minoría no puede cumplir lo que el Congreso rechaza. Hay que separar <em>no presentado</em> de <em>presentado y rechazado</em>.
+- El estado de una promesa cambia con el tiempo: guardar el histórico con fecha.
+- La oposición (PP, Vox) no gobierna a nivel estatal. Su cumplimiento se mide en los gobiernos autonómicos con una metodología aparte, sin mezclarlo en el mismo gráfico.</p>
+<h2>3. Cuadro 3: calidad democrática</h2>
+<h3>3.1 Producción normativa: leyes frente a reales decretos-leyes (dato propio a partir del BOE)</h3>
+<p><strong>Definiciones:</strong>
+- Normas de la <em>Jefatura del Estado</em> publicadas en la Sección I del BOE cuyo título empieza por «Ley», «Ley Orgánica» o «Real Decreto-ley» con número N/AAAA.
+- Cada norma se asigna a la legislatura según su <strong>fecha de disposición</strong>.
+- Cada legislatura va desde su sesión constitutiva del Congreso hasta la siguiente. Incluye el periodo tras la disolución, porque se sancionan leyes ya aprobadas y la Diputación Permanente convalida RDL.</p>
+<p><strong>Indicadores:</strong>
+- Número de leyes ordinarias, leyes orgánicas y RDL.
+- RDL por año y leyes por año, para normalizar por la duración de la legislatura.
+- Ratio RDL / (leyes + leyes orgánicas).
+- RDL derogados, es decir, no convalidados por el Congreso. Se cuentan los «Acuerdo de derogación» publicados en el BOE.
+- RDL convalidados (acuerdos de convalidación publicados).</p>
+<p><strong>Fuentes:</strong>
+- Buscador oficial del BOE (https://www.boe.es/buscar/boe.php), consulta por título y año (Sección I).
+- Complemento con la API de legislación consolidada (https://www.boe.es/datosabiertos/api/legislacion-consolidada).
+- Script <code>scripts/fetch_boe.py</code>. Las URL de cada consulta quedan en <code>data/boe_normas.json</code> (campo <code>consultas</code>) y cada norma con su referencia BOE.</p>
+<p><strong>Control de calidad:</strong>
+- Se comprueba que la numeración anual sea continua (1..N). Quedan 35 números sin localizar de unas 2.850 normas (alrededor del 1,2%). 30 son de 1977-1985 (algunos de 1977 son anteriores a julio y quedan fuera del periodo), 4 de 2001 y 1 de 2004 (RDL 6/2004). Probablemente se deben a títulos con formato atípico o a erratas en la fuente. Ninguno es de la XII Legislatura ni posterior. Se listan al ejecutar la validación.
+- Contraste con prensa (ABC, 15-10-2026):
+  - XII Legislatura: ABC cuenta 39 leyes y 63 RDL convalidados; aquí salen 39 y 63. <strong>Coincide.</strong>
+  - XV Legislatura: ABC cuenta 43 RDL convalidados; aquí salen 43. <strong>Coincide.</strong> ABC cuenta 37 leyes; aquí salen 34 (21 + 13 orgánicas). La diferencia está por explicar; puede deberse al criterio de recuento.
+- Los acuerdos de convalidación solo tienen un título homogéneo desde mediados de los años 2000, así que la columna «convalidados» no es fiable antes de esa época. Los «derogados» sí parecen completos (RDL 1/2006, 4/2017, 21/2018, 27/2020, 7/2023…), pero conviene contrastarlos con el Congreso.</p>
+<p><strong>Frecuencia:</strong> diaria (BOE). Se puede ejecutar una vez por semana.</p>
+<p><strong>Riesgos de sesgo:</strong>
+- Los RDL están justificados en crisis como la COVID (2020-2021) o la DANA. Hay que mostrar el contexto, no solo el número.
+- Las legislaturas cortas o en funciones (XI, XIII) distorsionan las medias: normalizar por año y señalarlas.
+- Una ley no equivale a otra (una ley ómnibus frente a una de artículo único). Ampliación posible: número de artículos o palabras.
+- Los RDL que se tramitan después como proyecto de ley pueden acabar contando dos veces. Ampliación: marcar los RDL «tramitados como proyecto de ley».</p>
+<h3>3.2 Indultos</h3>
+<ul>
+<li><strong>Definición:</strong> reales decretos publicados en la Sección III del BOE con «se indulta» en el título, por año de publicación.</li>
+<li><strong>Fuente:</strong> buscador oficial del BOE (mismo script).</li>
+<li><strong>Contraste:</strong> El Indultómetro de Civio (https://civio.es/el-indultometro/).</li>
+<li><strong>Riesgos:</strong></li>
+<li>Desde 2012-2013 bajan mucho por un cambio de criterio y de demanda, no solo por el gobierno.</li>
+<li>Un indulto parcial y uno total no son comparables.</li>
+<li>Algunos RD pueden afectar a más de una persona.</li>
+<li>Se recomienda añadir el tipo de delito (Civio lo clasifica).</li>
+</ul>
+<h3>3.3 Amnistías</h3>
+<p>Es un hecho registral: Ley 46/1977 y Ley Orgánica 1/2024 (BOE-A-2024-11776). Se muestra como hecho, sin puntuación.</p>
+<h3>3.4 Índices internacionales (de expertos o de percepción)</h3>
+<table>
+<thead>
+<tr>
+<th>Índice</th>
+<th>Escala</th>
+<th>Fuente</th>
+<th>Descarga automática</th>
+<th>Frecuencia</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>V-Dem: democracia electoral y liberal, estado de derecho, control judicial</td>
+<td>0-1</td>
+<td>https://v-dem.net (vía Our World in Data CSV)</td>
+<td>Sí (CSV de OWID; o el conjunto completo de V-Dem)</td>
+<td>Anual (marzo)</td>
+</tr>
+<tr>
+<td>Freedom House: derechos políticos (0-40) y libertades civiles (0-60)</td>
+<td>puntos</td>
+<td>https://freedomhouse.org (vía OWID)</td>
+<td>Sí</td>
+<td>Anual</td>
+</tr>
+<tr>
+<td>Banco Mundial WGI: voz y rendición de cuentas, estado de derecho, eficacia del gobierno</td>
+<td>-2,5 a 2,5</td>
+<td>API del Banco Mundial <code>GOV_WGI_*</code></td>
+<td>Sí</td>
+<td>Anual</td>
+</tr>
+<tr>
+<td>EIU Democracy Index</td>
+<td>0-10</td>
+<td>EIU</td>
+<td><strong>No</strong>: licencia no redistribuible (OWID devuelve 403)</td>
+<td>Anual (<code>pendiente</code>, transcribir del informe)</td>
+</tr>
+<tr>
+<td>WJP Rule of Law Index</td>
+<td>0-1</td>
+<td>https://worldjusticeproject.org</td>
+<td>Excel anual (<code>pendiente</code>)</td>
+<td>Anual</td>
+</tr>
+<tr>
+<td>Informe sobre el Estado de Derecho de la Comisión Europea</td>
+<td>cualitativo</td>
+<td>Comisión Europea</td>
+<td>No</td>
+<td>Anual (julio). Codificar las recomendaciones y su seguimiento</td>
+</tr>
+<tr>
+<td>Consejo de Transparencia y Buen Gobierno</td>
+<td>reclamaciones, resoluciones incumplidas</td>
+<td>https://www.consejodetransparencia.es</td>
+<td>Memorias en PDF (<code>pendiente</code>)</td>
+<td>Anual</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Riesgos de sesgo:</strong>
+- Son percepciones de expertos con metodologías propias y cambiantes: se muestran sin reescalar ni combinar.
+- Hay desfase temporal: el índice de un año refleja en parte el anterior.
+- Usar índices que dependen unos de otros como si fueran independientes. Por ejemplo, el TI-CPI incorpora V-Dem y WJP.</p>
+<h2>4. Cuadro 4: corrupción</h2>
+<table>
+<thead>
+<tr>
+<th>Indicador</th>
+<th>Definición</th>
+<th>Fuente</th>
+<th>API</th>
+<th>Frecuencia</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Personas procesadas o con juicio oral por corrupción pública</td>
+<td>Auto de procesamiento o de apertura de juicio oral</td>
+<td>CGPJ, Repositorio de datos sobre procesos por corrupción (resumen nacional)</td>
+<td>No (HTML por trimestre; extracción por script <code>fetch_cgpj.py</code>)</td>
+<td>Trimestral (desde el 2.º semestre de 2015)</td>
+</tr>
+<tr>
+<td>Sentencias condenatorias (con o sin conformidad, parciales), absolutorias, «otras causas»</td>
+<td>Forma de terminación</td>
+<td>Ídem</td>
+<td>Ídem</td>
+<td>Trimestral</td>
+</tr>
+<tr>
+<td>TI Índice de Percepción de la Corrupción</td>
+<td>0-100</td>
+<td>Transparency International (OWID; 2025 transcrito de TI España)</td>
+<td>CSV</td>
+<td>Anual (febrero)</td>
+</tr>
+<tr>
+<td>WGI control de la corrupción</td>
+<td>-2,5 a 2,5</td>
+<td>Banco Mundial</td>
+<td>Sí</td>
+<td>Anual</td>
+</tr>
+<tr>
+<td>V-Dem corrupción política</td>
+<td>0-1 (más = peor)</td>
+<td>V-Dem (OWID)</td>
+<td>Sí</td>
+<td>Anual</td>
+</tr>
+<tr>
+<td>GRECO</td>
+<td>Recomendaciones cumplidas, parciales o no cumplidas</td>
+<td>Consejo de Europa (https://www.coe.int/es/web/greco/evaluations/spain)</td>
+<td>No (PDF)</td>
+<td>Por ronda (<code>pendiente</code>)</td>
+</tr>
+<tr>
+<td>Eurobarómetro especial de corrupción</td>
+<td>% que cree que la corrupción está extendida</td>
+<td>Comisión Europea</td>
+<td>Microdatos GESIS (<code>pendiente</code>)</td>
+<td>Cada 1-2 años</td>
+</tr>
+<tr>
+<td>Causas archivadas, prescritas o anuladas por defectos de forma o plazos</td>
+<td>Fin del proceso sin sentencia sobre el fondo</td>
+<td><strong>No hay estadística oficial que lo desglose</strong></td>
+<td>No</td>
+<td><code>pendiente</code></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Validación CGPJ:</strong> la suma de 2025 da 114 personas físicas, 13 jurídicas, 25 procedimientos, 52 sentencias condenatorias y 19 absolutorias. Coincide con la nota de prensa del CGPJ del 6-4-2026.</p>
+<p><strong>Propuesta para las causas sin sentencia firme:</strong> construir una base de casos propia y abierta:
+- Una fila por causa: tribunal, partido o cargo, fechas de instrucción, juicio y sentencia; desenlace (condena, absolución, archivo, prescripción, nulidad por defectos procesales, por ejemplo prueba anulada o plazo de instrucción); fuente documental (sentencia del CENDOJ, https://www.poderjudicial.es/search/, más nota de prensa).
+- Revisión por dos personas con criterios publicados.
+- Sin nombres de investigados no condenados más allá de lo publicado en resoluciones públicas (presunción de inocencia y RGPD).
+- Para atribuir por partido, solo casos con sentencia firme y cargo ejercido en el momento de los hechos.</p>
+<p><strong>Riesgos de sesgo:</strong>
+- Un número mayor de procesados puede significar más corrupción o más eficacia judicial. Hay que leerlo junto a los índices de percepción.
+- El tiempo judicial es largo: los hechos suelen ser de 5 a 15 años antes. No se debe atribuir al gobierno del año de la sentencia.
+- Mezclar corrupción local, autonómica y estatal: desglosar por ámbito si el dato lo permite.
+- Sesgo mediático en la recopilación manual de casos.</p>
+<h2>5. Comparación entre legislaturas: reglas generales</h2>
+<ul>
+<li>Unidad: legislatura (de una sesión constitutiva a la siguiente) y, cuando aplique, presidente del Gobierno. La XII Legislatura tiene dos gobiernos (moción de censura del 1-6-2018).</li>
+<li>Normalizar por la duración (por año), indicar las legislaturas en funciones y no comparar legislaturas de menos de un año.</li>
+<li>Mostrar siempre el valor de España frente a la UE o a sus vecinos en los mismos años.</li>
+<li>Datos desde 1977 donde existen (BOE, FMI desde 1980). Si una serie empieza más tarde, se dice.</li>
+</ul>
+<h2>6. Cómo se evitan los índices compuestos opacos</h2>
+<ul>
+<li>Cada tarjeta muestra la serie bruta, la fuente original, el enlace a la consulta exacta y la fecha de extracción.</li>
+<li>Todos los datos están en <code>data/*.json</code> y se regeneran con scripts públicos (<code>scripts/</code>). El historial de git hace de hemeroteca.</li>
+<li>Si se ofrece algún resumen, debe ser un panel opcional donde el usuario elige los indicadores y los pesos, con el cálculo visible.</li>
+<li>Hay que distinguir visualmente hechos registrales, índices de expertos y valoraciones de terceros.</li>
+<li>Política de correcciones: un formulario o issue público y un registro de cambios con fecha.</li>
+</ul>
+<h2>7. Publicación gratuita y actualización automática (propuesta, no ejecutada)</h2>
+<ol>
+<li><strong>GitHub Pages + GitHub Actions</strong> (recomendada):</li>
+<li>Repositorio público con <code>site/</code>, <code>scripts/</code> y <code>data/</code>.</li>
+<li>Un workflow programado (<code>cron</code>, por ejemplo cada lunes a las 06:00 UTC y a diario para el BOE) ejecuta <code>scripts/update_all.sh</code>, hace commit de <code>data/</code> (historial auditable) y despliega <code>site/</code> en Pages.</li>
+<li>Workflow en <code>.github/workflows/actualizar.yml</code>.</li>
+<li>Coste: 0 € (repositorios públicos: Actions gratis).</li>
+<li><strong>Cloudflare Pages o Netlify:</strong> conectados al mismo repositorio. La compilación la hace GitHub Actions y estos solo sirven el sitio estático. Ofrecen CDN y dominio propio gratis.</li>
+<li><strong>GitLab Pages + CI programada:</strong> alternativa equivalente.</li>
+<li><strong>Dominio:</strong> opcional, unos 10 €/año. Por ejemplo, un <code>.es</code> apuntado a Pages.</li>
+<li><strong>Robustez:</strong></li>
+<li>Si una fuente falla, el script conserva el dato anterior y lo marca con un aviso.</li>
+<li>Se recomienda que la Action abra un issue automático cuando falle una fuente o cuando la validación de numeración del BOE detecte huecos nuevos.</li>
+<li>Hay que identificarse con un User-Agent y respetar los límites de cada servidor (BOE, CGPJ).</li>
+<li><strong>Licencias:</strong></li>
+<li>Eurostat, Banco Mundial y FMI permiten reutilizar con cita.</li>
+<li>BOE: reutilización libre (Ley 37/2007).</li>
+<li>OWID: CC-BY.</li>
+<li>EIU: <strong>no redistribuible</strong>.</li>
+<li>Newtral: enlazar y citar, no copiar su base completa.</li>
+</ol></main></body></html>

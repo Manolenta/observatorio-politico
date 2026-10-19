@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+data/*.log
+data/boe_raw_*.json
+capturas/
+.DS_Store

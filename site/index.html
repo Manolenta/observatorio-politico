@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Observatorio de calidad política — España (prototipo)</title>
+<link rel="stylesheet" href="style.css">
+<script src="vendor/chart.umd.min.js"></script>
+<script src="data.js"></script>
+</head>
+<body>
+<header>
+  <h1>Observatorio de calidad política · España</h1>
+  <p class="sub">Prototipo. Solo datos brutos de fuentes públicas, cada uno con su enlace y fecha de extracción. <b>No hay índice compuesto ni notas propias.</b> Si algo no se ha podido obtener, aparece como <span class="pend">pendiente</span>.</p>
+  <p class="meta" id="meta"></p>
+  <nav><a href="#c1">1 · Macro</a><a href="#c2">2 · Promesas</a><a href="#c3">3 · Calidad democrática</a><a href="#c4">4 · Corrupción</a><a href="METODOLOGIA.html">Metodología</a></nav>
+</header>
+<main>
+<section id="c1"><h2>1 · Datos macroeconómicos (organismos independientes)</h2>
+  <p class="aviso">Los datos macro dependen del ciclo internacional, la política monetaria del BCE y decisiones de gobiernos anteriores. Las líneas verticales marcan el inicio de cada legislatura <em>solo como referencia temporal</em>, no como atribución causal.</p>
+  <div class="kpis" id="kpis"></div>
+  <div class="grid" id="macro-charts"></div>
+</section>
+<section id="c2"><h2>2 · Cumplimiento de promesas (XV Legislatura, 2023-2026)</h2>
+  <div class="grid2"><div class="card"><h3>Newtral PactoCheck: 50 compromisos de los pactos de gobierno e investidura</h3><canvas id="ch-pacto" height="140"></canvas><p class="src" id="src-pacto"></p></div>
+  <div class="card"><h3>Promesas seleccionadas por su relevancia</h3><p class="small">Estado a 19-10-2026, después de la disolución de las Cortes. «Cumplida» = norma publicada en el BOE. Lo que estaba en trámite y decayó con la disolución cuenta como incumplido en esta legislatura.</p><div id="tabla-promesas"></div></div></div>
+</section>
+<section id="c3"><h2>3 · Calidad democrática</h2>
+  <div class="grid2">
+    <div class="card"><h3>Leyes vs. reales decretos-leyes por legislatura (BOE)</h3><canvas id="ch-rdl" height="200"></canvas><p class="src" id="src-rdl"></p></div>
+    <div class="card"><h3>Normalizado por año de legislatura</h3><canvas id="ch-rdl-anual" height="200"></canvas><p class="small">Ratio RDL/leyes (leyes ordinarias + orgánicas). Las legislaturas XI y XIII, con gobierno en funciones, no tienen leyes.</p></div>
+  </div>
+  <div class="card"><h3>Tabla por legislatura</h3><div id="tabla-leg"></div></div>
+  <div class="grid2">
+    <div class="card"><h3>Reales decretos de indulto publicados en el BOE (por año)</h3><canvas id="ch-indultos" height="200"></canvas><p class="src" id="src-ind"></p></div>
+    <div class="card"><h3>Índices internacionales: España vs. vecinos</h3><select id="sel-dem"></select><canvas id="ch-dem" height="200"></canvas><p class="src" id="src-dem"></p></div>
+  </div>
+  <div class="card"><h3>Otros indicadores (pendientes o cualitativos)</h3><ul id="man-dem"></ul></div>
+</section>
+<section id="c4"><h2>4 · Corrupción</h2>
+  <div class="grid2">
+    <div class="card"><h3>Procesos por corrupción pública: CGPJ (resumen nacional)</h3><canvas id="ch-cgpj" height="210"></canvas><p class="src" id="src-cgpj"></p></div>
+    <div class="card"><h3>Percepción y control de la corrupción</h3><select id="sel-cor"></select><canvas id="ch-cor" height="210"></canvas><p class="src" id="src-cor"></p></div>
+  </div>
+  <div class="card"><h3>Tabla CGPJ por año</h3><p class="small">«Otras causas» = asuntos terminados sin sentencia (sobreseimiento, prescripción, etc.). El CGPJ <b>no desglosa el motivo</b>, así que no se pueden contar las prescripciones ni las anulaciones por defectos de forma sin una base de casos propia.</p><div id="tabla-cgpj"></div></div>
+  <div class="card"><h3>Otros indicadores</h3><ul id="man-cor"></ul></div>
+</section>
+</main>
+<footer>Código y datos regenerables con <code>scripts/update_all.sh</code>. Fuentes: Eurostat, Banco Mundial, FMI, BOE, CGPJ, V-Dem, Freedom House, Transparency International (vía Our World in Data cuando procede), Newtral.</footer>
+<script src="app.js"></script>
+</body></html>
