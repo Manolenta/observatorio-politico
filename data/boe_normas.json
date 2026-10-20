@@ -1,5 +1,5 @@
 {
- "extraido": "2026-10-19T22:25:51+02:00",
+ "extraido": "2026-10-20T09:34:18+02:00",
  "fuente": "https://www.boe.es/buscar/boe.php",
  "nota": "Normas de la Jefatura del Estado en Sección I del BOE cuyo título empieza por 'Ley', 'Ley Orgánica' o 'Real Decreto-ley'; asignadas por fecha de la disposición. RDL derogados = 'Acuerdo de derogación' publicado por el Congreso (no convalidados).",
  "por_legislatura": [
@@ -231,14 +231,14 @@
   {
    "legislatura": "XV",
    "inicio": "2023-08-17",
-   "fin": "2026-10-19",
+   "fin": "2026-10-20",
    "gobierno": "Sánchez (PSOE-Sumar)",
-   "años": 3.17,
+   "años": 3.18,
    "leyes_ordinarias": 21,
    "leyes_organicas": 13,
    "rdl": 61,
    "rdl_derogados": 13,
-   "rdl_convalidados_publicados": 43,
+   "rdl_convalidados_publicados": 45,
    "rdl_por_año": 19.2,
    "leyes_por_año": 10.7,
    "ratio_rdl_leyes": 1.79
@@ -1295,7 +1295,7 @@
    "año": 2026,
    "tipo": "normas",
    "url": "https://www.boe.es/buscar/boe.php?campo%5B0%5D=ORIS&dato%5B0%5D%5B1%5D=1&operador%5B0%5D=and&campo%5B1%5D=TITULOS&dato%5B1%5D=ley&operador%5B1%5D=and&operador%5B6%5D=and&campo%5B6%5D=FPU&dato%5B6%5D%5B0%5D=2026-01-01&dato%5B6%5D%5B1%5D=2026-12-31&page_hits=2000&sort_field%5B0%5D=FPU&sort_order%5B0%5D=asc&accion=Buscar",
-   "resultados": 293
+   "resultados": 295
   },
   {
    "año": 2026,
@@ -24968,6 +24968,14 @@
   "Real Decreto-ley 23/2026": {
    "fecha": "2026-09-08",
    "ref_acuerdo": "BOE-A-2026-19845"
+  },
+  "Real Decreto-ley 24/2026": {
+   "fecha": "2026-09-29",
+   "ref_acuerdo": "BOE-A-2026-21787"
+  },
+  "Real Decreto-ley 25/2026": {
+   "fecha": "2026-09-29",
+   "ref_acuerdo": "BOE-A-2026-21788"
   }
  },
  "nota_xv": "La XV Legislatura se cuenta hasta hoy: Cortes disueltas el 2026-10-06 (RD 806/2026); siguen publicándose normas aprobadas antes de la disolución y RDL que convalida la Diputación Permanente."
