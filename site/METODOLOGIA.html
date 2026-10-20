@@ -374,7 +374,7 @@
 <ol>
 <li><strong>GitHub Pages + GitHub Actions</strong> (recomendada):</li>
 <li>Repositorio público con <code>site/</code>, <code>scripts/</code> y <code>data/</code>.</li>
-<li>Un workflow programado (<code>cron</code>, por ejemplo cada lunes a las 06:00 UTC y a diario para el BOE) ejecuta <code>scripts/update_all.sh</code>, hace commit de <code>data/</code> (historial auditable) y despliega <code>site/</code> en Pages.</li>
+<li>Un workflow programado (<code>cron: "17 7 * * *"</code> con <code>timezone: "Europe/Madrid"</code>, es decir, a diario a las 07:17 hora de Madrid en verano y en invierno) ejecuta <code>scripts/update_all.sh</code>, hace commit de <code>data/</code> (historial auditable) y despliega <code>site/</code> en Pages.</li>
 <li>Workflow en <code>.github/workflows/actualizar.yml</code>.</li>
 <li>Coste: 0 € (repositorios públicos: Actions gratis).</li>
 <li><strong>Cloudflare Pages o Netlify:</strong> conectados al mismo repositorio. La compilación la hace GitHub Actions y estos solo sirven el sitio estático. Ofrecen CDN y dominio propio gratis.</li>

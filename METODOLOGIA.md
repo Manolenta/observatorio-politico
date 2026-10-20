@@ -217,7 +217,7 @@ Si hay errores, el workflow no publica y abre un issue. `scripts/changelog.py` a
 
 1. **GitHub Pages + GitHub Actions** (recomendada):
    - Repositorio público con `site/`, `scripts/` y `data/`.
-   - Un workflow programado (`cron`, por ejemplo cada lunes a las 06:00 UTC y a diario para el BOE) ejecuta `scripts/update_all.sh`, hace commit de `data/` (historial auditable) y despliega `site/` en Pages.
+   - Un workflow programado (`cron: "17 7 * * *"` con `timezone: "Europe/Madrid"`, es decir, a diario a las 07:17 hora de Madrid en verano y en invierno) ejecuta `scripts/update_all.sh`, hace commit de `data/` (historial auditable) y despliega `site/` en Pages.
    - Workflow en `.github/workflows/actualizar.yml`.
    - Coste: 0 € (repositorios públicos: Actions gratis).
 2. **Cloudflare Pages o Netlify:** conectados al mismo repositorio. La compilación la hace GitHub Actions y estos solo sirven el sitio estático. Ofrecen CDN y dominio propio gratis.

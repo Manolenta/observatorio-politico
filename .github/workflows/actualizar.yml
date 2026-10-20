@@ -1,7 +1,8 @@
 name: Actualizar datos y publicar
 on:
   schedule:
-    - cron: "0 5 * * *"   # diario 05:00 UTC = 07:00 en Madrid (horario de verano)
+    - cron: "17 7 * * *"   # diario a las 07:17 hora de Madrid (todo el año, sigue el cambio de hora)
+      timezone: "Europe/Madrid"
   workflow_dispatch: {}
   push:
     branches: [main]

@@ -24,7 +24,7 @@ pip install requests
 bash scripts/update_all.sh          # descarga todo y genera site/data.js
 cd site && python3 -m http.server 8765
 ```
-GitHub Actions lo hace a diario (`.github/workflows/actualizar.yml`) y publica `site/` en GitHub Pages. Detalle de cada script: [scripts/README.md](scripts/README.md).
+GitHub Actions lo hace a diario a las 07:17 hora de Madrid (`timezone: Europe/Madrid`, ajustado al cambio de hora) (`.github/workflows/actualizar.yml`) y publica `site/` en GitHub Pages. Detalle de cada script: [scripts/README.md](scripts/README.md).
 
 ## Colaborar
 Lee [CONTRIBUTING.md](CONTRIBUTING.md). Regla de oro: **toda cifra debe llevar una fuente verificable**.
