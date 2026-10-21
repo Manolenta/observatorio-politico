@@ -1,5 +1,5 @@
 {
- "extraido": "2026-10-21T09:19:45+02:00",
+ "extraido": "2026-10-21T12:16:15+02:00",
  "fuente": "https://www.boe.es/buscar/boe.php",
  "nota": "Normas de la Jefatura del Estado en Sección I del BOE cuyo título empieza por 'Ley', 'Ley Orgánica' o 'Real Decreto-ley'; asignadas por fecha de la disposición. RDL derogados = 'Acuerdo de derogación' publicado por el Congreso (no convalidados).",
  "por_legislatura": [
@@ -18147,13 +18147,6 @@
    "ref": "BOE-A-2014-12030",
    "titulo": "Ley 24/2014, de 20 de noviembre, por la que se crea el Consejo General de Colegios de Terapeutas Ocupacionales."
   },
-  "Ley 25/2014": {
-   "tipo": "Ley",
-   "num": 25,
-   "fecha": "2014-11-27",
-   "ref": "BOE-A-2014-12326",
-   "titulo": "Ley 25/2014, de 27 de noviembre, de Tratados y otros Acuerdos Internacionales."
-  },
   "Ley 26/2014": {
    "tipo": "Ley",
    "num": 26,
@@ -18174,6 +18167,13 @@
    "fecha": "2014-11-27",
    "ref": "BOE-A-2014-12329",
    "titulo": "Ley 28/2014, de 27 de noviembre, por la que se modifican la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscale"
+  },
+  "Ley 25/2014": {
+   "tipo": "Ley",
+   "num": 25,
+   "fecha": "2014-11-27",
+   "ref": "BOE-A-2014-12326",
+   "titulo": "Ley 25/2014, de 27 de noviembre, de Tratados y otros Acuerdos Internacionales."
   },
   "Ley 29/2014": {
    "tipo": "Ley",

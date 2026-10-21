@@ -1,6 +1,18 @@
 {
  "entradas": [
   {
+   "fecha": "2026-10-21T12:17:07+02:00",
+   "n_cambios": 1,
+   "cambios": [
+    {
+     "cifra": "macro · Deuda pública (% PIB, PDE) · 2025",
+     "antes": 100.7,
+     "ahora": 100.5
+    }
+   ],
+   "nota": ""
+  },
+  {
    "fecha": "2026-10-21T09:23:13+02:00",
    "n_cambios": 1,
    "cambios": [
@@ -36,7 +48,7 @@
   "macro · PIB per cápita en PPA (UE27=100) · 2025": 92,
   "macro · Tasa de paro 15-74 (%) · 2025": 10.5,
   "macro · Paro juvenil 15-24 (%) · 2025": 24.9,
-  "macro · Deuda pública (% PIB, PDE) · 2025": 100.7,
+  "macro · Deuda pública (% PIB, PDE) · 2025": 100.5,
   "macro · Déficit (-)/superávit público (% PIB) · 2025": -2.4,
   "macro · Inflación IPCA (media anual, %) · 2025": 2.7,
   "macro · Productividad por hora trabajada (UE27=100, PPS) · 2025": 95.3,
@@ -265,6 +277,6 @@
   "RDL tramitados como PL · XV": 43,
   "RDL tramitados como PL · XV · ley": 0
  },
- "ultima_ejecucion": "2026-10-21T09:23:13+02:00",
- "ultima_actualizacion_datos": "2026-10-21T09:23:13+02:00"
+ "ultima_ejecucion": "2026-10-21T12:17:07+02:00",
+ "ultima_actualizacion_datos": "2026-10-21T12:17:07+02:00"
 }
