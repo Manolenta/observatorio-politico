@@ -1,5 +1,5 @@
 {
- "extraido": "2026-10-20T09:34:18+02:00",
+ "extraido": "2026-10-21T09:19:45+02:00",
  "fuente": "https://www.boe.es/buscar/boe.php",
  "nota": "Normas de la Jefatura del Estado en Sección I del BOE cuyo título empieza por 'Ley', 'Ley Orgánica' o 'Real Decreto-ley'; asignadas por fecha de la disposición. RDL derogados = 'Acuerdo de derogación' publicado por el Congreso (no convalidados).",
  "por_legislatura": [
@@ -231,17 +231,17 @@
   {
    "legislatura": "XV",
    "inicio": "2023-08-17",
-   "fin": "2026-10-20",
+   "fin": "2026-10-21",
    "gobierno": "Sánchez (PSOE-Sumar)",
    "años": 3.18,
    "leyes_ordinarias": 21,
    "leyes_organicas": 13,
-   "rdl": 61,
+   "rdl": 62,
    "rdl_derogados": 13,
    "rdl_convalidados_publicados": 45,
-   "rdl_por_año": 19.2,
+   "rdl_por_año": 19.5,
    "leyes_por_año": 10.7,
-   "ratio_rdl_leyes": 1.79
+   "ratio_rdl_leyes": 1.82
   }
  ],
  "por_año": {
@@ -494,7 +494,7 @@
    "RDL derogados": 2
   },
   "2026": {
-   "Real Decreto-ley": 30,
+   "Real Decreto-ley": 31,
    "Ley Orgánica": 4,
    "Ley": 4,
    "RDL derogados": 8
@@ -1295,7 +1295,7 @@
    "año": 2026,
    "tipo": "normas",
    "url": "https://www.boe.es/buscar/boe.php?campo%5B0%5D=ORIS&dato%5B0%5D%5B1%5D=1&operador%5B0%5D=and&campo%5B1%5D=TITULOS&dato%5B1%5D=ley&operador%5B1%5D=and&operador%5B6%5D=and&campo%5B6%5D=FPU&dato%5B6%5D%5B0%5D=2026-01-01&dato%5B6%5D%5B1%5D=2026-12-31&page_hits=2000&sort_field%5B0%5D=FPU&sort_order%5B0%5D=asc&accion=Buscar",
-   "resultados": 295
+   "resultados": 298
   },
   {
    "año": 2026,
@@ -5428,13 +5428,6 @@
    "ref": "BOE-A-1983-18136",
    "titulo": "Ley 4/1983, de 29 de junio, de fijación de la jornada máxima legal en cuarenta horas y de las vacaciones anuales mínimas en treinta días."
   },
-  "Ley 5/1983": {
-   "tipo": "Ley",
-   "num": 5,
-   "fecha": "1983-06-29",
-   "ref": "BOE-A-1983-18137",
-   "titulo": "Ley 5/1983, de 29 de junio, de medidas urgentes en materia presupuestaria, financiera y tributaria."
-  },
   "Ley 6/1983": {
    "tipo": "Ley",
    "num": 6,
@@ -5455,6 +5448,13 @@
    "fecha": "1983-06-29",
    "ref": "BOE-A-1983-18140",
    "titulo": "Ley 8/1983, de 29 de junio, sobre medidas urgentes en materia de Organos de Gobierno de las Universidades."
+  },
+  "Ley 5/1983": {
+   "tipo": "Ley",
+   "num": 5,
+   "fecha": "1983-06-29",
+   "ref": "BOE-A-1983-18137",
+   "titulo": "Ley 5/1983, de 29 de junio, de medidas urgentes en materia presupuestaria, financiera y tributaria."
   },
   "Ley 9/1983": {
    "tipo": "Ley",
@@ -14444,19 +14444,19 @@
    "ref": "BOE-A-2005-10621",
    "titulo": "Ley Orgánica 2/2005, de 22 de junio, de modificación del Código Penal."
   },
-  "Ley 11/2005": {
-   "tipo": "Ley",
-   "num": 11,
-   "fecha": "2005-06-22",
-   "ref": "BOE-A-2005-10622",
-   "titulo": "Ley 11/2005, de 22 de junio, por la que se modifica la Ley 10/2001, de 5 de julio, del Plan Hidrológico Nacional."
-  },
   "Ley 12/2005": {
    "tipo": "Ley",
    "num": 12,
    "fecha": "2005-06-22",
    "ref": "BOE-A-2005-10623",
    "titulo": "Ley 12/2005, de 22 de junio, por la que se modifica el artículo 23 de la Ley de 8 de junio de 1957, del Registro Civil."
+  },
+  "Ley 11/2005": {
+   "tipo": "Ley",
+   "num": 11,
+   "fecha": "2005-06-22",
+   "ref": "BOE-A-2005-10622",
+   "titulo": "Ley 11/2005, de 22 de junio, por la que se modifica la Ley 10/2001, de 5 de julio, del Plan Hidrológico Nacional."
   },
   "Ley 13/2005": {
    "tipo": "Ley",
@@ -16593,13 +16593,6 @@
    "ref": "BOE-A-2010-20140",
    "titulo": "Ley 44/2010, de 30 de diciembre, de aguas canarias."
   },
-  "Ley Orgánica 1/2011": {
-   "tipo": "Ley Orgánica",
-   "num": 1,
-   "fecha": "2011-01-28",
-   "ref": "BOE-A-2011-1638",
-   "titulo": "Ley Orgánica 1/2011, de 28 de enero, de reforma del Estatuto de Autonomía de la Comunidad Autónoma de Extremadura."
-  },
   "Ley Orgánica 2/2011": {
    "tipo": "Ley Orgánica",
    "num": 2,
@@ -16613,6 +16606,13 @@
    "fecha": "2011-01-28",
    "ref": "BOE-A-2011-1640",
    "titulo": "Ley Orgánica 3/2011, de 28 de enero, por la que se modifica la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General."
+  },
+  "Ley Orgánica 1/2011": {
+   "tipo": "Ley Orgánica",
+   "num": 1,
+   "fecha": "2011-01-28",
+   "ref": "BOE-A-2011-1638",
+   "titulo": "Ley Orgánica 1/2011, de 28 de enero, de reforma del Estatuto de Autonomía de la Comunidad Autónoma de Extremadura."
   },
   "Real Decreto-ley 1/2011": {
    "tipo": "Real Decreto-ley",
@@ -21682,6 +21682,13 @@
    "ref": "BOE-A-2026-18828",
    "titulo": "Real Decreto-ley 23/2026, de 8 de septiembre, por el que se adoptan medidas fiscales y financieras urgentes que contribuyan a la reconstrucción económica y social de la isla de La Palma, así como medi"
   },
+  "Real Decreto-ley 26/2026": {
+   "tipo": "Real Decreto-ley",
+   "num": 26,
+   "fecha": "2026-09-29",
+   "ref": "BOE-A-2026-20266",
+   "titulo": "Real Decreto-ley 26/2026, de 29 de septiembre, por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y la ampliación de la oferta de vivienda asequible."
+  },
   "Real Decreto-ley 24/2026": {
    "tipo": "Real Decreto-ley",
    "num": 24,
@@ -21695,13 +21702,6 @@
    "fecha": "2026-09-29",
    "ref": "BOE-A-2026-20265",
    "titulo": "Real Decreto-ley 25/2026, de 29 de septiembre, por el que se adoptan y se prorrogan determinadas medidas en el marco del Plan Integral de Respuesta a la Crisis en Oriente Medio."
-  },
-  "Real Decreto-ley 26/2026": {
-   "tipo": "Real Decreto-ley",
-   "num": 26,
-   "fecha": "2026-09-29",
-   "ref": "BOE-A-2026-20266",
-   "titulo": "Real Decreto-ley 26/2026, de 29 de septiembre, por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y la ampliación de la oferta de vivienda asequible."
   },
   "Real Decreto-ley 27/2026": {
    "tipo": "Real Decreto-ley",
@@ -21744,6 +21744,13 @@
    "fecha": "2026-10-13",
    "ref": "BOE-A-2026-21318",
    "titulo": "Real Decreto-ley 30/2026, de 13 de octubre, por el que se aprueban medidas extraordinarias y urgentes de apoyo financiero a la Ciudad de Ceuta."
+  },
+  "Real Decreto-ley 31/2026": {
+   "tipo": "Real Decreto-ley",
+   "num": 31,
+   "fecha": "2026-10-20",
+   "ref": "BOE-A-2026-21872",
+   "titulo": "Real Decreto-ley 31/2026, de 20 de octubre, para la mejora de la acción protectora de la Seguridad Social y de otras normas sociales."
   },
   "Ley 49/1960": {
    "tipo": "Ley",

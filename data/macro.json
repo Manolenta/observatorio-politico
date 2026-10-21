@@ -1,37 +1,37 @@
 {
- "extraido": "2026-10-20T09:31:21+02:00",
+ "extraido": "2026-10-21T09:14:31+02:00",
  "indicadores": [
   {
    "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tec00115?unit=CLV_PCH_PRE&na_item=B1GQ&geo=ES&geo=EU27_2020&geo=EA20&geo=DE&geo=FR&geo=IT&geo=PT",
    "web": "https://ec.europa.eu/eurostat/databrowser/view/tec00115/default/table",
-   "actualizado_fuente": "2026-10-19T23:00:00+0200",
+   "actualizado_fuente": "2026-10-20T23:00:00+0200",
    "series": {
     "EU27_2020": {
      "2014": 1.6,
      "2015": 2.4,
-     "2016": 1.9,
-     "2017": 2.8,
+     "2016": 2.0,
+     "2017": 2.9,
      "2018": 2.1,
      "2019": 1.9,
      "2020": -5.5,
      "2021": 6.4,
      "2022": 3.6,
      "2023": 0.4,
-     "2024": 1.3,
+     "2024": 1.4,
      "2025": 1.4
     },
     "EA20": {
      "2014": 1.5,
-     "2015": 2.1,
-     "2016": 1.8,
+     "2015": 2.2,
+     "2016": 1.9,
      "2017": 2.7,
      "2018": 1.8,
      "2019": 1.7,
      "2020": -6.0,
-     "2021": 6.4,
+     "2021": 6.5,
      "2022": 3.7,
      "2023": 0.4,
-     "2024": 1.2,
+     "2024": 1.3,
      "2025": 1.2
     },
     "DE": {
@@ -1449,7 +1449,7 @@
   {
    "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tesem160?na_item=NLPR_HW&geo=ES&geo=EU27_2020&geo=EA20&geo=DE&geo=FR&geo=IT&geo=PT",
    "web": "https://ec.europa.eu/eurostat/databrowser/view/tesem160/default/table",
-   "actualizado_fuente": "2026-10-19T23:00:00+0200",
+   "actualizado_fuente": "2026-10-20T23:00:00+0200",
    "series": {
     "EU27_2020": {
      "2005": 100.0,
@@ -1494,7 +1494,7 @@
      "2021": 109.2,
      "2022": 108.7,
      "2023": 108.4,
-     "2024": 107.7,
+     "2024": 107.6,
      "2025": 107.1
     },
     "DE": {
