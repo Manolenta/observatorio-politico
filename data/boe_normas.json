@@ -1,5 +1,5 @@
 {
- "extraido": "2026-10-21T12:16:15+02:00",
+ "extraido": "2026-10-22T12:18:13+02:00",
  "fuente": "https://www.boe.es/buscar/boe.php",
  "nota": "Normas de la Jefatura del Estado en Sección I del BOE cuyo título empieza por 'Ley', 'Ley Orgánica' o 'Real Decreto-ley'; asignadas por fecha de la disposición. RDL derogados = 'Acuerdo de derogación' publicado por el Congreso (no convalidados).",
  "por_legislatura": [
@@ -231,7 +231,7 @@
   {
    "legislatura": "XV",
    "inicio": "2023-08-17",
-   "fin": "2026-10-21",
+   "fin": "2026-10-22",
    "gobierno": "Sánchez (PSOE-Sumar)",
    "años": 3.18,
    "leyes_ordinarias": 21,
@@ -20842,19 +20842,19 @@
    "ref": "BOE-A-2022-21800",
    "titulo": "Ley Orgánica 14/2022, de 22 de diciembre, de transposición de directivas europeas y otras disposiciones para la adaptación de la legislación penal al ordenamiento de la Unión Europea, y reforma de los"
   },
-  "Ley 30/2022": {
-   "tipo": "Ley",
-   "num": 30,
-   "fecha": "2022-12-23",
-   "ref": "BOE-A-2022-22127",
-   "titulo": "Ley 30/2022, de 23 de diciembre, por la que se regulan el sistema de gestión de la Política Agrícola Común y otras materias conexas."
-  },
   "Ley 31/2022": {
    "tipo": "Ley",
    "num": 31,
    "fecha": "2022-12-23",
    "ref": "BOE-A-2022-22128",
    "titulo": "Ley 31/2022, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2023."
+  },
+  "Ley 30/2022": {
+   "tipo": "Ley",
+   "num": 30,
+   "fecha": "2022-12-23",
+   "ref": "BOE-A-2022-22127",
+   "titulo": "Ley 30/2022, de 23 de diciembre, por la que se regulan el sistema de gestión de la Política Agrícola Común y otras materias conexas."
   },
   "Ley Orgánica 15/2022": {
    "tipo": "Ley Orgánica",
@@ -21059,19 +21059,19 @@
    "ref": "BOE-A-2023-11187",
    "titulo": "Real Decreto-ley 4/2023, de 11 de mayo, por el que se adoptan medidas urgentes en materia agraria y de aguas en respuesta a la sequía y al agravamiento de las condiciones del sector primario derivado "
   },
-  "Ley 12/2023": {
-   "tipo": "Ley",
-   "num": 12,
-   "fecha": "2023-05-24",
-   "ref": "BOE-A-2023-12203",
-   "titulo": "Ley 12/2023, de 24 de mayo, por el derecho a la vivienda."
-  },
   "Ley 13/2023": {
    "tipo": "Ley",
    "num": 13,
    "fecha": "2023-05-24",
    "ref": "BOE-A-2023-12204",
    "titulo": "Ley 13/2023, de 24 de mayo, por la que se modifican la Ley 58/2003, de 17 de diciembre, General Tributaria, en transposición de la Directiva (UE) 2021/514 del Consejo de 22 de marzo de 2021, por la qu"
+  },
+  "Ley 12/2023": {
+   "tipo": "Ley",
+   "num": 12,
+   "fecha": "2023-05-24",
+   "ref": "BOE-A-2023-12203",
+   "titulo": "Ley 12/2023, de 24 de mayo, por el derecho a la vivienda."
   },
   "Real Decreto-ley 5/2023": {
    "tipo": "Real Decreto-ley",
@@ -21689,19 +21689,19 @@
    "ref": "BOE-A-2026-20266",
    "titulo": "Real Decreto-ley 26/2026, de 29 de septiembre, por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y la ampliación de la oferta de vivienda asequible."
   },
-  "Real Decreto-ley 24/2026": {
-   "tipo": "Real Decreto-ley",
-   "num": 24,
-   "fecha": "2026-09-29",
-   "ref": "BOE-A-2026-20264",
-   "titulo": "Real Decreto-ley 24/2026, de 29 de septiembre, por el que se establecen medidas relacionadas con el plan de respuesta inmediata, reconstrucción y relanzamiento frente a los daños causados por la Depre"
-  },
   "Real Decreto-ley 25/2026": {
    "tipo": "Real Decreto-ley",
    "num": 25,
    "fecha": "2026-09-29",
    "ref": "BOE-A-2026-20265",
    "titulo": "Real Decreto-ley 25/2026, de 29 de septiembre, por el que se adoptan y se prorrogan determinadas medidas en el marco del Plan Integral de Respuesta a la Crisis en Oriente Medio."
+  },
+  "Real Decreto-ley 24/2026": {
+   "tipo": "Real Decreto-ley",
+   "num": 24,
+   "fecha": "2026-09-29",
+   "ref": "BOE-A-2026-20264",
+   "titulo": "Real Decreto-ley 24/2026, de 29 de septiembre, por el que se establecen medidas relacionadas con el plan de respuesta inmediata, reconstrucción y relanzamiento frente a los daños causados por la Depre"
   },
   "Real Decreto-ley 27/2026": {
    "tipo": "Real Decreto-ley",
