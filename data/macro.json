@@ -1,10 +1,10 @@
 {
- "extraido": "2026-10-22T12:13:59+02:00",
+ "extraido": "2026-10-23T12:06:34+02:00",
  "indicadores": [
   {
    "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tec00115?unit=CLV_PCH_PRE&na_item=B1GQ&geo=ES&geo=EU27_2020&geo=EA20&geo=DE&geo=FR&geo=IT&geo=PT",
    "web": "https://ec.europa.eu/eurostat/databrowser/view/tec00115/default/table",
-   "actualizado_fuente": "2026-10-21T23:00:00+0200",
+   "actualizado_fuente": "2026-10-22T23:00:00+0200",
    "series": {
     "EU27_2020": {
      "2014": 1.6,
@@ -1449,7 +1449,7 @@
   {
    "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tesem160?na_item=NLPR_HW&geo=ES&geo=EU27_2020&geo=EA20&geo=DE&geo=FR&geo=IT&geo=PT",
    "web": "https://ec.europa.eu/eurostat/databrowser/view/tesem160/default/table",
-   "actualizado_fuente": "2026-10-21T23:00:00+0200",
+   "actualizado_fuente": "2026-10-22T23:00:00+0200",
    "series": {
     "EU27_2020": {
      "2005": 100.0,

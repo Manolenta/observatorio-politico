@@ -1,5 +1,5 @@
 {
- "extraido": "2026-10-22T12:18:13+02:00",
+ "extraido": "2026-10-23T12:13:16+02:00",
  "fuente": "https://www.boe.es/buscar/boe.php",
  "nota": "Normas de la Jefatura del Estado en Sección I del BOE cuyo título empieza por 'Ley', 'Ley Orgánica' o 'Real Decreto-ley'; asignadas por fecha de la disposición. RDL derogados = 'Acuerdo de derogación' publicado por el Congreso (no convalidados).",
  "por_legislatura": [
@@ -231,7 +231,7 @@
   {
    "legislatura": "XV",
    "inicio": "2023-08-17",
-   "fin": "2026-10-22",
+   "fin": "2026-10-23",
    "gobierno": "Sánchez (PSOE-Sumar)",
    "años": 3.18,
    "leyes_ordinarias": 21,
@@ -4637,13 +4637,6 @@
    "ref": "BOE-A-1982-633",
    "titulo": "Ley Orgánica 6/1981, de 30 de diciembre, de Estatuto de Autonomía para Andalucía."
   },
-  "Ley Orgánica 7/1981": {
-   "tipo": "Ley Orgánica",
-   "num": 7,
-   "fecha": "1981-12-30",
-   "ref": "BOE-A-1982-634",
-   "titulo": "Ley Orgánica 7/1981, de 30 de diciembre, de Estatuto de Autonomía para Asturias."
-  },
   "Ley Orgánica 8/1981": {
    "tipo": "Ley Orgánica",
    "num": 8,
@@ -4671,6 +4664,13 @@
    "fecha": "1981-12-24",
    "ref": "BOE-A-1982-638",
    "titulo": "Ley 49/1981, de 24 de diciembre, del Estatuto de la explotación familiar agraria y de los agricultores jóvenes."
+  },
+  "Ley Orgánica 7/1981": {
+   "tipo": "Ley Orgánica",
+   "num": 7,
+   "fecha": "1981-12-30",
+   "ref": "BOE-A-1982-634",
+   "titulo": "Ley Orgánica 7/1981, de 30 de diciembre, de Estatuto de Autonomía para Asturias."
   },
   "Ley 50/1981": {
    "tipo": "Ley",
@@ -10139,19 +10139,19 @@
    "ref": "BOE-A-1995-24262",
    "titulo": "Ley 30/1995, de 8 de noviembre, de Ordenación y Supervisión de los Seguros Privados."
   },
-  "Ley 31/1995": {
-   "tipo": "Ley",
-   "num": 31,
-   "fecha": "1995-11-08",
-   "ref": "BOE-A-1995-24292",
-   "titulo": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales."
-  },
   "Ley 32/1995": {
    "tipo": "Ley",
    "num": 32,
    "fecha": "1995-11-08",
    "ref": "BOE-A-1995-24293",
    "titulo": "Ley 32/1995, de 8 de noviembre sobre concesión de un crédito extraordinario, por importe de 3.020.942.990 pesetas, para compensar el déficit de la «Compañía Trasmediterránea, Sociedad Anónima», corres"
+  },
+  "Ley 31/1995": {
+   "tipo": "Ley",
+   "num": 31,
+   "fecha": "1995-11-08",
+   "ref": "BOE-A-1995-24292",
+   "titulo": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales."
   },
   "Ley Orgánica 8/1995": {
    "tipo": "Ley Orgánica",
@@ -15298,13 +15298,6 @@
    "ref": "BOE-A-2007-12946",
    "titulo": "Ley 15/2007, de 3 de julio, de Defensa de la Competencia."
   },
-  "Ley Orgánica 8/2007": {
-   "tipo": "Ley Orgánica",
-   "num": 8,
-   "fecha": "2007-07-04",
-   "ref": "BOE-A-2007-13022",
-   "titulo": "Ley Orgánica 8/2007, de 4 de julio, sobre financiación de los partidos políticos."
-  },
   "Ley 16/2007": {
    "tipo": "Ley",
    "num": 16,
@@ -15325,6 +15318,13 @@
    "fecha": "2007-07-04",
    "ref": "BOE-A-2007-13025",
    "titulo": "Ley 18/2007, de 4 de julio, por la que se procede a la integración de los trabajadores por cuenta propia del Régimen Especial Agrario de la Seguridad Social en el Régimen Especial de la Seguridad Soci"
+  },
+  "Ley Orgánica 8/2007": {
+   "tipo": "Ley Orgánica",
+   "num": 8,
+   "fecha": "2007-07-04",
+   "ref": "BOE-A-2007-13022",
+   "titulo": "Ley Orgánica 8/2007, de 4 de julio, sobre financiación de los partidos políticos."
   },
   "Ley 19/2007": {
    "tipo": "Ley",
@@ -20933,19 +20933,19 @@
    "ref": "BOE-A-2023-625",
    "titulo": "Real Decreto-ley 1/2023, de 10 de enero, de medidas urgentes en materia de incentivos a la contratación laboral y mejora de la protección social de las personas artistas."
   },
-  "Ley 1/2023": {
-   "tipo": "Ley",
-   "num": 1,
-   "fecha": "2023-02-20",
-   "ref": "BOE-A-2023-4512",
-   "titulo": "Ley 1/2023, de 20 de febrero, de Cooperación para el Desarrollo Sostenible y la Solidaridad Global."
-  },
   "Ley 2/2023": {
    "tipo": "Ley",
    "num": 2,
    "fecha": "2023-02-20",
    "ref": "BOE-A-2023-4513",
    "titulo": "Ley 2/2023, de 20 de febrero, reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción."
+  },
+  "Ley 1/2023": {
+   "tipo": "Ley",
+   "num": 1,
+   "fecha": "2023-02-20",
+   "ref": "BOE-A-2023-4512",
+   "titulo": "Ley 1/2023, de 20 de febrero, de Cooperación para el Desarrollo Sostenible y la Solidaridad Global."
   },
   "Ley Orgánica 1/2023": {
    "tipo": "Ley Orgánica",
