@@ -1,5 +1,5 @@
 {
- "extraido": "2026-10-24T11:44:57+02:00",
+ "extraido": "2026-10-25T12:38:39+01:00",
  "fuente": "https://www.boe.es/buscar/boe.php",
  "nota": "Normas de la Jefatura del Estado en Sección I del BOE cuyo título empieza por 'Ley', 'Ley Orgánica' o 'Real Decreto-ley'; asignadas por fecha de la disposición. RDL derogados = 'Acuerdo de derogación' publicado por el Congreso (no convalidados).",
  "por_legislatura": [
@@ -231,7 +231,7 @@
   {
    "legislatura": "XV",
    "inicio": "2023-08-17",
-   "fin": "2026-10-24",
+   "fin": "2026-10-25",
    "gobierno": "Sánchez (PSOE-Sumar)",
    "años": 3.19,
    "leyes_ordinarias": 21,
@@ -239,7 +239,7 @@
    "rdl": 62,
    "rdl_derogados": 13,
    "rdl_convalidados_publicados": 45,
-   "rdl_por_año": 19.5,
+   "rdl_por_año": 19.4,
    "leyes_por_año": 10.7,
    "ratio_rdl_leyes": 1.82
   }
