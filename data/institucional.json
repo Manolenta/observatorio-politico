@@ -1,5 +1,5 @@
 {
- "extraido": "2026-10-25T12:39:25+01:00",
+ "extraido": "2026-10-26T14:12:51+01:00",
  "fuente": "https://www.boe.es/buscar/boe.php",
  "presupuestos": {
   "consulta": "https://www.boe.es/buscar/boe.php?campo%5B0%5D=ORIS&dato%5B0%5D%5B1%5D=1&operador%5B0%5D=and&campo%5B1%5D=TITULOS&dato%5B1%5D=%22Presupuestos+Generales+del+Estado+para%22&operador%5B1%5D=and&operador%5B6%5D=and&campo%5B6%5D=FPU&dato%5B6%5D%5B0%5D=1977-01-01&dato%5B6%5D%5B1%5D=2026-12-31&page_hits=2000&sort_field%5B0%5D=FPU&sort_order%5B0%5D=asc&accion=Buscar",
@@ -550,7 +550,7 @@
   "legislatura": [
    "Leg.15"
   ],
-  "fuente": "https://www.congreso.es/webpublica/opendata/iniciativas/ProyectosDeLey__20261025050023.json",
+  "fuente": "https://www.congreso.es/webpublica/opendata/iniciativas/ProyectosDeLey__20261026050028.json",
   "web": "https://www.congreso.es/es/opendata/iniciativas",
   "tramitados_como_proyecto": 43,
   "terminados_como_ley": 0,

@@ -1,5 +1,5 @@
 {
- "extraido": "2026-10-25T12:38:39+01:00",
+ "extraido": "2026-10-26T14:12:02+01:00",
  "fuente": "https://www.boe.es/buscar/boe.php",
  "nota": "Normas de la Jefatura del Estado en Sección I del BOE cuyo título empieza por 'Ley', 'Ley Orgánica' o 'Real Decreto-ley'; asignadas por fecha de la disposición. RDL derogados = 'Acuerdo de derogación' publicado por el Congreso (no convalidados).",
  "por_legislatura": [
@@ -231,7 +231,7 @@
   {
    "legislatura": "XV",
    "inicio": "2023-08-17",
-   "fin": "2026-10-25",
+   "fin": "2026-10-26",
    "gobierno": "Sánchez (PSOE-Sumar)",
    "años": 3.19,
    "leyes_ordinarias": 21,
@@ -2124,13 +2124,6 @@
    "ref": "BOE-A-1978-5335",
    "titulo": "Ley 10/1978, de 20 de febrero, derogación de la circunstancia cuarta del artículo 503 de la Ley de Enjuiciamiento Criminal."
   },
-  "Ley 11/1978": {
-   "tipo": "Ley",
-   "num": 11,
-   "fecha": "1978-02-20",
-   "ref": "BOE-A-1978-5336",
-   "titulo": "Ley 11/1978, de 20 de febrero, sobre derogación de la Ley 42/1974, de 28 de noviembre, de Bases, Orgánica de la Justicia."
-  },
   "Ley 12/1978": {
    "tipo": "Ley",
    "num": 12,
@@ -2158,6 +2151,13 @@
    "fecha": "1978-02-20",
    "ref": "BOE-A-1978-5340",
    "titulo": "Ley 15/1978, de 20 de febrero, sobre zona económica."
+  },
+  "Ley 11/1978": {
+   "tipo": "Ley",
+   "num": 11,
+   "fecha": "1978-02-20",
+   "ref": "BOE-A-1978-5336",
+   "titulo": "Ley 11/1978, de 20 de febrero, sobre derogación de la Ley 42/1974, de 28 de noviembre, de Bases, Orgánica de la Justicia."
   },
   "Real Decreto-ley 5/1978": {
    "tipo": "Real Decreto-ley",
@@ -3888,13 +3888,6 @@
    "ref": "BOE-A-1980-24444",
    "titulo": "Ley 53/1980, de 20 de octubre, por la que se regula la participación del Estado en el reaseguro de los riesgos comerciales del Seguro de Crédito a la Exportación."
   },
-  "Ley Orgánica 9/1980": {
-   "tipo": "Ley Orgánica",
-   "num": 9,
-   "fecha": "1980-11-06",
-   "ref": "BOE-A-1980-25460",
-   "titulo": "Ley Orgánica 9/1980, de 6 de noviembre, de reforma del Código de Justicia Militar."
-  },
   "Ley Orgánica 10/1980": {
    "tipo": "Ley Orgánica",
    "num": 10,
@@ -3915,6 +3908,13 @@
    "fecha": "1980-11-11",
    "ref": "BOE-A-1980-25463",
    "titulo": "Ley 55/1980, de 11 de noviembre, de montes vecinales en mano común."
+  },
+  "Ley Orgánica 9/1980": {
+   "tipo": "Ley Orgánica",
+   "num": 9,
+   "fecha": "1980-11-06",
+   "ref": "BOE-A-1980-25460",
+   "titulo": "Ley Orgánica 9/1980, de 6 de noviembre, de reforma del Código de Justicia Militar."
   },
   "Ley 56/1980": {
    "tipo": "Ley",
@@ -5519,13 +5519,6 @@
    "ref": "BOE-A-1983-27280",
    "titulo": "Ley 12/1983, de 14 de octubre, del Proceso Autonómico."
   },
-  "Ley 13/1983": {
-   "tipo": "Ley",
-   "num": 13,
-   "fecha": "1983-10-24",
-   "ref": "BOE-A-1983-28123",
-   "titulo": "Ley 13/1983, de 24 de octubre, de Reforma del Código Civil en materia de tutela."
-  },
   "Ley 14/1983": {
    "tipo": "Ley",
    "num": 14,
@@ -5546,6 +5539,13 @@
    "fecha": "1983-10-24",
    "ref": "BOE-A-1983-28126",
    "titulo": "Ley 16/1983, de 24 de octubre, de creación del Organismo Autónomo Instituto de la Mujer."
+  },
+  "Ley 13/1983": {
+   "tipo": "Ley",
+   "num": 13,
+   "fecha": "1983-10-24",
+   "ref": "BOE-A-1983-28123",
+   "titulo": "Ley 13/1983, de 24 de octubre, de Reforma del Código Civil en materia de tutela."
   },
   "Ley Orgánica 12/1983": {
    "tipo": "Ley Orgánica",
@@ -7185,13 +7185,6 @@
    "ref": "BOE-A-1987-16792",
    "titulo": "Ley 13/1987, de 17 de julio, de Derivación de Volúmenes de Agua de la Cuenca Alta del Tajo, a través del Acueducto Tajo-Segura, con carácter experimental, con destino al Parque Nacional de las Tablas "
   },
-  "Ley Orgánica 5/1987": {
-   "tipo": "Ley Orgánica",
-   "num": 5,
-   "fecha": "1987-07-30",
-   "ref": "BOE-A-1987-17800",
-   "titulo": "Ley Orgánica 5/1987, de 30 de julio, de Delegación de Facultades del Estado en las Comunidades Autónomas en relación con los transportes por carretera y por cable."
-  },
   "Ley 14/1987": {
    "tipo": "Ley",
    "num": 14,
@@ -7212,6 +7205,13 @@
    "fecha": "1987-07-30",
    "ref": "BOE-A-1987-17803",
    "titulo": "Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres."
+  },
+  "Ley Orgánica 5/1987": {
+   "tipo": "Ley Orgánica",
+   "num": 5,
+   "fecha": "1987-07-30",
+   "ref": "BOE-A-1987-17800",
+   "titulo": "Ley Orgánica 5/1987, de 30 de julio, de Delegación de Facultades del Estado en las Comunidades Autónomas en relación con los transportes por carretera y por cable."
   },
   "Real Decreto-ley 3/1987": {
    "tipo": "Real Decreto-ley",
