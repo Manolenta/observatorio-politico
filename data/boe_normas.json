@@ -1,5 +1,5 @@
 {
- "extraido": "2026-10-26T14:12:02+01:00",
+ "extraido": "2026-10-27T13:21:51+01:00",
  "fuente": "https://www.boe.es/buscar/boe.php",
  "nota": "Normas de la Jefatura del Estado en Sección I del BOE cuyo título empieza por 'Ley', 'Ley Orgánica' o 'Real Decreto-ley'; asignadas por fecha de la disposición. RDL derogados = 'Acuerdo de derogación' publicado por el Congreso (no convalidados).",
  "por_legislatura": [
@@ -231,16 +231,16 @@
   {
    "legislatura": "XV",
    "inicio": "2023-08-17",
-   "fin": "2026-10-26",
+   "fin": "2026-10-27",
    "gobierno": "Sánchez (PSOE-Sumar)",
-   "años": 3.19,
+   "años": 3.2,
    "leyes_ordinarias": 21,
    "leyes_organicas": 13,
    "rdl": 62,
    "rdl_derogados": 13,
    "rdl_convalidados_publicados": 45,
    "rdl_por_año": 19.4,
-   "leyes_por_año": 10.7,
+   "leyes_por_año": 10.6,
    "ratio_rdl_leyes": 1.82
   }
  ],
@@ -11714,19 +11714,19 @@
    "ref": "BOE-A-1998-28244",
    "titulo": "Real Decreto-ley 16/1998, de 4 de diciembre, por el que se financia el acuerdo interprofesional sobre formación continua en la Comunidad Autónoma del País Vasco."
   },
-  "Ley 40/1998": {
-   "tipo": "Ley",
-   "num": 40,
-   "fecha": "1998-12-09",
-   "ref": "BOE-A-1998-28472",
-   "titulo": "Ley 40/1998, de 9 de diciembre, del Impuesto sobre la Renta de las Personas Físicas y otras Normas Tributarias."
-  },
   "Ley 41/1998": {
    "tipo": "Ley",
    "num": 41,
    "fecha": "1998-12-09",
    "ref": "BOE-A-1998-28473",
    "titulo": "Ley 41/1998, de 9 de diciembre, sobre la Renta de no Residentes y Normas Tributarias."
+  },
+  "Ley 40/1998": {
+   "tipo": "Ley",
+   "num": 40,
+   "fecha": "1998-12-09",
+   "ref": "BOE-A-1998-28472",
+   "titulo": "Ley 40/1998, de 9 de diciembre, del Impuesto sobre la Renta de las Personas Físicas y otras Normas Tributarias."
   },
   "Real Decreto-ley 17/1998": {
    "tipo": "Real Decreto-ley",
@@ -21689,19 +21689,19 @@
    "ref": "BOE-A-2026-20264",
    "titulo": "Real Decreto-ley 24/2026, de 29 de septiembre, por el que se establecen medidas relacionadas con el plan de respuesta inmediata, reconstrucción y relanzamiento frente a los daños causados por la Depre"
   },
-  "Real Decreto-ley 25/2026": {
-   "tipo": "Real Decreto-ley",
-   "num": 25,
-   "fecha": "2026-09-29",
-   "ref": "BOE-A-2026-20265",
-   "titulo": "Real Decreto-ley 25/2026, de 29 de septiembre, por el que se adoptan y se prorrogan determinadas medidas en el marco del Plan Integral de Respuesta a la Crisis en Oriente Medio."
-  },
   "Real Decreto-ley 26/2026": {
    "tipo": "Real Decreto-ley",
    "num": 26,
    "fecha": "2026-09-29",
    "ref": "BOE-A-2026-20266",
    "titulo": "Real Decreto-ley 26/2026, de 29 de septiembre, por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y la ampliación de la oferta de vivienda asequible."
+  },
+  "Real Decreto-ley 25/2026": {
+   "tipo": "Real Decreto-ley",
+   "num": 25,
+   "fecha": "2026-09-29",
+   "ref": "BOE-A-2026-20265",
+   "titulo": "Real Decreto-ley 25/2026, de 29 de septiembre, por el que se adoptan y se prorrogan determinadas medidas en el marco del Plan Integral de Respuesta a la Crisis en Oriente Medio."
   },
   "Real Decreto-ley 27/2026": {
    "tipo": "Real Decreto-ley",

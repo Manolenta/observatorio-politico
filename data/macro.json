@@ -1,5 +1,5 @@
 {
- "extraido": "2026-10-26T14:07:39+01:00",
+ "extraido": "2026-10-27T13:15:51+01:00",
  "indicadores": [
   {
    "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tec00115?unit=CLV_PCH_PRE&na_item=B1GQ&geo=ES&geo=EU27_2020&geo=EA20&geo=DE&geo=FR&geo=IT&geo=PT",
@@ -447,7 +447,7 @@
   {
    "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/une_rt_a?age=Y15-74&sex=T&unit=PC_ACT&geo=ES&geo=EU27_2020&geo=EA20&geo=DE&geo=FR&geo=IT&geo=PT",
    "web": "https://ec.europa.eu/eurostat/databrowser/view/une_rt_a/default/table",
-   "actualizado_fuente": "2026-09-10T23:00:00+0200",
+   "actualizado_fuente": "2026-10-26T23:00:00+0100",
    "series": {
     "EU27_2020": {
      "2009": 9.3,
@@ -597,7 +597,7 @@
   {
    "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/une_rt_a?age=Y15-24&sex=T&unit=PC_ACT&geo=ES&geo=EU27_2020&geo=EA20&geo=DE&geo=FR&geo=IT&geo=PT",
    "web": "https://ec.europa.eu/eurostat/databrowser/view/une_rt_a/default/table",
-   "actualizado_fuente": "2026-09-10T23:00:00+0200",
+   "actualizado_fuente": "2026-10-26T23:00:00+0100",
    "series": {
     "EU27_2020": {
      "2009": 21.2,
