@@ -1,5 +1,5 @@
 {
- "extraido": "2026-10-27T13:22:36+01:00",
+ "extraido": "2026-10-28T14:04:07+01:00",
  "fuente": "https://www.boe.es/buscar/boe.php",
  "presupuestos": {
   "consulta": "https://www.boe.es/buscar/boe.php?campo%5B0%5D=ORIS&dato%5B0%5D%5B1%5D=1&operador%5B0%5D=and&campo%5B1%5D=TITULOS&dato%5B1%5D=%22Presupuestos+Generales+del+Estado+para%22&operador%5B1%5D=and&operador%5B6%5D=and&campo%5B6%5D=FPU&dato%5B6%5D%5B0%5D=1977-01-01&dato%5B6%5D%5B1%5D=2026-12-31&page_hits=2000&sort_field%5B0%5D=FPU&sort_order%5B0%5D=asc&accion=Buscar",
@@ -550,7 +550,7 @@
   "legislatura": [
    "Leg.15"
   ],
-  "fuente": "https://www.congreso.es/webpublica/opendata/iniciativas/ProyectosDeLey__20261026050028.json",
+  "fuente": "https://www.congreso.es/webpublica/opendata/iniciativas/ProyectosDeLey__20261028050030.json",
   "web": "https://www.congreso.es/es/opendata/iniciativas",
   "tramitados_como_proyecto": 43,
   "terminados_como_ley": 0,
@@ -815,8 +815,7 @@
     "resultado": ""
    }
   ],
-  "nota": "Los datos abiertos del Congreso solo cubren la legislatura en curso. Para legislaturas anteriores queda pendiente: los acuerdos de convalidación del BOE no indican si se acordó tramitar el RDL como proyecto de ley.",
-  "aviso": "Fallo al actualizar; dato anterior: 404 Client Error: Not Found for url: https://www.congreso.es/webpublica/opendata/iniciativas/ProyectosDeLey__20261027111"
+  "nota": "Los datos abiertos del Congreso solo cubren la legislatura en curso. Para legislaturas anteriores queda pendiente: los acuerdos de convalidación del BOE no indican si se acordó tramitar el RDL como proyecto de ley."
  },
  "funciones": {
   "periodos": [

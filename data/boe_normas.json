@@ -1,5 +1,5 @@
 {
- "extraido": "2026-10-27T13:21:51+01:00",
+ "extraido": "2026-10-28T14:03:22+01:00",
  "fuente": "https://www.boe.es/buscar/boe.php",
  "nota": "Normas de la Jefatura del Estado en Sección I del BOE cuyo título empieza por 'Ley', 'Ley Orgánica' o 'Real Decreto-ley'; asignadas por fecha de la disposición. RDL derogados = 'Acuerdo de derogación' publicado por el Congreso (no convalidados).",
  "por_legislatura": [
@@ -231,7 +231,7 @@
   {
    "legislatura": "XV",
    "inicio": "2023-08-17",
-   "fin": "2026-10-27",
+   "fin": "2026-10-28",
    "gobierno": "Sánchez (PSOE-Sumar)",
    "años": 3.2,
    "leyes_ordinarias": 21,
@@ -1295,7 +1295,7 @@
    "año": 2026,
    "tipo": "normas",
    "url": "https://www.boe.es/buscar/boe.php?campo%5B0%5D=ORIS&dato%5B0%5D%5B1%5D=1&operador%5B0%5D=and&campo%5B1%5D=TITULOS&dato%5B1%5D=ley&operador%5B1%5D=and&operador%5B6%5D=and&campo%5B6%5D=FPU&dato%5B6%5D%5B0%5D=2026-01-01&dato%5B6%5D%5B1%5D=2026-12-31&page_hits=2000&sort_field%5B0%5D=FPU&sort_order%5B0%5D=asc&accion=Buscar",
-   "resultados": 298
+   "resultados": 299
   },
   {
    "año": 2026,
