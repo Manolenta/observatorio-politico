@@ -1,5 +1,5 @@
 {
- "extraido": "2026-10-28T14:03:22+01:00",
+ "extraido": "2026-10-29T14:10:00+01:00",
  "fuente": "https://www.boe.es/buscar/boe.php",
  "nota": "Normas de la Jefatura del Estado en Sección I del BOE cuyo título empieza por 'Ley', 'Ley Orgánica' o 'Real Decreto-ley'; asignadas por fecha de la disposición. RDL derogados = 'Acuerdo de derogación' publicado por el Congreso (no convalidados).",
  "por_legislatura": [
@@ -231,7 +231,7 @@
   {
    "legislatura": "XV",
    "inicio": "2023-08-17",
-   "fin": "2026-10-28",
+   "fin": "2026-10-29",
    "gobierno": "Sánchez (PSOE-Sumar)",
    "años": 3.2,
    "leyes_ordinarias": 21,
@@ -4952,13 +4952,6 @@
    "ref": "BOE-A-1982-16315",
    "titulo": "Ley 24/1982, de 16 de junio, sobre prácticas y enseñanzas sanitarias especializadas."
   },
-  "Ley Orgánica 5/1982": {
-   "tipo": "Ley Orgánica",
-   "num": 5,
-   "fecha": "1982-07-01",
-   "ref": "BOE-A-1982-17235",
-   "titulo": "Ley Orgánica 5/1982, de 1 de julio, de Estatuto de Autonomía de la Comunidad Valenciana."
-  },
   "Ley 25/1982": {
    "tipo": "Ley",
    "num": 25,
@@ -5021,6 +5014,13 @@
    "fecha": "1982-07-01",
    "ref": "BOE-A-1982-17244",
    "titulo": "Ley 33/1982, de 1 de julio, sobre concesión de un suplemento de crédito por importe de pesetas 18.000.000.000 al presupuesto en vigor del Ministerio de Industria y Energía, para dotar al Instituto Nac"
+  },
+  "Ley Orgánica 5/1982": {
+   "tipo": "Ley Orgánica",
+   "num": 5,
+   "fecha": "1982-07-01",
+   "ref": "BOE-A-1982-17235",
+   "titulo": "Ley Orgánica 5/1982, de 1 de julio, de Estatuto de Autonomía de la Comunidad Valenciana."
   },
   "Ley Orgánica 6/1982": {
    "tipo": "Ley Orgánica",
@@ -5183,13 +5183,6 @@
    "ref": "BOE-A-1982-20819",
    "titulo": "Ley Orgánica 8/1982, de 10 de agosto, de Estatuto de Autonomía de Aragón."
   },
-  "Ley Orgánica 9/1982": {
-   "tipo": "Ley Orgánica",
-   "num": 9,
-   "fecha": "1982-08-10",
-   "ref": "BOE-A-1982-20820",
-   "titulo": "Ley Orgánica 9/1982, de 10 de agosto, de Estatuto de Autonomía de Castilla-La Mancha."
-  },
   "Ley Orgánica 10/1982": {
    "tipo": "Ley Orgánica",
    "num": 10,
@@ -5217,6 +5210,13 @@
    "fecha": "1982-08-10",
    "ref": "BOE-A-1982-20824",
    "titulo": "Ley Orgánica 13/1982, de 10 de agosto, de reintegración y amejoramiento del Régimen Foral de Navarra."
+  },
+  "Ley Orgánica 9/1982": {
+   "tipo": "Ley Orgánica",
+   "num": 9,
+   "fecha": "1982-08-10",
+   "ref": "BOE-A-1982-20820",
+   "titulo": "Ley Orgánica 9/1982, de 10 de agosto, de Estatuto de Autonomía de Castilla-La Mancha."
   },
   "Real Decreto-ley 12/1982": {
    "tipo": "Real Decreto-ley",
@@ -5533,19 +5533,19 @@
    "ref": "BOE-A-1983-28125",
    "titulo": "Ley 15/1983, de 24 de octubre, de autorización al Ministerio de Economía y Hacienda para permutar el inmueble dedicado a Centro de Preventivos y de Cumplimiento de Penas por un terreno propiedad del A"
   },
-  "Ley 16/1983": {
-   "tipo": "Ley",
-   "num": 16,
-   "fecha": "1983-10-24",
-   "ref": "BOE-A-1983-28126",
-   "titulo": "Ley 16/1983, de 24 de octubre, de creación del Organismo Autónomo Instituto de la Mujer."
-  },
   "Ley 13/1983": {
    "tipo": "Ley",
    "num": 13,
    "fecha": "1983-10-24",
    "ref": "BOE-A-1983-28123",
    "titulo": "Ley 13/1983, de 24 de octubre, de Reforma del Código Civil en materia de tutela."
+  },
+  "Ley 16/1983": {
+   "tipo": "Ley",
+   "num": 16,
+   "fecha": "1983-10-24",
+   "ref": "BOE-A-1983-28126",
+   "titulo": "Ley 16/1983, de 24 de octubre, de creación del Organismo Autónomo Instituto de la Mujer."
   },
   "Ley Orgánica 12/1983": {
    "tipo": "Ley Orgánica",
@@ -9873,19 +9873,19 @@
    "ref": "BOE-A-1995-7240",
    "titulo": "Ley 2/1995, de 23 de marzo, de Sociedades de Responsabilidad Limitada."
   },
-  "Ley 3/1995": {
-   "tipo": "Ley",
-   "num": 3,
-   "fecha": "1995-03-23",
-   "ref": "BOE-A-1995-7241",
-   "titulo": "Ley 3/1995, de 23 de marzo, de Vías Pecuarias."
-  },
   "Ley 4/1995": {
    "tipo": "Ley",
    "num": 4,
    "fecha": "1995-03-23",
    "ref": "BOE-A-1995-7242",
    "titulo": "Ley 4/1995, de 23 de marzo, de regulación del permiso parental y por maternidad."
+  },
+  "Ley 3/1995": {
+   "tipo": "Ley",
+   "num": 3,
+   "fecha": "1995-03-23",
+   "ref": "BOE-A-1995-7241",
+   "titulo": "Ley 3/1995, de 23 de marzo, de Vías Pecuarias."
   },
   "Ley 5/1995": {
    "tipo": "Ley",
@@ -13933,19 +13933,19 @@
    "ref": "BOE-A-2003-20976",
    "titulo": "Ley 37/2003, de 17 de noviembre, del Ruido."
   },
-  "Ley 38/2003": {
-   "tipo": "Ley",
-   "num": 38,
-   "fecha": "2003-11-17",
-   "ref": "BOE-A-2003-20977",
-   "titulo": "Ley 38/2003, de 17 de noviembre, General de Subvenciones."
-  },
   "Ley 39/2003": {
    "tipo": "Ley",
    "num": 39,
    "fecha": "2003-11-17",
    "ref": "BOE-A-2003-20978",
    "titulo": "Ley 39/2003, de 17 de noviembre, del Sector Ferroviario."
+  },
+  "Ley 38/2003": {
+   "tipo": "Ley",
+   "num": 38,
+   "fecha": "2003-11-17",
+   "ref": "BOE-A-2003-20977",
+   "titulo": "Ley 38/2003, de 17 de noviembre, General de Subvenciones."
   },
   "Ley 40/2003": {
    "tipo": "Ley",
@@ -14255,13 +14255,6 @@
    "ref": "BOE-A-2004-21690",
    "titulo": "Real Decreto-ley 11/2004, de 23 de diciembre, por el que se modifica, en materia de pensiones públicas, la Ley de Presupuestos Generales del Estado para el año 2005."
   },
-  "Ley Orgánica 1/2004": {
-   "tipo": "Ley Orgánica",
-   "num": 1,
-   "fecha": "2004-12-28",
-   "ref": "BOE-A-2004-21760",
-   "titulo": "Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género."
-  },
   "Ley Orgánica 2/2004": {
    "tipo": "Ley Orgánica",
    "num": 2,
@@ -14275,6 +14268,13 @@
    "fecha": "2004-12-28",
    "ref": "BOE-A-2004-21762",
    "titulo": "Ley Orgánica 3/2004, de 28 de diciembre, por la que se modifica la Ley Orgánica 3/1980, de 22 de abril, del Consejo de Estado."
+  },
+  "Ley Orgánica 1/2004": {
+   "tipo": "Ley Orgánica",
+   "num": 1,
+   "fecha": "2004-12-28",
+   "ref": "BOE-A-2004-21760",
+   "titulo": "Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género."
   },
   "Ley 3/2004": {
    "tipo": "Ley",
@@ -17531,19 +17531,19 @@
    "ref": "BOE-A-2013-5670",
    "titulo": "Ley 2/2013, de 29 de mayo, de protección y uso sostenible del litoral y de modificación de la Ley 22/1988, de 28 de julio, de Costas."
   },
-  "Ley 3/2013": {
-   "tipo": "Ley",
-   "num": 3,
-   "fecha": "2013-06-04",
-   "ref": "BOE-A-2013-5940",
-   "titulo": "Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia."
-  },
   "Ley 4/2013": {
    "tipo": "Ley",
    "num": 4,
    "fecha": "2013-06-04",
    "ref": "BOE-A-2013-5941",
    "titulo": "Ley 4/2013, de 4 de junio, de medidas de flexibilización y fomento del mercado del alquiler de viviendas."
+  },
+  "Ley 3/2013": {
+   "tipo": "Ley",
+   "num": 3,
+   "fecha": "2013-06-04",
+   "ref": "BOE-A-2013-5940",
+   "titulo": "Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia."
   },
   "Ley 5/2013": {
    "tipo": "Ley",
@@ -18077,19 +18077,19 @@
    "ref": "BOE-A-2014-10059",
    "titulo": "Real Decreto-ley 13/2014, de 3 de octubre, por el que se adoptan medidas urgentes en relación con el sistema gasista y la titularidad de centrales nucleares."
   },
-  "Ley 18/2014": {
-   "tipo": "Ley",
-   "num": 18,
-   "fecha": "2014-10-15",
-   "ref": "BOE-A-2014-10517",
-   "titulo": "Ley 18/2014, de 15 de octubre, de aprobación de medidas urgentes para el crecimiento, la competitividad y la eficiencia."
-  },
   "Ley 19/2014": {
    "tipo": "Ley",
    "num": 19,
    "fecha": "2014-10-15",
    "ref": "BOE-A-2014-10518",
    "titulo": "Ley 19/2014, de 15 de octubre, por la que se crea el Consejo General de Colegios Oficiales de Dietistas-Nutricionistas."
+  },
+  "Ley 18/2014": {
+   "tipo": "Ley",
+   "num": 18,
+   "fecha": "2014-10-15",
+   "ref": "BOE-A-2014-10517",
+   "titulo": "Ley 18/2014, de 15 de octubre, de aprobación de medidas urgentes para el crecimiento, la competitividad y la eficiencia."
   },
   "Ley Orgánica 6/2014": {
    "tipo": "Ley Orgánica",
@@ -21059,19 +21059,19 @@
    "ref": "BOE-A-2023-11187",
    "titulo": "Real Decreto-ley 4/2023, de 11 de mayo, por el que se adoptan medidas urgentes en materia agraria y de aguas en respuesta a la sequía y al agravamiento de las condiciones del sector primario derivado "
   },
-  "Ley 12/2023": {
-   "tipo": "Ley",
-   "num": 12,
-   "fecha": "2023-05-24",
-   "ref": "BOE-A-2023-12203",
-   "titulo": "Ley 12/2023, de 24 de mayo, por el derecho a la vivienda."
-  },
   "Ley 13/2023": {
    "tipo": "Ley",
    "num": 13,
    "fecha": "2023-05-24",
    "ref": "BOE-A-2023-12204",
    "titulo": "Ley 13/2023, de 24 de mayo, por la que se modifican la Ley 58/2003, de 17 de diciembre, General Tributaria, en transposición de la Directiva (UE) 2021/514 del Consejo de 22 de marzo de 2021, por la qu"
+  },
+  "Ley 12/2023": {
+   "tipo": "Ley",
+   "num": 12,
+   "fecha": "2023-05-24",
+   "ref": "BOE-A-2023-12203",
+   "titulo": "Ley 12/2023, de 24 de mayo, por el derecho a la vivienda."
   },
   "Real Decreto-ley 5/2023": {
    "tipo": "Real Decreto-ley",
