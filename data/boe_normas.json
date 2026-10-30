@@ -1,5 +1,5 @@
 {
- "extraido": "2026-10-29T14:10:00+01:00",
+ "extraido": "2026-10-30T14:03:25+01:00",
  "fuente": "https://www.boe.es/buscar/boe.php",
  "nota": "Normas de la Jefatura del Estado en Sección I del BOE cuyo título empieza por 'Ley', 'Ley Orgánica' o 'Real Decreto-ley'; asignadas por fecha de la disposición. RDL derogados = 'Acuerdo de derogación' publicado por el Congreso (no convalidados).",
  "por_legislatura": [
@@ -231,7 +231,7 @@
   {
    "legislatura": "XV",
    "inicio": "2023-08-17",
-   "fin": "2026-10-29",
+   "fin": "2026-10-30",
    "gobierno": "Sánchez (PSOE-Sumar)",
    "años": 3.2,
    "leyes_ordinarias": 21,
@@ -4973,13 +4973,6 @@
    "ref": "BOE-A-1982-17238",
    "titulo": "Ley 27/1982, de 30 de junio, sobre creación de la Universidad Castellano-Manchega."
   },
-  "Ley 28/1982": {
-   "tipo": "Ley",
-   "num": 28,
-   "fecha": "1982-07-01",
-   "ref": "BOE-A-1982-17239",
-   "titulo": "Ley 28/1982, de 1 de julio, sobre concesión de un crédito extraordinario por importe de 895.989.949 pesetas al Presupuesto en vigor del Ministerio de Industria y Energía, para compensar al Instituto N"
-  },
   "Ley 29/1982": {
    "tipo": "Ley",
    "num": 29,
@@ -5021,6 +5014,13 @@
    "fecha": "1982-07-01",
    "ref": "BOE-A-1982-17235",
    "titulo": "Ley Orgánica 5/1982, de 1 de julio, de Estatuto de Autonomía de la Comunidad Valenciana."
+  },
+  "Ley 28/1982": {
+   "tipo": "Ley",
+   "num": 28,
+   "fecha": "1982-07-01",
+   "ref": "BOE-A-1982-17239",
+   "titulo": "Ley 28/1982, de 1 de julio, sobre concesión de un crédito extraordinario por importe de 895.989.949 pesetas al Presupuesto en vigor del Ministerio de Industria y Energía, para compensar al Instituto N"
   },
   "Ley Orgánica 6/1982": {
    "tipo": "Ley Orgánica",
@@ -13436,19 +13436,19 @@
    "ref": "BOE-A-2002-22649",
    "titulo": "Ley 43/2002, de 20 de noviembre, de sanidad vegetal."
   },
-  "Ley 44/2002": {
-   "tipo": "Ley",
-   "num": 44,
-   "fecha": "2002-11-22",
-   "ref": "BOE-A-2002-22807",
-   "titulo": "Ley 44/2002, de 22 de noviembre, de Medidas de Reforma del Sistema Financiero."
-  },
   "Real Decreto-ley 7/2002": {
    "tipo": "Real Decreto-ley",
    "num": 7,
    "fecha": "2002-11-22",
    "ref": "BOE-A-2002-22809",
    "titulo": "Real Decreto-ley 7/2002, de 22 de noviembre, sobre medidas reparadoras en relación con el accidente del buque \"Prestige\"."
+  },
+  "Ley 44/2002": {
+   "tipo": "Ley",
+   "num": 44,
+   "fecha": "2002-11-22",
+   "ref": "BOE-A-2002-22807",
+   "titulo": "Ley 44/2002, de 22 de noviembre, de Medidas de Reforma del Sistema Financiero."
   },
   "Ley Orgánica 9/2002": {
    "tipo": "Ley Orgánica",
@@ -15585,13 +15585,6 @@
    "ref": "BOE-A-2007-21489",
    "titulo": "Ley Orgánica 16/2007, de 13 de diciembre, complementaria de la Ley para el desarrollo sostenible del medio rural."
   },
-  "Ley 42/2007": {
-   "tipo": "Ley",
-   "num": 42,
-   "fecha": "2007-12-13",
-   "ref": "BOE-A-2007-21490",
-   "titulo": "Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad."
-  },
   "Ley 43/2007": {
    "tipo": "Ley",
    "num": 43,
@@ -15619,6 +15612,13 @@
    "fecha": "2007-12-13",
    "ref": "BOE-A-2007-21494",
    "titulo": "Ley 46/2007, de 13 de diciembre, de modificación de la Ley 42/1999, de 25 de noviembre, de Régimen del Personal del Cuerpo de la Guardia Civil."
+  },
+  "Ley 42/2007": {
+   "tipo": "Ley",
+   "num": 42,
+   "fecha": "2007-12-13",
+   "ref": "BOE-A-2007-21490",
+   "titulo": "Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad."
   },
   "Ley 47/2007": {
    "tipo": "Ley",
@@ -16593,13 +16593,6 @@
    "ref": "BOE-A-2010-20140",
    "titulo": "Ley 44/2010, de 30 de diciembre, de aguas canarias."
   },
-  "Ley Orgánica 1/2011": {
-   "tipo": "Ley Orgánica",
-   "num": 1,
-   "fecha": "2011-01-28",
-   "ref": "BOE-A-2011-1638",
-   "titulo": "Ley Orgánica 1/2011, de 28 de enero, de reforma del Estatuto de Autonomía de la Comunidad Autónoma de Extremadura."
-  },
   "Ley Orgánica 2/2011": {
    "tipo": "Ley Orgánica",
    "num": 2,
@@ -16613,6 +16606,13 @@
    "fecha": "2011-01-28",
    "ref": "BOE-A-2011-1640",
    "titulo": "Ley Orgánica 3/2011, de 28 de enero, por la que se modifica la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General."
+  },
+  "Ley Orgánica 1/2011": {
+   "tipo": "Ley Orgánica",
+   "num": 1,
+   "fecha": "2011-01-28",
+   "ref": "BOE-A-2011-1638",
+   "titulo": "Ley Orgánica 1/2011, de 28 de enero, de reforma del Estatuto de Autonomía de la Comunidad Autónoma de Extremadura."
   },
   "Real Decreto-ley 1/2011": {
    "tipo": "Real Decreto-ley",
@@ -20870,13 +20870,6 @@
    "ref": "BOE-A-2022-22678",
    "titulo": "Ley 32/2022, de 27 de diciembre, por la que se modifica la Ley 18/2010, de 16 de julio, del régimen de cesión de tributos del Estado a la Comunidad Autónoma de Andalucía y de fijación del alcance y co"
   },
-  "Ley 33/2022": {
-   "tipo": "Ley",
-   "num": 33,
-   "fecha": "2022-12-27",
-   "ref": "BOE-A-2022-22679",
-   "titulo": "Ley 33/2022, de 27 de diciembre, por la que se modifica la Ley 26/2010, de 16 de julio, del régimen de cesión de tributos del Estado a la Comunidad Autónoma de Canarias y de fijación del alcance y con"
-  },
   "Ley 34/2022": {
    "tipo": "Ley",
    "num": 34,
@@ -20918,6 +20911,13 @@
    "fecha": "2022-12-27",
    "ref": "BOE-A-2022-22685",
    "titulo": "Real Decreto-ley 20/2022, de 27 de diciembre, de medidas de respuesta a las consecuencias económicas y sociales de la Guerra de Ucrania y de apoyo a la reconstrucción de la isla de La Palma y a otras "
+  },
+  "Ley 33/2022": {
+   "tipo": "Ley",
+   "num": 33,
+   "fecha": "2022-12-27",
+   "ref": "BOE-A-2022-22679",
+   "titulo": "Ley 33/2022, de 27 de diciembre, por la que se modifica la Ley 26/2010, de 16 de julio, del régimen de cesión de tributos del Estado a la Comunidad Autónoma de Canarias y de fijación del alcance y con"
   },
   "Ley 39/2022": {
    "tipo": "Ley",
@@ -21717,19 +21717,19 @@
    "ref": "BOE-A-2026-20528",
    "titulo": "Ley 4/2026, de 1 de octubre, por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativ"
   },
-  "Real Decreto-ley 28/2026": {
-   "tipo": "Real Decreto-ley",
-   "num": 28,
-   "fecha": "2026-10-06",
-   "ref": "BOE-A-2026-20822",
-   "titulo": "Real Decreto-ley 28/2026, de 6 de octubre, por el que se adoptan medidas urgentes para reforzar la estabilidad de los contratos de arrendamiento de vivienda habitual."
-  },
   "Real Decreto-ley 29/2026": {
    "tipo": "Real Decreto-ley",
    "num": 29,
    "fecha": "2026-10-06",
    "ref": "BOE-A-2026-20823",
    "titulo": "Real Decreto-ley 29/2026, de 6 de octubre, por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y la ampliación de la oferta de vivienda asequible."
+  },
+  "Real Decreto-ley 28/2026": {
+   "tipo": "Real Decreto-ley",
+   "num": 28,
+   "fecha": "2026-10-06",
+   "ref": "BOE-A-2026-20822",
+   "titulo": "Real Decreto-ley 28/2026, de 6 de octubre, por el que se adoptan medidas urgentes para reforzar la estabilidad de los contratos de arrendamiento de vivienda habitual."
   },
   "Ley Orgánica 4/2026": {
    "tipo": "Ley Orgánica",
