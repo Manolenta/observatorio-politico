@@ -1,5 +1,5 @@
 {
- "extraido": "2026-10-30T14:03:25+01:00",
+ "extraido": "2026-11-04T15:42:02+01:00",
  "fuente": "https://www.boe.es/buscar/boe.php",
  "nota": "Normas de la Jefatura del Estado en Sección I del BOE cuyo título empieza por 'Ley', 'Ley Orgánica' o 'Real Decreto-ley'; asignadas por fecha de la disposición. RDL derogados = 'Acuerdo de derogación' publicado por el Congreso (no convalidados).",
  "por_legislatura": [
@@ -231,17 +231,17 @@
   {
    "legislatura": "XV",
    "inicio": "2023-08-17",
-   "fin": "2026-10-30",
+   "fin": "2026-11-04",
    "gobierno": "Sánchez (PSOE-Sumar)",
-   "años": 3.2,
+   "años": 3.22,
    "leyes_ordinarias": 21,
    "leyes_organicas": 13,
-   "rdl": 62,
+   "rdl": 63,
    "rdl_derogados": 13,
    "rdl_convalidados_publicados": 45,
-   "rdl_por_año": 19.4,
+   "rdl_por_año": 19.6,
    "leyes_por_año": 10.6,
-   "ratio_rdl_leyes": 1.82
+   "ratio_rdl_leyes": 1.85
   }
  ],
  "por_año": {
@@ -494,7 +494,7 @@
    "RDL derogados": 2
   },
   "2026": {
-   "Real Decreto-ley": 31,
+   "Real Decreto-ley": 32,
    "Ley Orgánica": 4,
    "Ley": 4,
    "RDL derogados": 8
@@ -1295,7 +1295,7 @@
    "año": 2026,
    "tipo": "normas",
    "url": "https://www.boe.es/buscar/boe.php?campo%5B0%5D=ORIS&dato%5B0%5D%5B1%5D=1&operador%5B0%5D=and&campo%5B1%5D=TITULOS&dato%5B1%5D=ley&operador%5B1%5D=and&operador%5B6%5D=and&campo%5B6%5D=FPU&dato%5B6%5D%5B0%5D=2026-01-01&dato%5B6%5D%5B1%5D=2026-12-31&page_hits=2000&sort_field%5B0%5D=FPU&sort_order%5B0%5D=asc&accion=Buscar",
-   "resultados": 299
+   "resultados": 300
   },
   {
    "año": 2026,
@@ -2124,6 +2124,13 @@
    "ref": "BOE-A-1978-5335",
    "titulo": "Ley 10/1978, de 20 de febrero, derogación de la circunstancia cuarta del artículo 503 de la Ley de Enjuiciamiento Criminal."
   },
+  "Ley 11/1978": {
+   "tipo": "Ley",
+   "num": 11,
+   "fecha": "1978-02-20",
+   "ref": "BOE-A-1978-5336",
+   "titulo": "Ley 11/1978, de 20 de febrero, sobre derogación de la Ley 42/1974, de 28 de noviembre, de Bases, Orgánica de la Justicia."
+  },
   "Ley 12/1978": {
    "tipo": "Ley",
    "num": 12,
@@ -2151,13 +2158,6 @@
    "fecha": "1978-02-20",
    "ref": "BOE-A-1978-5340",
    "titulo": "Ley 15/1978, de 20 de febrero, sobre zona económica."
-  },
-  "Ley 11/1978": {
-   "tipo": "Ley",
-   "num": 11,
-   "fecha": "1978-02-20",
-   "ref": "BOE-A-1978-5336",
-   "titulo": "Ley 11/1978, de 20 de febrero, sobre derogación de la Ley 42/1974, de 28 de noviembre, de Bases, Orgánica de la Justicia."
   },
   "Real Decreto-ley 5/1978": {
    "tipo": "Real Decreto-ley",
@@ -3888,6 +3888,13 @@
    "ref": "BOE-A-1980-24444",
    "titulo": "Ley 53/1980, de 20 de octubre, por la que se regula la participación del Estado en el reaseguro de los riesgos comerciales del Seguro de Crédito a la Exportación."
   },
+  "Ley Orgánica 9/1980": {
+   "tipo": "Ley Orgánica",
+   "num": 9,
+   "fecha": "1980-11-06",
+   "ref": "BOE-A-1980-25460",
+   "titulo": "Ley Orgánica 9/1980, de 6 de noviembre, de reforma del Código de Justicia Militar."
+  },
   "Ley Orgánica 10/1980": {
    "tipo": "Ley Orgánica",
    "num": 10,
@@ -3908,13 +3915,6 @@
    "fecha": "1980-11-11",
    "ref": "BOE-A-1980-25463",
    "titulo": "Ley 55/1980, de 11 de noviembre, de montes vecinales en mano común."
-  },
-  "Ley Orgánica 9/1980": {
-   "tipo": "Ley Orgánica",
-   "num": 9,
-   "fecha": "1980-11-06",
-   "ref": "BOE-A-1980-25460",
-   "titulo": "Ley Orgánica 9/1980, de 6 de noviembre, de reforma del Código de Justicia Militar."
   },
   "Ley 56/1980": {
    "tipo": "Ley",
@@ -4973,6 +4973,13 @@
    "ref": "BOE-A-1982-17238",
    "titulo": "Ley 27/1982, de 30 de junio, sobre creación de la Universidad Castellano-Manchega."
   },
+  "Ley 28/1982": {
+   "tipo": "Ley",
+   "num": 28,
+   "fecha": "1982-07-01",
+   "ref": "BOE-A-1982-17239",
+   "titulo": "Ley 28/1982, de 1 de julio, sobre concesión de un crédito extraordinario por importe de 895.989.949 pesetas al Presupuesto en vigor del Ministerio de Industria y Energía, para compensar al Instituto N"
+  },
   "Ley 29/1982": {
    "tipo": "Ley",
    "num": 29,
@@ -4987,26 +4994,12 @@
    "ref": "BOE-A-1982-17241",
    "titulo": "Ley 30/1982, de 1 de julio, de modificación de las plantillas presupuestarias de los Cuerpos de Instituciones Penitenciarias."
   },
-  "Ley 31/1982": {
-   "tipo": "Ley",
-   "num": 31,
-   "fecha": "1982-07-01",
-   "ref": "BOE-A-1982-17242",
-   "titulo": "Ley 31/1982, de 1 de julio, sobre concesión de un suplemento de crédito por importe de 193.029.000 pesetas, para pago a la «Compañía Telefónica Nacional de España» de alquileres de circuitos y canaliz"
-  },
   "Ley 32/1982": {
    "tipo": "Ley",
    "num": 32,
    "fecha": "1982-07-01",
    "ref": "BOE-A-1982-17243",
    "titulo": "Ley 32/1982, de 1 de julio, sobre concesión de un suplemento de crédito por un importe total de 5.082.243.000 pesetas al presupuesto en vigor del Ministerio de Industria y Energía, para dotar al Insti"
-  },
-  "Ley 33/1982": {
-   "tipo": "Ley",
-   "num": 33,
-   "fecha": "1982-07-01",
-   "ref": "BOE-A-1982-17244",
-   "titulo": "Ley 33/1982, de 1 de julio, sobre concesión de un suplemento de crédito por importe de pesetas 18.000.000.000 al presupuesto en vigor del Ministerio de Industria y Energía, para dotar al Instituto Nac"
   },
   "Ley Orgánica 5/1982": {
    "tipo": "Ley Orgánica",
@@ -5015,12 +5008,19 @@
    "ref": "BOE-A-1982-17235",
    "titulo": "Ley Orgánica 5/1982, de 1 de julio, de Estatuto de Autonomía de la Comunidad Valenciana."
   },
-  "Ley 28/1982": {
+  "Ley 31/1982": {
    "tipo": "Ley",
-   "num": 28,
+   "num": 31,
    "fecha": "1982-07-01",
-   "ref": "BOE-A-1982-17239",
-   "titulo": "Ley 28/1982, de 1 de julio, sobre concesión de un crédito extraordinario por importe de 895.989.949 pesetas al Presupuesto en vigor del Ministerio de Industria y Energía, para compensar al Instituto N"
+   "ref": "BOE-A-1982-17242",
+   "titulo": "Ley 31/1982, de 1 de julio, sobre concesión de un suplemento de crédito por importe de 193.029.000 pesetas, para pago a la «Compañía Telefónica Nacional de España» de alquileres de circuitos y canaliz"
+  },
+  "Ley 33/1982": {
+   "tipo": "Ley",
+   "num": 33,
+   "fecha": "1982-07-01",
+   "ref": "BOE-A-1982-17244",
+   "titulo": "Ley 33/1982, de 1 de julio, sobre concesión de un suplemento de crédito por importe de pesetas 18.000.000.000 al presupuesto en vigor del Ministerio de Industria y Energía, para dotar al Instituto Nac"
   },
   "Ley Orgánica 6/1982": {
    "tipo": "Ley Orgánica",
@@ -5183,6 +5183,13 @@
    "ref": "BOE-A-1982-20819",
    "titulo": "Ley Orgánica 8/1982, de 10 de agosto, de Estatuto de Autonomía de Aragón."
   },
+  "Ley Orgánica 9/1982": {
+   "tipo": "Ley Orgánica",
+   "num": 9,
+   "fecha": "1982-08-10",
+   "ref": "BOE-A-1982-20820",
+   "titulo": "Ley Orgánica 9/1982, de 10 de agosto, de Estatuto de Autonomía de Castilla-La Mancha."
+  },
   "Ley Orgánica 10/1982": {
    "tipo": "Ley Orgánica",
    "num": 10,
@@ -5210,13 +5217,6 @@
    "fecha": "1982-08-10",
    "ref": "BOE-A-1982-20824",
    "titulo": "Ley Orgánica 13/1982, de 10 de agosto, de reintegración y amejoramiento del Régimen Foral de Navarra."
-  },
-  "Ley Orgánica 9/1982": {
-   "tipo": "Ley Orgánica",
-   "num": 9,
-   "fecha": "1982-08-10",
-   "ref": "BOE-A-1982-20820",
-   "titulo": "Ley Orgánica 9/1982, de 10 de agosto, de Estatuto de Autonomía de Castilla-La Mancha."
   },
   "Real Decreto-ley 12/1982": {
    "tipo": "Real Decreto-ley",
@@ -5519,6 +5519,13 @@
    "ref": "BOE-A-1983-27280",
    "titulo": "Ley 12/1983, de 14 de octubre, del Proceso Autonómico."
   },
+  "Ley 13/1983": {
+   "tipo": "Ley",
+   "num": 13,
+   "fecha": "1983-10-24",
+   "ref": "BOE-A-1983-28123",
+   "titulo": "Ley 13/1983, de 24 de octubre, de Reforma del Código Civil en materia de tutela."
+  },
   "Ley 14/1983": {
    "tipo": "Ley",
    "num": 14,
@@ -5532,13 +5539,6 @@
    "fecha": "1983-10-24",
    "ref": "BOE-A-1983-28125",
    "titulo": "Ley 15/1983, de 24 de octubre, de autorización al Ministerio de Economía y Hacienda para permutar el inmueble dedicado a Centro de Preventivos y de Cumplimiento de Penas por un terreno propiedad del A"
-  },
-  "Ley 13/1983": {
-   "tipo": "Ley",
-   "num": 13,
-   "fecha": "1983-10-24",
-   "ref": "BOE-A-1983-28123",
-   "titulo": "Ley 13/1983, de 24 de octubre, de Reforma del Código Civil en materia de tutela."
   },
   "Ley 16/1983": {
    "tipo": "Ley",
@@ -7185,6 +7185,13 @@
    "ref": "BOE-A-1987-16792",
    "titulo": "Ley 13/1987, de 17 de julio, de Derivación de Volúmenes de Agua de la Cuenca Alta del Tajo, a través del Acueducto Tajo-Segura, con carácter experimental, con destino al Parque Nacional de las Tablas "
   },
+  "Ley Orgánica 5/1987": {
+   "tipo": "Ley Orgánica",
+   "num": 5,
+   "fecha": "1987-07-30",
+   "ref": "BOE-A-1987-17800",
+   "titulo": "Ley Orgánica 5/1987, de 30 de julio, de Delegación de Facultades del Estado en las Comunidades Autónomas en relación con los transportes por carretera y por cable."
+  },
   "Ley 14/1987": {
    "tipo": "Ley",
    "num": 14,
@@ -7205,13 +7212,6 @@
    "fecha": "1987-07-30",
    "ref": "BOE-A-1987-17803",
    "titulo": "Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres."
-  },
-  "Ley Orgánica 5/1987": {
-   "tipo": "Ley Orgánica",
-   "num": 5,
-   "fecha": "1987-07-30",
-   "ref": "BOE-A-1987-17800",
-   "titulo": "Ley Orgánica 5/1987, de 30 de julio, de Delegación de Facultades del Estado en las Comunidades Autónomas en relación con los transportes por carretera y por cable."
   },
   "Real Decreto-ley 3/1987": {
    "tipo": "Real Decreto-ley",
@@ -9873,19 +9873,19 @@
    "ref": "BOE-A-1995-7240",
    "titulo": "Ley 2/1995, de 23 de marzo, de Sociedades de Responsabilidad Limitada."
   },
-  "Ley 4/1995": {
-   "tipo": "Ley",
-   "num": 4,
-   "fecha": "1995-03-23",
-   "ref": "BOE-A-1995-7242",
-   "titulo": "Ley 4/1995, de 23 de marzo, de regulación del permiso parental y por maternidad."
-  },
   "Ley 3/1995": {
    "tipo": "Ley",
    "num": 3,
    "fecha": "1995-03-23",
    "ref": "BOE-A-1995-7241",
    "titulo": "Ley 3/1995, de 23 de marzo, de Vías Pecuarias."
+  },
+  "Ley 4/1995": {
+   "tipo": "Ley",
+   "num": 4,
+   "fecha": "1995-03-23",
+   "ref": "BOE-A-1995-7242",
+   "titulo": "Ley 4/1995, de 23 de marzo, de regulación del permiso parental y por maternidad."
   },
   "Ley 5/1995": {
    "tipo": "Ley",
@@ -10650,13 +10650,6 @@
    "ref": "BOE-A-1997-7698",
    "titulo": "Real Decreto-ley 6/1997, de 9 de abril, por el que se aprueba el Programa PREVER para la modernización del parque de vehículos automóviles, el incremento de la seguridad vial y la defensa y protección"
   },
-  "Ley 6/1997": {
-   "tipo": "Ley",
-   "num": 6,
-   "fecha": "1997-04-14",
-   "ref": "BOE-A-1997-7878",
-   "titulo": "Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado."
-  },
   "Ley 7/1997": {
    "tipo": "Ley",
    "num": 7,
@@ -10677,6 +10670,13 @@
    "fecha": "1997-04-14",
    "ref": "BOE-A-1997-7881",
    "titulo": "Real Decreto-ley 7/1997, de 14 de abril, por el que se aprueban los porcentajes de participación de las Comunidades Autónomas en los ingresos del Estado para el quinquenio 1997-2001 y se distribuye en"
+  },
+  "Ley 6/1997": {
+   "tipo": "Ley",
+   "num": 6,
+   "fecha": "1997-04-14",
+   "ref": "BOE-A-1997-7878",
+   "titulo": "Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado."
   },
   "Ley 9/1997": {
    "tipo": "Ley",
@@ -11714,19 +11714,19 @@
    "ref": "BOE-A-1998-28244",
    "titulo": "Real Decreto-ley 16/1998, de 4 de diciembre, por el que se financia el acuerdo interprofesional sobre formación continua en la Comunidad Autónoma del País Vasco."
   },
-  "Ley 41/1998": {
-   "tipo": "Ley",
-   "num": 41,
-   "fecha": "1998-12-09",
-   "ref": "BOE-A-1998-28473",
-   "titulo": "Ley 41/1998, de 9 de diciembre, sobre la Renta de no Residentes y Normas Tributarias."
-  },
   "Ley 40/1998": {
    "tipo": "Ley",
    "num": 40,
    "fecha": "1998-12-09",
    "ref": "BOE-A-1998-28472",
    "titulo": "Ley 40/1998, de 9 de diciembre, del Impuesto sobre la Renta de las Personas Físicas y otras Normas Tributarias."
+  },
+  "Ley 41/1998": {
+   "tipo": "Ley",
+   "num": 41,
+   "fecha": "1998-12-09",
+   "ref": "BOE-A-1998-28473",
+   "titulo": "Ley 41/1998, de 9 de diciembre, sobre la Renta de no Residentes y Normas Tributarias."
   },
   "Real Decreto-ley 17/1998": {
    "tipo": "Real Decreto-ley",
@@ -13436,19 +13436,19 @@
    "ref": "BOE-A-2002-22649",
    "titulo": "Ley 43/2002, de 20 de noviembre, de sanidad vegetal."
   },
-  "Real Decreto-ley 7/2002": {
-   "tipo": "Real Decreto-ley",
-   "num": 7,
-   "fecha": "2002-11-22",
-   "ref": "BOE-A-2002-22809",
-   "titulo": "Real Decreto-ley 7/2002, de 22 de noviembre, sobre medidas reparadoras en relación con el accidente del buque \"Prestige\"."
-  },
   "Ley 44/2002": {
    "tipo": "Ley",
    "num": 44,
    "fecha": "2002-11-22",
    "ref": "BOE-A-2002-22807",
    "titulo": "Ley 44/2002, de 22 de noviembre, de Medidas de Reforma del Sistema Financiero."
+  },
+  "Real Decreto-ley 7/2002": {
+   "tipo": "Real Decreto-ley",
+   "num": 7,
+   "fecha": "2002-11-22",
+   "ref": "BOE-A-2002-22809",
+   "titulo": "Real Decreto-ley 7/2002, de 22 de noviembre, sobre medidas reparadoras en relación con el accidente del buque \"Prestige\"."
   },
   "Ley Orgánica 9/2002": {
    "tipo": "Ley Orgánica",
@@ -14017,13 +14017,6 @@
    "ref": "BOE-A-2003-21539",
    "titulo": "Ley 46/2003, de 25 de noviembre, reguladora del Museo Nacional del Prado."
   },
-  "Ley 47/2003": {
-   "tipo": "Ley",
-   "num": 47,
-   "fecha": "2003-11-26",
-   "ref": "BOE-A-2003-21614",
-   "titulo": "Ley 47/2003, de 26 de noviembre, General Presupuestaria."
-  },
   "Ley 48/2003": {
    "tipo": "Ley",
    "num": 48,
@@ -14037,6 +14030,13 @@
    "fecha": "2003-11-26",
    "ref": "BOE-A-2003-21616",
    "titulo": "Ley 49/2003, de 26 de noviembre, de Arrendamientos Rústicos."
+  },
+  "Ley 47/2003": {
+   "tipo": "Ley",
+   "num": 47,
+   "fecha": "2003-11-26",
+   "ref": "BOE-A-2003-21614",
+   "titulo": "Ley 47/2003, de 26 de noviembre, General Presupuestaria."
   },
   "Ley Orgánica 16/2003": {
    "tipo": "Ley Orgánica",
@@ -14255,6 +14255,13 @@
    "ref": "BOE-A-2004-21690",
    "titulo": "Real Decreto-ley 11/2004, de 23 de diciembre, por el que se modifica, en materia de pensiones públicas, la Ley de Presupuestos Generales del Estado para el año 2005."
   },
+  "Ley Orgánica 1/2004": {
+   "tipo": "Ley Orgánica",
+   "num": 1,
+   "fecha": "2004-12-28",
+   "ref": "BOE-A-2004-21760",
+   "titulo": "Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género."
+  },
   "Ley Orgánica 2/2004": {
    "tipo": "Ley Orgánica",
    "num": 2,
@@ -14268,13 +14275,6 @@
    "fecha": "2004-12-28",
    "ref": "BOE-A-2004-21762",
    "titulo": "Ley Orgánica 3/2004, de 28 de diciembre, por la que se modifica la Ley Orgánica 3/1980, de 22 de abril, del Consejo de Estado."
-  },
-  "Ley Orgánica 1/2004": {
-   "tipo": "Ley Orgánica",
-   "num": 1,
-   "fecha": "2004-12-28",
-   "ref": "BOE-A-2004-21760",
-   "titulo": "Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género."
   },
   "Ley 3/2004": {
    "tipo": "Ley",
@@ -15585,6 +15585,13 @@
    "ref": "BOE-A-2007-21489",
    "titulo": "Ley Orgánica 16/2007, de 13 de diciembre, complementaria de la Ley para el desarrollo sostenible del medio rural."
   },
+  "Ley 42/2007": {
+   "tipo": "Ley",
+   "num": 42,
+   "fecha": "2007-12-13",
+   "ref": "BOE-A-2007-21490",
+   "titulo": "Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad."
+  },
   "Ley 43/2007": {
    "tipo": "Ley",
    "num": 43,
@@ -15612,13 +15619,6 @@
    "fecha": "2007-12-13",
    "ref": "BOE-A-2007-21494",
    "titulo": "Ley 46/2007, de 13 de diciembre, de modificación de la Ley 42/1999, de 25 de noviembre, de Régimen del Personal del Cuerpo de la Guardia Civil."
-  },
-  "Ley 42/2007": {
-   "tipo": "Ley",
-   "num": 42,
-   "fecha": "2007-12-13",
-   "ref": "BOE-A-2007-21490",
-   "titulo": "Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad."
   },
   "Ley 47/2007": {
    "tipo": "Ley",
@@ -16593,6 +16593,13 @@
    "ref": "BOE-A-2010-20140",
    "titulo": "Ley 44/2010, de 30 de diciembre, de aguas canarias."
   },
+  "Ley Orgánica 1/2011": {
+   "tipo": "Ley Orgánica",
+   "num": 1,
+   "fecha": "2011-01-28",
+   "ref": "BOE-A-2011-1638",
+   "titulo": "Ley Orgánica 1/2011, de 28 de enero, de reforma del Estatuto de Autonomía de la Comunidad Autónoma de Extremadura."
+  },
   "Ley Orgánica 2/2011": {
    "tipo": "Ley Orgánica",
    "num": 2,
@@ -16606,13 +16613,6 @@
    "fecha": "2011-01-28",
    "ref": "BOE-A-2011-1640",
    "titulo": "Ley Orgánica 3/2011, de 28 de enero, por la que se modifica la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General."
-  },
-  "Ley Orgánica 1/2011": {
-   "tipo": "Ley Orgánica",
-   "num": 1,
-   "fecha": "2011-01-28",
-   "ref": "BOE-A-2011-1638",
-   "titulo": "Ley Orgánica 1/2011, de 28 de enero, de reforma del Estatuto de Autonomía de la Comunidad Autónoma de Extremadura."
   },
   "Real Decreto-ley 1/2011": {
    "tipo": "Real Decreto-ley",
@@ -17531,19 +17531,19 @@
    "ref": "BOE-A-2013-5670",
    "titulo": "Ley 2/2013, de 29 de mayo, de protección y uso sostenible del litoral y de modificación de la Ley 22/1988, de 28 de julio, de Costas."
   },
-  "Ley 4/2013": {
-   "tipo": "Ley",
-   "num": 4,
-   "fecha": "2013-06-04",
-   "ref": "BOE-A-2013-5941",
-   "titulo": "Ley 4/2013, de 4 de junio, de medidas de flexibilización y fomento del mercado del alquiler de viviendas."
-  },
   "Ley 3/2013": {
    "tipo": "Ley",
    "num": 3,
    "fecha": "2013-06-04",
    "ref": "BOE-A-2013-5940",
    "titulo": "Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia."
+  },
+  "Ley 4/2013": {
+   "tipo": "Ley",
+   "num": 4,
+   "fecha": "2013-06-04",
+   "ref": "BOE-A-2013-5941",
+   "titulo": "Ley 4/2013, de 4 de junio, de medidas de flexibilización y fomento del mercado del alquiler de viviendas."
   },
   "Ley 5/2013": {
    "tipo": "Ley",
@@ -19253,19 +19253,19 @@
    "ref": "BOE-A-2018-14747",
    "titulo": "Real Decreto-ley 16/2018, de 26 de octubre, por el que se adoptan determinadas medidas de lucha contra el tráfico ilícito de personas y mercancías en relación con las embarcaciones utilizadas."
   },
-  "Ley Orgánica 1/2018": {
-   "tipo": "Ley Orgánica",
-   "num": 1,
-   "fecha": "2018-11-05",
-   "ref": "BOE-A-2018-15138",
-   "titulo": "Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias."
-  },
   "Ley 8/2018": {
    "tipo": "Ley",
    "num": 8,
    "fecha": "2018-11-05",
    "ref": "BOE-A-2018-15139",
    "titulo": "Ley 8/2018, de 5 de noviembre, por la que se modifica la Ley 19/1994, de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias."
+  },
+  "Ley Orgánica 1/2018": {
+   "tipo": "Ley Orgánica",
+   "num": 1,
+   "fecha": "2018-11-05",
+   "ref": "BOE-A-2018-15138",
+   "titulo": "Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias."
   },
   "Real Decreto-ley 17/2018": {
    "tipo": "Real Decreto-ley",
@@ -20492,19 +20492,19 @@
    "ref": "BOE-A-2022-4583",
    "titulo": "Real Decreto-ley 5/2022, de 22 de marzo, por el que se adapta el régimen de la relación laboral de carácter especial de las personas dedicadas a las actividades artísticas, así como a las actividades "
   },
-  "Real Decreto-ley 6/2022": {
-   "tipo": "Real Decreto-ley",
-   "num": 6,
-   "fecha": "2022-03-29",
-   "ref": "BOE-A-2022-4972",
-   "titulo": "Real Decreto-ley 6/2022, de 29 de marzo, por el que se adoptan medidas urgentes en el marco del Plan Nacional de respuesta a las consecuencias económicas y sociales de la guerra en Ucrania."
-  },
   "Real Decreto-ley 7/2022": {
    "tipo": "Real Decreto-ley",
    "num": 7,
    "fecha": "2022-03-29",
    "ref": "BOE-A-2022-4973",
    "titulo": "Real Decreto-ley 7/2022, de 29 de marzo, sobre requisitos para garantizar la seguridad de las redes y servicios de comunicaciones electrónicas de quinta generación."
+  },
+  "Real Decreto-ley 6/2022": {
+   "tipo": "Real Decreto-ley",
+   "num": 6,
+   "fecha": "2022-03-29",
+   "ref": "BOE-A-2022-4972",
+   "titulo": "Real Decreto-ley 6/2022, de 29 de marzo, por el que se adoptan medidas urgentes en el marco del Plan Nacional de respuesta a las consecuencias económicas y sociales de la guerra en Ucrania."
   },
   "Ley Orgánica 3/2022": {
    "tipo": "Ley Orgánica",
@@ -20751,13 +20751,6 @@
    "ref": "BOE-A-2022-17040",
    "titulo": "Real Decreto-ley 18/2022, de 18 de octubre, por el que se aprueban medidas de refuerzo de la protección de los consumidores de energía y de contribución a la reducción del consumo de gas natural en ap"
   },
-  "Ley 20/2022": {
-   "tipo": "Ley",
-   "num": 20,
-   "fecha": "2022-10-19",
-   "ref": "BOE-A-2022-17099",
-   "titulo": "Ley 20/2022, de 19 de octubre, de Memoria Democrática."
-  },
   "Ley 21/2022": {
    "tipo": "Ley",
    "num": 21,
@@ -20771,6 +20764,13 @@
    "fecha": "2022-10-19",
    "ref": "BOE-A-2022-17101",
    "titulo": "Ley 22/2022, de 19 de octubre, por la que se modifica la Ley 28/1990, de 26 de diciembre, por la que se aprueba el Convenio Económico entre el Estado y la Comunidad Foral de Navarra."
+  },
+  "Ley 20/2022": {
+   "tipo": "Ley",
+   "num": 20,
+   "fecha": "2022-10-19",
+   "ref": "BOE-A-2022-17099",
+   "titulo": "Ley 20/2022, de 19 de octubre, de Memoria Democrática."
   },
   "Ley 23/2022": {
    "tipo": "Ley",
@@ -20870,6 +20870,13 @@
    "ref": "BOE-A-2022-22678",
    "titulo": "Ley 32/2022, de 27 de diciembre, por la que se modifica la Ley 18/2010, de 16 de julio, del régimen de cesión de tributos del Estado a la Comunidad Autónoma de Andalucía y de fijación del alcance y co"
   },
+  "Ley 33/2022": {
+   "tipo": "Ley",
+   "num": 33,
+   "fecha": "2022-12-27",
+   "ref": "BOE-A-2022-22679",
+   "titulo": "Ley 33/2022, de 27 de diciembre, por la que se modifica la Ley 26/2010, de 16 de julio, del régimen de cesión de tributos del Estado a la Comunidad Autónoma de Canarias y de fijación del alcance y con"
+  },
   "Ley 34/2022": {
    "tipo": "Ley",
    "num": 34,
@@ -20911,13 +20918,6 @@
    "fecha": "2022-12-27",
    "ref": "BOE-A-2022-22685",
    "titulo": "Real Decreto-ley 20/2022, de 27 de diciembre, de medidas de respuesta a las consecuencias económicas y sociales de la Guerra de Ucrania y de apoyo a la reconstrucción de la isla de La Palma y a otras "
-  },
-  "Ley 33/2022": {
-   "tipo": "Ley",
-   "num": 33,
-   "fecha": "2022-12-27",
-   "ref": "BOE-A-2022-22679",
-   "titulo": "Ley 33/2022, de 27 de diciembre, por la que se modifica la Ley 26/2010, de 16 de julio, del régimen de cesión de tributos del Estado a la Comunidad Autónoma de Canarias y de fijación del alcance y con"
   },
   "Ley 39/2022": {
    "tipo": "Ley",
@@ -21059,19 +21059,19 @@
    "ref": "BOE-A-2023-11187",
    "titulo": "Real Decreto-ley 4/2023, de 11 de mayo, por el que se adoptan medidas urgentes en materia agraria y de aguas en respuesta a la sequía y al agravamiento de las condiciones del sector primario derivado "
   },
-  "Ley 13/2023": {
-   "tipo": "Ley",
-   "num": 13,
-   "fecha": "2023-05-24",
-   "ref": "BOE-A-2023-12204",
-   "titulo": "Ley 13/2023, de 24 de mayo, por la que se modifican la Ley 58/2003, de 17 de diciembre, General Tributaria, en transposición de la Directiva (UE) 2021/514 del Consejo de 22 de marzo de 2021, por la qu"
-  },
   "Ley 12/2023": {
    "tipo": "Ley",
    "num": 12,
    "fecha": "2023-05-24",
    "ref": "BOE-A-2023-12203",
    "titulo": "Ley 12/2023, de 24 de mayo, por el derecho a la vivienda."
+  },
+  "Ley 13/2023": {
+   "tipo": "Ley",
+   "num": 13,
+   "fecha": "2023-05-24",
+   "ref": "BOE-A-2023-12204",
+   "titulo": "Ley 13/2023, de 24 de mayo, por la que se modifican la Ley 58/2003, de 17 de diciembre, General Tributaria, en transposición de la Directiva (UE) 2021/514 del Consejo de 22 de marzo de 2021, por la qu"
   },
   "Real Decreto-ley 5/2023": {
    "tipo": "Real Decreto-ley",
@@ -21689,19 +21689,19 @@
    "ref": "BOE-A-2026-20264",
    "titulo": "Real Decreto-ley 24/2026, de 29 de septiembre, por el que se establecen medidas relacionadas con el plan de respuesta inmediata, reconstrucción y relanzamiento frente a los daños causados por la Depre"
   },
-  "Real Decreto-ley 26/2026": {
-   "tipo": "Real Decreto-ley",
-   "num": 26,
-   "fecha": "2026-09-29",
-   "ref": "BOE-A-2026-20266",
-   "titulo": "Real Decreto-ley 26/2026, de 29 de septiembre, por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y la ampliación de la oferta de vivienda asequible."
-  },
   "Real Decreto-ley 25/2026": {
    "tipo": "Real Decreto-ley",
    "num": 25,
    "fecha": "2026-09-29",
    "ref": "BOE-A-2026-20265",
    "titulo": "Real Decreto-ley 25/2026, de 29 de septiembre, por el que se adoptan y se prorrogan determinadas medidas en el marco del Plan Integral de Respuesta a la Crisis en Oriente Medio."
+  },
+  "Real Decreto-ley 26/2026": {
+   "tipo": "Real Decreto-ley",
+   "num": 26,
+   "fecha": "2026-09-29",
+   "ref": "BOE-A-2026-20266",
+   "titulo": "Real Decreto-ley 26/2026, de 29 de septiembre, por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y la ampliación de la oferta de vivienda asequible."
   },
   "Real Decreto-ley 27/2026": {
    "tipo": "Real Decreto-ley",
@@ -21717,19 +21717,19 @@
    "ref": "BOE-A-2026-20528",
    "titulo": "Ley 4/2026, de 1 de octubre, por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativ"
   },
-  "Real Decreto-ley 29/2026": {
-   "tipo": "Real Decreto-ley",
-   "num": 29,
-   "fecha": "2026-10-06",
-   "ref": "BOE-A-2026-20823",
-   "titulo": "Real Decreto-ley 29/2026, de 6 de octubre, por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y la ampliación de la oferta de vivienda asequible."
-  },
   "Real Decreto-ley 28/2026": {
    "tipo": "Real Decreto-ley",
    "num": 28,
    "fecha": "2026-10-06",
    "ref": "BOE-A-2026-20822",
    "titulo": "Real Decreto-ley 28/2026, de 6 de octubre, por el que se adoptan medidas urgentes para reforzar la estabilidad de los contratos de arrendamiento de vivienda habitual."
+  },
+  "Real Decreto-ley 29/2026": {
+   "tipo": "Real Decreto-ley",
+   "num": 29,
+   "fecha": "2026-10-06",
+   "ref": "BOE-A-2026-20823",
+   "titulo": "Real Decreto-ley 29/2026, de 6 de octubre, por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y la ampliación de la oferta de vivienda asequible."
   },
   "Ley Orgánica 4/2026": {
    "tipo": "Ley Orgánica",
@@ -21751,6 +21751,13 @@
    "fecha": "2026-10-20",
    "ref": "BOE-A-2026-21872",
    "titulo": "Real Decreto-ley 31/2026, de 20 de octubre, para la mejora de la acción protectora de la Seguridad Social y de otras normas sociales."
+  },
+  "Real Decreto-ley 32/2026": {
+   "tipo": "Real Decreto-ley",
+   "num": 32,
+   "fecha": "2026-11-03",
+   "ref": "BOE-A-2026-23104",
+   "titulo": "Real Decreto-ley 32/2026, de 3 de noviembre, de ayudas a las víctimas del accidente ferroviario de Urda (Toledo) y por el que se garantiza la accesibilidad equitativa a bienes y servicios en situacion"
   },
   "Ley 49/1960": {
    "tipo": "Ley",
