@@ -1,5 +1,5 @@
 {
- "extraido": "2026-11-04T15:42:50+01:00",
+ "extraido": "2026-11-05T15:46:59+01:00",
  "fuente": "https://www.poderjudicial.es/cgpj/es/Temas/Transparencia/Repositorio-de-datos-sobre-procesos-por-corrupcion/",
  "nota": "Suma de los cuatro trimestres del 'Resumen nacional'. Solo corrupción pública (cargos y funcionarios con afectación de dinero público). Años incompletos marcados por nº de trimestres.",
  "trimestral": [
@@ -561,6 +561,19 @@
    "parc_condenatorias": 2,
    "absolutorias": 5,
    "otras_causas": 3
+  },
+  {
+   "año": 2026,
+   "trimestre": 2,
+   "url": "https://www.poderjudicial.es/cgpj/es/Temas/Transparencia/Repositorio-de-datos-sobre-procesos-por-corrupcion/ch.Consulta-de-datos.formato1/?anio=2026&tipo=RN&trimestre=2",
+   "personas_fisicas": 30,
+   "personas_juridicas": 0,
+   "procedimientos": 6,
+   "cond_conformidad": 7,
+   "cond_sin_conformidad": 8,
+   "parc_condenatorias": 1,
+   "absolutorias": 3,
+   "otras_causas": 2
   }
  ],
  "anual": {
@@ -686,15 +699,15 @@
    "otras_causas": 5
   },
   "2026": {
-   "trimestres": 1,
-   "personas_fisicas": 17,
+   "trimestres": 2,
+   "personas_fisicas": 47,
    "personas_juridicas": 4,
-   "procedimientos": 5,
-   "cond_conformidad": 6,
-   "cond_sin_conformidad": 5,
-   "parc_condenatorias": 2,
-   "absolutorias": 5,
-   "otras_causas": 3
+   "procedimientos": 11,
+   "cond_conformidad": 13,
+   "cond_sin_conformidad": 13,
+   "parc_condenatorias": 3,
+   "absolutorias": 8,
+   "otras_causas": 5
   }
  }
 }

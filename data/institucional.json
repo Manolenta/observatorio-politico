@@ -1,5 +1,5 @@
 {
- "extraido": "2026-11-04T15:42:50+01:00",
+ "extraido": "2026-11-05T15:46:59+01:00",
  "fuente": "https://www.boe.es/buscar/boe.php",
  "presupuestos": {
   "consulta": "https://www.boe.es/buscar/boe.php?campo%5B0%5D=ORIS&dato%5B0%5D%5B1%5D=1&operador%5B0%5D=and&campo%5B1%5D=TITULOS&dato%5B1%5D=%22Presupuestos+Generales+del+Estado+para%22&operador%5B1%5D=and&operador%5B6%5D=and&campo%5B6%5D=FPU&dato%5B6%5D%5B0%5D=1977-01-01&dato%5B6%5D%5B1%5D=2026-12-31&page_hits=2000&sort_field%5B0%5D=FPU&sort_order%5B0%5D=asc&accion=Buscar",
@@ -550,269 +550,269 @@
   "legislatura": [
    "Leg.15"
   ],
-  "fuente": "https://www.congreso.es/webpublica/opendata/iniciativas/ProyectosDeLey__20261104050025.json",
+  "fuente": "https://www.congreso.es/webpublica/opendata/iniciativas/ProyectosDeLey__20261105050029.json",
   "web": "https://www.congreso.es/es/opendata/iniciativas",
   "tramitados_como_proyecto": 43,
   "terminados_como_ley": 0,
-  "caducados": 43,
+  "caducados": 0,
   "detalle": [
    {
     "expediente": "121/000002/0000",
     "rdl": "Real Decreto-ley 6/2023",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000003/0000",
     "rdl": "Real Decreto-ley 8/2023",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000024/0000",
     "rdl": "Real Decreto-ley 1/2024",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000027/0000",
     "rdl": "Real Decreto-ley 2/2024",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000028/0000",
     "rdl": "Real Decreto-ley 3/2024",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000032/0000",
     "rdl": "Real Decreto-ley 4/2024",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000037/0000",
     "rdl": "Real Decreto-ley 5/2024",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000039/0000",
     "rdl": "Real Decreto-ley 6/2024",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000042/0000",
     "rdl": "Real Decreto-ley 7/2024",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000044/0000",
     "rdl": "Real Decreto-ley 8/2024",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000045/0000",
     "rdl": "Real Decreto-ley 11/2024",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000047/0000",
     "rdl": "Real Decreto-ley 1/2025",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000055/0000",
     "rdl": "Real Decreto-ley 2/2025",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000056/0000",
     "rdl": "Real Decreto-ley 3/2025",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000057/0000",
     "rdl": "Real Decreto-ley 4/2025",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000062/0000",
     "rdl": "Real Decreto-ley 5/2025",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000065/0000",
     "rdl": "Real Decreto-ley 6/2025",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000066/0000",
     "rdl": "Real Decreto-ley 8/2025",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000069/0000",
     "rdl": "Real Decreto-ley 9/2025",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000070/0000",
     "rdl": "Real Decreto-ley 10/2025",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000076/0000",
     "rdl": "Real Decreto-ley 11/2025",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000078/0000",
     "rdl": "Real Decreto-ley 12/2025",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000080/0000",
     "rdl": "Real Decreto-ley 13/2025",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000081/0000",
     "rdl": "Real Decreto-ley 14/2025",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000082/0000",
     "rdl": "Real Decreto-ley 15/2025",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000084/0000",
     "rdl": "Real Decreto-ley 17/2025",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000085/0000",
     "rdl": "Real Decreto-ley 1/2026",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000086/0000",
     "rdl": "Real Decreto-ley 3/2026",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000089/0000",
     "rdl": "Real Decreto-ley 5/2026",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000090/0000",
     "rdl": "Real Decreto-ley 6/2026",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000091/0000",
     "rdl": "Real Decreto-ley 7/2026",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000093/0000",
     "rdl": "Real Decreto-ley 9/2026",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000095/0000",
     "rdl": "Real Decreto-ley 10/2026",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000097/0000",
     "rdl": "Real Decreto-ley 11/2026",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000099/0000",
     "rdl": "Real Decreto-ley 12/2026",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000100/0000",
     "rdl": "Real Decreto-ley 13/2026",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000102/0000",
     "rdl": "Real Decreto-ley 14/2026",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000104/0000",
     "rdl": "Real Decreto-ley 17/2026",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000107/0000",
     "rdl": "Real Decreto-ley 18/2026",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000108/0000",
     "rdl": "Real Decreto-ley 19/2026",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000113/0000",
     "rdl": "Real Decreto-ley 20/2026",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000114/0000",
     "rdl": "Real Decreto-ley 22/2026",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    },
    {
     "expediente": "121/000115/0000",
     "rdl": "Real Decreto-ley 23/2026",
-    "situacion": "Concluido - (Caducado)",
-    "resultado": ""
+    "situacion": "Cerrado",
+    "resultado": "Caducado"
    }
   ],
   "nota": "Los datos abiertos del Congreso solo cubren la legislatura en curso. Para legislaturas anteriores queda pendiente: los acuerdos de convalidación del BOE no indican si se acordó tramitar el RDL como proyecto de ley."

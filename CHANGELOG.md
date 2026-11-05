@@ -3,6 +3,10 @@
 Generado automáticamente por `scripts/changelog.py` en cada actualización: solo se anotan las cifras que cambian.
 Los cambios de código y metodología están en el historial de git.
 
+## 2026-11-05 15:47 (hora de Madrid) · 2 cifras
+- CGPJ · 2026 · personas_fisicas: 17 → 47
+- CGPJ · 2026 · procedimientos: 5 → 11
+
 ## 2026-11-04 15:42 (hora de Madrid) · 1 cifras
 - BOE · XV · rdl: 62 → 63
 
