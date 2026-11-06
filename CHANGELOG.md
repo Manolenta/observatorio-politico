@@ -3,6 +3,9 @@
 Generado automáticamente por `scripts/changelog.py` en cada actualización: solo se anotan las cifras que cambian.
 Los cambios de código y metodología están en el historial de git.
 
+## 2026-11-06 15:23 (hora de Madrid) · 1 cifras
+- BOE · indultos · 2009: 400 → 399
+
 ## 2026-11-05 15:47 (hora de Madrid) · 2 cifras
 - CGPJ · 2026 · personas_fisicas: 17 → 47
 - CGPJ · 2026 · procedimientos: 5 → 11

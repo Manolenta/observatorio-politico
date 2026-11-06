@@ -1,5 +1,5 @@
 {
- "extraido": "2026-11-05T15:46:12+01:00",
+ "extraido": "2026-11-06T15:23:07+01:00",
  "fuente": "https://www.boe.es/buscar/boe.php",
  "nota": "Normas de la Jefatura del Estado en Sección I del BOE cuyo título empieza por 'Ley', 'Ley Orgánica' o 'Real Decreto-ley'; asignadas por fecha de la disposición. RDL derogados = 'Acuerdo de derogación' publicado por el Congreso (no convalidados).",
  "por_legislatura": [
@@ -231,7 +231,7 @@
   {
    "legislatura": "XV",
    "inicio": "2023-08-17",
-   "fin": "2026-11-05",
+   "fin": "2026-11-06",
    "gobierno": "Sánchez (PSOE-Sumar)",
    "años": 3.22,
    "leyes_ordinarias": 21,
@@ -631,7 +631,7 @@
   },
   {
    "año": 2009,
-   "indultos": 400
+   "indultos": 399
   },
   {
    "año": 2010,
@@ -1097,7 +1097,7 @@
    "año": 2009,
    "tipo": "indultos",
    "url": "https://www.boe.es/buscar/boe.php?campo%5B0%5D=ORIS&dato%5B0%5D%5B3%5D=3&operador%5B0%5D=and&campo%5B1%5D=TITULOS&dato%5B1%5D=%22se+indulta%22&operador%5B1%5D=and&operador%5B6%5D=and&campo%5B6%5D=FPU&dato%5B6%5D%5B0%5D=2009-01-01&dato%5B6%5D%5B1%5D=2009-12-31&page_hits=2000&sort_field%5B0%5D=FPU&sort_order%5B0%5D=asc&accion=Buscar",
-   "resultados": 401
+   "resultados": 400
   },
   {
    "año": 2010,
@@ -1295,7 +1295,7 @@
    "año": 2026,
    "tipo": "normas",
    "url": "https://www.boe.es/buscar/boe.php?campo%5B0%5D=ORIS&dato%5B0%5D%5B1%5D=1&operador%5B0%5D=and&campo%5B1%5D=TITULOS&dato%5B1%5D=ley&operador%5B1%5D=and&operador%5B6%5D=and&campo%5B6%5D=FPU&dato%5B6%5D%5B0%5D=2026-01-01&dato%5B6%5D%5B1%5D=2026-12-31&page_hits=2000&sort_field%5B0%5D=FPU&sort_order%5B0%5D=asc&accion=Buscar",
-   "resultados": 302
+   "resultados": 306
   },
   {
    "año": 2026,
@@ -4637,20 +4637,6 @@
    "ref": "BOE-A-1982-633",
    "titulo": "Ley Orgánica 6/1981, de 30 de diciembre, de Estatuto de Autonomía para Andalucía."
   },
-  "Ley Orgánica 7/1981": {
-   "tipo": "Ley Orgánica",
-   "num": 7,
-   "fecha": "1981-12-30",
-   "ref": "BOE-A-1982-634",
-   "titulo": "Ley Orgánica 7/1981, de 30 de diciembre, de Estatuto de Autonomía para Asturias."
-  },
-  "Ley Orgánica 8/1981": {
-   "tipo": "Ley Orgánica",
-   "num": 8,
-   "fecha": "1981-12-30",
-   "ref": "BOE-A-1982-635",
-   "titulo": "Ley Orgánica 8/1981, de 30 de diciembre, de Estatuto de Autonomía para Cantabria."
-  },
   "Ley 47/1981": {
    "tipo": "Ley",
    "num": 47,
@@ -4671,6 +4657,20 @@
    "fecha": "1981-12-24",
    "ref": "BOE-A-1982-638",
    "titulo": "Ley 49/1981, de 24 de diciembre, del Estatuto de la explotación familiar agraria y de los agricultores jóvenes."
+  },
+  "Ley Orgánica 7/1981": {
+   "tipo": "Ley Orgánica",
+   "num": 7,
+   "fecha": "1981-12-30",
+   "ref": "BOE-A-1982-634",
+   "titulo": "Ley Orgánica 7/1981, de 30 de diciembre, de Estatuto de Autonomía para Asturias."
+  },
+  "Ley Orgánica 8/1981": {
+   "tipo": "Ley Orgánica",
+   "num": 8,
+   "fecha": "1981-12-30",
+   "ref": "BOE-A-1982-635",
+   "titulo": "Ley Orgánica 8/1981, de 30 de diciembre, de Estatuto de Autonomía para Cantabria."
   },
   "Ley 50/1981": {
    "tipo": "Ley",
@@ -4903,13 +4903,6 @@
    "ref": "BOE-A-1982-15030",
    "titulo": "Ley Orgánica 3/1982, de 9 de junio, de Estatuto de Autonomía de La Rioja."
   },
-  "Ley Orgánica 4/1982": {
-   "tipo": "Ley Orgánica",
-   "num": 4,
-   "fecha": "1982-06-09",
-   "ref": "BOE-A-1982-15031",
-   "titulo": "Ley Orgánica 4/1982, de 9 de junio, de Estatuto de Autonomía para la Región de Murcia."
-  },
   "Ley 20/1982": {
    "tipo": "Ley",
    "num": 20,
@@ -4923,6 +4916,13 @@
    "fecha": "1982-06-09",
    "ref": "BOE-A-1982-15033",
    "titulo": "Ley 21/1982, de 9 de junio, sobre medidas para la reconversión industrial."
+  },
+  "Ley Orgánica 4/1982": {
+   "tipo": "Ley Orgánica",
+   "num": 4,
+   "fecha": "1982-06-09",
+   "ref": "BOE-A-1982-15031",
+   "titulo": "Ley Orgánica 4/1982, de 9 de junio, de Estatuto de Autonomía para la Región de Murcia."
   },
   "Ley 22/1982": {
    "tipo": "Ley",
@@ -10139,19 +10139,19 @@
    "ref": "BOE-A-1995-24262",
    "titulo": "Ley 30/1995, de 8 de noviembre, de Ordenación y Supervisión de los Seguros Privados."
   },
-  "Ley 31/1995": {
-   "tipo": "Ley",
-   "num": 31,
-   "fecha": "1995-11-08",
-   "ref": "BOE-A-1995-24292",
-   "titulo": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales."
-  },
   "Ley 32/1995": {
    "tipo": "Ley",
    "num": 32,
    "fecha": "1995-11-08",
    "ref": "BOE-A-1995-24293",
    "titulo": "Ley 32/1995, de 8 de noviembre sobre concesión de un crédito extraordinario, por importe de 3.020.942.990 pesetas, para compensar el déficit de la «Compañía Trasmediterránea, Sociedad Anónima», corres"
+  },
+  "Ley 31/1995": {
+   "tipo": "Ley",
+   "num": 31,
+   "fecha": "1995-11-08",
+   "ref": "BOE-A-1995-24292",
+   "titulo": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales."
   },
   "Ley Orgánica 8/1995": {
    "tipo": "Ley Orgánica",
@@ -16796,13 +16796,6 @@
    "ref": "BOE-A-2011-11264",
    "titulo": "Ley Orgánica 6/2011, de 30 de junio, por la que se modifica la Ley Orgánica 12/1995, de 12 de diciembre, de represión del contrabando."
   },
-  "Ley 17/2011": {
-   "tipo": "Ley",
-   "num": 17,
-   "fecha": "2011-07-05",
-   "ref": "BOE-A-2011-11604",
-   "titulo": "Ley 17/2011, de 5 de julio, de seguridad alimentaria y nutrición."
-  },
   "Ley 18/2011": {
    "tipo": "Ley",
    "num": 18,
@@ -16816,6 +16809,13 @@
    "fecha": "2011-07-05",
    "ref": "BOE-A-2011-11606",
    "titulo": "Ley 19/2011, de 5 de julio, por la que pasan a denominarse oficialmente \"Araba/Álava\", \"Gipuzkoa\" y \"Bizkaia\" las demarcaciones provinciales llamadas anteriormente \"Álava\", \"Guipúzcoa\" y \"Vizcaya\"."
+  },
+  "Ley 17/2011": {
+   "tipo": "Ley",
+   "num": 17,
+   "fecha": "2011-07-05",
+   "ref": "BOE-A-2011-11604",
+   "titulo": "Ley 17/2011, de 5 de julio, de seguridad alimentaria y nutrición."
   },
   "Real Decreto-ley 8/2011": {
    "tipo": "Real Decreto-ley",
@@ -16999,13 +16999,6 @@
    "ref": "BOE-A-2011-15622",
    "titulo": "Ley 32/2011, de 4 de octubre, por la que se modifica la Ley 24/1988, de 28 de julio, del Mercado de Valores."
   },
-  "Ley 33/2011": {
-   "tipo": "Ley",
-   "num": 33,
-   "fecha": "2011-10-04",
-   "ref": "BOE-A-2011-15623",
-   "titulo": "Ley 33/2011, de 4 de octubre, General de Salud Pública."
-  },
   "Ley 34/2011": {
    "tipo": "Ley",
    "num": 34,
@@ -17019,6 +17012,13 @@
    "fecha": "2011-10-04",
    "ref": "BOE-A-2011-15625",
    "titulo": "Ley 35/2011, de 4 de octubre, sobre titularidad compartida de las explotaciones agrarias."
+  },
+  "Ley 33/2011": {
+   "tipo": "Ley",
+   "num": 33,
+   "fecha": "2011-10-04",
+   "ref": "BOE-A-2011-15623",
+   "titulo": "Ley 33/2011, de 4 de octubre, General de Salud Pública."
   },
   "Ley 36/2011": {
    "tipo": "Ley",

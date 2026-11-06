@@ -1,6 +1,18 @@
 {
  "entradas": [
   {
+   "fecha": "2026-11-06T15:23:58+01:00",
+   "n_cambios": 1,
+   "cambios": [
+    {
+     "cifra": "BOE · indultos · 2009",
+     "antes": 400,
+     "ahora": 399
+    }
+   ],
+   "nota": ""
+  },
+  {
    "fecha": "2026-11-05T15:47:06+01:00",
    "n_cambios": 2,
    "cambios": [
@@ -193,7 +205,7 @@
   "BOE · indultos · 2006": 445,
   "BOE · indultos · 2007": 536,
   "BOE · indultos · 2008": 379,
-  "BOE · indultos · 2009": 400,
+  "BOE · indultos · 2009": 399,
   "BOE · indultos · 2010": 404,
   "BOE · indultos · 2011": 324,
   "BOE · indultos · 2012": 466,
@@ -306,6 +318,6 @@
   "RDL tramitados como PL · XV": 43,
   "RDL tramitados como PL · XV · ley": 0
  },
- "ultima_ejecucion": "2026-11-05T15:47:06+01:00",
- "ultima_actualizacion_datos": "2026-11-05T15:47:06+01:00"
+ "ultima_ejecucion": "2026-11-06T15:23:58+01:00",
+ "ultima_actualizacion_datos": "2026-11-06T15:23:58+01:00"
 }
