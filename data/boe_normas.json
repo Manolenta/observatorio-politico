@@ -1,5 +1,5 @@
 {
- "extraido": "2026-11-06T15:23:07+01:00",
+ "extraido": "2026-11-07T14:10:19+01:00",
  "fuente": "https://www.boe.es/buscar/boe.php",
  "nota": "Normas de la Jefatura del Estado en Sección I del BOE cuyo título empieza por 'Ley', 'Ley Orgánica' o 'Real Decreto-ley'; asignadas por fecha de la disposición. RDL derogados = 'Acuerdo de derogación' publicado por el Congreso (no convalidados).",
  "por_legislatura": [
@@ -231,16 +231,16 @@
   {
    "legislatura": "XV",
    "inicio": "2023-08-17",
-   "fin": "2026-11-06",
+   "fin": "2026-11-07",
    "gobierno": "Sánchez (PSOE-Sumar)",
-   "años": 3.22,
+   "años": 3.23,
    "leyes_ordinarias": 21,
    "leyes_organicas": 13,
    "rdl": 63,
    "rdl_derogados": 13,
    "rdl_convalidados_publicados": 45,
-   "rdl_por_año": 19.6,
-   "leyes_por_año": 10.6,
+   "rdl_por_año": 19.5,
+   "leyes_por_año": 10.5,
    "ratio_rdl_leyes": 1.85
   }
  ],
@@ -4637,6 +4637,20 @@
    "ref": "BOE-A-1982-633",
    "titulo": "Ley Orgánica 6/1981, de 30 de diciembre, de Estatuto de Autonomía para Andalucía."
   },
+  "Ley Orgánica 7/1981": {
+   "tipo": "Ley Orgánica",
+   "num": 7,
+   "fecha": "1981-12-30",
+   "ref": "BOE-A-1982-634",
+   "titulo": "Ley Orgánica 7/1981, de 30 de diciembre, de Estatuto de Autonomía para Asturias."
+  },
+  "Ley Orgánica 8/1981": {
+   "tipo": "Ley Orgánica",
+   "num": 8,
+   "fecha": "1981-12-30",
+   "ref": "BOE-A-1982-635",
+   "titulo": "Ley Orgánica 8/1981, de 30 de diciembre, de Estatuto de Autonomía para Cantabria."
+  },
   "Ley 47/1981": {
    "tipo": "Ley",
    "num": 47,
@@ -4657,20 +4671,6 @@
    "fecha": "1981-12-24",
    "ref": "BOE-A-1982-638",
    "titulo": "Ley 49/1981, de 24 de diciembre, del Estatuto de la explotación familiar agraria y de los agricultores jóvenes."
-  },
-  "Ley Orgánica 7/1981": {
-   "tipo": "Ley Orgánica",
-   "num": 7,
-   "fecha": "1981-12-30",
-   "ref": "BOE-A-1982-634",
-   "titulo": "Ley Orgánica 7/1981, de 30 de diciembre, de Estatuto de Autonomía para Asturias."
-  },
-  "Ley Orgánica 8/1981": {
-   "tipo": "Ley Orgánica",
-   "num": 8,
-   "fecha": "1981-12-30",
-   "ref": "BOE-A-1982-635",
-   "titulo": "Ley Orgánica 8/1981, de 30 de diciembre, de Estatuto de Autonomía para Cantabria."
   },
   "Ley 50/1981": {
    "tipo": "Ley",
@@ -4903,6 +4903,13 @@
    "ref": "BOE-A-1982-15030",
    "titulo": "Ley Orgánica 3/1982, de 9 de junio, de Estatuto de Autonomía de La Rioja."
   },
+  "Ley Orgánica 4/1982": {
+   "tipo": "Ley Orgánica",
+   "num": 4,
+   "fecha": "1982-06-09",
+   "ref": "BOE-A-1982-15031",
+   "titulo": "Ley Orgánica 4/1982, de 9 de junio, de Estatuto de Autonomía para la Región de Murcia."
+  },
   "Ley 20/1982": {
    "tipo": "Ley",
    "num": 20,
@@ -4916,13 +4923,6 @@
    "fecha": "1982-06-09",
    "ref": "BOE-A-1982-15033",
    "titulo": "Ley 21/1982, de 9 de junio, sobre medidas para la reconversión industrial."
-  },
-  "Ley Orgánica 4/1982": {
-   "tipo": "Ley Orgánica",
-   "num": 4,
-   "fecha": "1982-06-09",
-   "ref": "BOE-A-1982-15031",
-   "titulo": "Ley Orgánica 4/1982, de 9 de junio, de Estatuto de Autonomía para la Región de Murcia."
   },
   "Ley 22/1982": {
    "tipo": "Ley",
@@ -4952,27 +4952,6 @@
    "ref": "BOE-A-1982-16315",
    "titulo": "Ley 24/1982, de 16 de junio, sobre prácticas y enseñanzas sanitarias especializadas."
   },
-  "Ley 25/1982": {
-   "tipo": "Ley",
-   "num": 25,
-   "fecha": "1982-06-30",
-   "ref": "BOE-A-1982-17236",
-   "titulo": "Ley 25/1982, de 30 de junio, de agricultura de montaña."
-  },
-  "Ley 28/1982": {
-   "tipo": "Ley",
-   "num": 28,
-   "fecha": "1982-07-01",
-   "ref": "BOE-A-1982-17239",
-   "titulo": "Ley 28/1982, de 1 de julio, sobre concesión de un crédito extraordinario por importe de 895.989.949 pesetas al Presupuesto en vigor del Ministerio de Industria y Energía, para compensar al Instituto N"
-  },
-  "Ley 32/1982": {
-   "tipo": "Ley",
-   "num": 32,
-   "fecha": "1982-07-01",
-   "ref": "BOE-A-1982-17243",
-   "titulo": "Ley 32/1982, de 1 de julio, sobre concesión de un suplemento de crédito por un importe total de 5.082.243.000 pesetas al presupuesto en vigor del Ministerio de Industria y Energía, para dotar al Insti"
-  },
   "Ley Orgánica 5/1982": {
    "tipo": "Ley Orgánica",
    "num": 5,
@@ -4980,19 +4959,12 @@
    "ref": "BOE-A-1982-17235",
    "titulo": "Ley Orgánica 5/1982, de 1 de julio, de Estatuto de Autonomía de la Comunidad Valenciana."
   },
-  "Ley 33/1982": {
+  "Ley 25/1982": {
    "tipo": "Ley",
-   "num": 33,
-   "fecha": "1982-07-01",
-   "ref": "BOE-A-1982-17244",
-   "titulo": "Ley 33/1982, de 1 de julio, sobre concesión de un suplemento de crédito por importe de pesetas 18.000.000.000 al presupuesto en vigor del Ministerio de Industria y Energía, para dotar al Instituto Nac"
-  },
-  "Ley 31/1982": {
-   "tipo": "Ley",
-   "num": 31,
-   "fecha": "1982-07-01",
-   "ref": "BOE-A-1982-17242",
-   "titulo": "Ley 31/1982, de 1 de julio, sobre concesión de un suplemento de crédito por importe de 193.029.000 pesetas, para pago a la «Compañía Telefónica Nacional de España» de alquileres de circuitos y canaliz"
+   "num": 25,
+   "fecha": "1982-06-30",
+   "ref": "BOE-A-1982-17236",
+   "titulo": "Ley 25/1982, de 30 de junio, de agricultura de montaña."
   },
   "Ley 26/1982": {
    "tipo": "Ley",
@@ -5008,6 +4980,13 @@
    "ref": "BOE-A-1982-17238",
    "titulo": "Ley 27/1982, de 30 de junio, sobre creación de la Universidad Castellano-Manchega."
   },
+  "Ley 28/1982": {
+   "tipo": "Ley",
+   "num": 28,
+   "fecha": "1982-07-01",
+   "ref": "BOE-A-1982-17239",
+   "titulo": "Ley 28/1982, de 1 de julio, sobre concesión de un crédito extraordinario por importe de 895.989.949 pesetas al Presupuesto en vigor del Ministerio de Industria y Energía, para compensar al Instituto N"
+  },
   "Ley 29/1982": {
    "tipo": "Ley",
    "num": 29,
@@ -5021,6 +5000,27 @@
    "fecha": "1982-07-01",
    "ref": "BOE-A-1982-17241",
    "titulo": "Ley 30/1982, de 1 de julio, de modificación de las plantillas presupuestarias de los Cuerpos de Instituciones Penitenciarias."
+  },
+  "Ley 31/1982": {
+   "tipo": "Ley",
+   "num": 31,
+   "fecha": "1982-07-01",
+   "ref": "BOE-A-1982-17242",
+   "titulo": "Ley 31/1982, de 1 de julio, sobre concesión de un suplemento de crédito por importe de 193.029.000 pesetas, para pago a la «Compañía Telefónica Nacional de España» de alquileres de circuitos y canaliz"
+  },
+  "Ley 32/1982": {
+   "tipo": "Ley",
+   "num": 32,
+   "fecha": "1982-07-01",
+   "ref": "BOE-A-1982-17243",
+   "titulo": "Ley 32/1982, de 1 de julio, sobre concesión de un suplemento de crédito por un importe total de 5.082.243.000 pesetas al presupuesto en vigor del Ministerio de Industria y Energía, para dotar al Insti"
+  },
+  "Ley 33/1982": {
+   "tipo": "Ley",
+   "num": 33,
+   "fecha": "1982-07-01",
+   "ref": "BOE-A-1982-17244",
+   "titulo": "Ley 33/1982, de 1 de julio, sobre concesión de un suplemento de crédito por importe de pesetas 18.000.000.000 al presupuesto en vigor del Ministerio de Industria y Energía, para dotar al Instituto Nac"
   },
   "Ley Orgánica 6/1982": {
    "tipo": "Ley Orgánica",
@@ -10139,19 +10139,19 @@
    "ref": "BOE-A-1995-24262",
    "titulo": "Ley 30/1995, de 8 de noviembre, de Ordenación y Supervisión de los Seguros Privados."
   },
-  "Ley 32/1995": {
-   "tipo": "Ley",
-   "num": 32,
-   "fecha": "1995-11-08",
-   "ref": "BOE-A-1995-24293",
-   "titulo": "Ley 32/1995, de 8 de noviembre sobre concesión de un crédito extraordinario, por importe de 3.020.942.990 pesetas, para compensar el déficit de la «Compañía Trasmediterránea, Sociedad Anónima», corres"
-  },
   "Ley 31/1995": {
    "tipo": "Ley",
    "num": 31,
    "fecha": "1995-11-08",
    "ref": "BOE-A-1995-24292",
    "titulo": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales."
+  },
+  "Ley 32/1995": {
+   "tipo": "Ley",
+   "num": 32,
+   "fecha": "1995-11-08",
+   "ref": "BOE-A-1995-24293",
+   "titulo": "Ley 32/1995, de 8 de noviembre sobre concesión de un crédito extraordinario, por importe de 3.020.942.990 pesetas, para compensar el déficit de la «Compañía Trasmediterránea, Sociedad Anónima», corres"
   },
   "Ley Orgánica 8/1995": {
    "tipo": "Ley Orgánica",
@@ -10650,6 +10650,13 @@
    "ref": "BOE-A-1997-7698",
    "titulo": "Real Decreto-ley 6/1997, de 9 de abril, por el que se aprueba el Programa PREVER para la modernización del parque de vehículos automóviles, el incremento de la seguridad vial y la defensa y protección"
   },
+  "Ley 6/1997": {
+   "tipo": "Ley",
+   "num": 6,
+   "fecha": "1997-04-14",
+   "ref": "BOE-A-1997-7878",
+   "titulo": "Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado."
+  },
   "Ley 7/1997": {
    "tipo": "Ley",
    "num": 7,
@@ -10670,13 +10677,6 @@
    "fecha": "1997-04-14",
    "ref": "BOE-A-1997-7881",
    "titulo": "Real Decreto-ley 7/1997, de 14 de abril, por el que se aprueban los porcentajes de participación de las Comunidades Autónomas en los ingresos del Estado para el quinquenio 1997-2001 y se distribuye en"
-  },
-  "Ley 6/1997": {
-   "tipo": "Ley",
-   "num": 6,
-   "fecha": "1997-04-14",
-   "ref": "BOE-A-1997-7878",
-   "titulo": "Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado."
   },
   "Ley 9/1997": {
    "tipo": "Ley",
@@ -13933,19 +13933,19 @@
    "ref": "BOE-A-2003-20976",
    "titulo": "Ley 37/2003, de 17 de noviembre, del Ruido."
   },
-  "Ley 39/2003": {
-   "tipo": "Ley",
-   "num": 39,
-   "fecha": "2003-11-17",
-   "ref": "BOE-A-2003-20978",
-   "titulo": "Ley 39/2003, de 17 de noviembre, del Sector Ferroviario."
-  },
   "Ley 38/2003": {
    "tipo": "Ley",
    "num": 38,
    "fecha": "2003-11-17",
    "ref": "BOE-A-2003-20977",
    "titulo": "Ley 38/2003, de 17 de noviembre, General de Subvenciones."
+  },
+  "Ley 39/2003": {
+   "tipo": "Ley",
+   "num": 39,
+   "fecha": "2003-11-17",
+   "ref": "BOE-A-2003-20978",
+   "titulo": "Ley 39/2003, de 17 de noviembre, del Sector Ferroviario."
   },
   "Ley 40/2003": {
    "tipo": "Ley",
@@ -14017,6 +14017,13 @@
    "ref": "BOE-A-2003-21539",
    "titulo": "Ley 46/2003, de 25 de noviembre, reguladora del Museo Nacional del Prado."
   },
+  "Ley 47/2003": {
+   "tipo": "Ley",
+   "num": 47,
+   "fecha": "2003-11-26",
+   "ref": "BOE-A-2003-21614",
+   "titulo": "Ley 47/2003, de 26 de noviembre, General Presupuestaria."
+  },
   "Ley 48/2003": {
    "tipo": "Ley",
    "num": 48,
@@ -14030,13 +14037,6 @@
    "fecha": "2003-11-26",
    "ref": "BOE-A-2003-21616",
    "titulo": "Ley 49/2003, de 26 de noviembre, de Arrendamientos Rústicos."
-  },
-  "Ley 47/2003": {
-   "tipo": "Ley",
-   "num": 47,
-   "fecha": "2003-11-26",
-   "ref": "BOE-A-2003-21614",
-   "titulo": "Ley 47/2003, de 26 de noviembre, General Presupuestaria."
   },
   "Ley Orgánica 16/2003": {
    "tipo": "Ley Orgánica",
@@ -16796,6 +16796,13 @@
    "ref": "BOE-A-2011-11264",
    "titulo": "Ley Orgánica 6/2011, de 30 de junio, por la que se modifica la Ley Orgánica 12/1995, de 12 de diciembre, de represión del contrabando."
   },
+  "Ley 17/2011": {
+   "tipo": "Ley",
+   "num": 17,
+   "fecha": "2011-07-05",
+   "ref": "BOE-A-2011-11604",
+   "titulo": "Ley 17/2011, de 5 de julio, de seguridad alimentaria y nutrición."
+  },
   "Ley 18/2011": {
    "tipo": "Ley",
    "num": 18,
@@ -16809,13 +16816,6 @@
    "fecha": "2011-07-05",
    "ref": "BOE-A-2011-11606",
    "titulo": "Ley 19/2011, de 5 de julio, por la que pasan a denominarse oficialmente \"Araba/Álava\", \"Gipuzkoa\" y \"Bizkaia\" las demarcaciones provinciales llamadas anteriormente \"Álava\", \"Guipúzcoa\" y \"Vizcaya\"."
-  },
-  "Ley 17/2011": {
-   "tipo": "Ley",
-   "num": 17,
-   "fecha": "2011-07-05",
-   "ref": "BOE-A-2011-11604",
-   "titulo": "Ley 17/2011, de 5 de julio, de seguridad alimentaria y nutrición."
   },
   "Real Decreto-ley 8/2011": {
    "tipo": "Real Decreto-ley",
@@ -16999,6 +16999,13 @@
    "ref": "BOE-A-2011-15622",
    "titulo": "Ley 32/2011, de 4 de octubre, por la que se modifica la Ley 24/1988, de 28 de julio, del Mercado de Valores."
   },
+  "Ley 33/2011": {
+   "tipo": "Ley",
+   "num": 33,
+   "fecha": "2011-10-04",
+   "ref": "BOE-A-2011-15623",
+   "titulo": "Ley 33/2011, de 4 de octubre, General de Salud Pública."
+  },
   "Ley 34/2011": {
    "tipo": "Ley",
    "num": 34,
@@ -17012,13 +17019,6 @@
    "fecha": "2011-10-04",
    "ref": "BOE-A-2011-15625",
    "titulo": "Ley 35/2011, de 4 de octubre, sobre titularidad compartida de las explotaciones agrarias."
-  },
-  "Ley 33/2011": {
-   "tipo": "Ley",
-   "num": 33,
-   "fecha": "2011-10-04",
-   "ref": "BOE-A-2011-15623",
-   "titulo": "Ley 33/2011, de 4 de octubre, General de Salud Pública."
   },
   "Ley 36/2011": {
    "tipo": "Ley",
@@ -18077,19 +18077,19 @@
    "ref": "BOE-A-2014-10059",
    "titulo": "Real Decreto-ley 13/2014, de 3 de octubre, por el que se adoptan medidas urgentes en relación con el sistema gasista y la titularidad de centrales nucleares."
   },
-  "Ley 19/2014": {
-   "tipo": "Ley",
-   "num": 19,
-   "fecha": "2014-10-15",
-   "ref": "BOE-A-2014-10518",
-   "titulo": "Ley 19/2014, de 15 de octubre, por la que se crea el Consejo General de Colegios Oficiales de Dietistas-Nutricionistas."
-  },
   "Ley 18/2014": {
    "tipo": "Ley",
    "num": 18,
    "fecha": "2014-10-15",
    "ref": "BOE-A-2014-10517",
    "titulo": "Ley 18/2014, de 15 de octubre, de aprobación de medidas urgentes para el crecimiento, la competitividad y la eficiencia."
+  },
+  "Ley 19/2014": {
+   "tipo": "Ley",
+   "num": 19,
+   "fecha": "2014-10-15",
+   "ref": "BOE-A-2014-10518",
+   "titulo": "Ley 19/2014, de 15 de octubre, por la que se crea el Consejo General de Colegios Oficiales de Dietistas-Nutricionistas."
   },
   "Ley Orgánica 6/2014": {
    "tipo": "Ley Orgánica",
@@ -19253,19 +19253,19 @@
    "ref": "BOE-A-2018-14747",
    "titulo": "Real Decreto-ley 16/2018, de 26 de octubre, por el que se adoptan determinadas medidas de lucha contra el tráfico ilícito de personas y mercancías en relación con las embarcaciones utilizadas."
   },
-  "Ley 8/2018": {
-   "tipo": "Ley",
-   "num": 8,
-   "fecha": "2018-11-05",
-   "ref": "BOE-A-2018-15139",
-   "titulo": "Ley 8/2018, de 5 de noviembre, por la que se modifica la Ley 19/1994, de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias."
-  },
   "Ley Orgánica 1/2018": {
    "tipo": "Ley Orgánica",
    "num": 1,
    "fecha": "2018-11-05",
    "ref": "BOE-A-2018-15138",
    "titulo": "Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias."
+  },
+  "Ley 8/2018": {
+   "tipo": "Ley",
+   "num": 8,
+   "fecha": "2018-11-05",
+   "ref": "BOE-A-2018-15139",
+   "titulo": "Ley 8/2018, de 5 de noviembre, por la que se modifica la Ley 19/1994, de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias."
   },
   "Real Decreto-ley 17/2018": {
    "tipo": "Real Decreto-ley",
@@ -20492,19 +20492,19 @@
    "ref": "BOE-A-2022-4583",
    "titulo": "Real Decreto-ley 5/2022, de 22 de marzo, por el que se adapta el régimen de la relación laboral de carácter especial de las personas dedicadas a las actividades artísticas, así como a las actividades "
   },
-  "Real Decreto-ley 7/2022": {
-   "tipo": "Real Decreto-ley",
-   "num": 7,
-   "fecha": "2022-03-29",
-   "ref": "BOE-A-2022-4973",
-   "titulo": "Real Decreto-ley 7/2022, de 29 de marzo, sobre requisitos para garantizar la seguridad de las redes y servicios de comunicaciones electrónicas de quinta generación."
-  },
   "Real Decreto-ley 6/2022": {
    "tipo": "Real Decreto-ley",
    "num": 6,
    "fecha": "2022-03-29",
    "ref": "BOE-A-2022-4972",
    "titulo": "Real Decreto-ley 6/2022, de 29 de marzo, por el que se adoptan medidas urgentes en el marco del Plan Nacional de respuesta a las consecuencias económicas y sociales de la guerra en Ucrania."
+  },
+  "Real Decreto-ley 7/2022": {
+   "tipo": "Real Decreto-ley",
+   "num": 7,
+   "fecha": "2022-03-29",
+   "ref": "BOE-A-2022-4973",
+   "titulo": "Real Decreto-ley 7/2022, de 29 de marzo, sobre requisitos para garantizar la seguridad de las redes y servicios de comunicaciones electrónicas de quinta generación."
   },
   "Ley Orgánica 3/2022": {
    "tipo": "Ley Orgánica",
@@ -20751,6 +20751,13 @@
    "ref": "BOE-A-2022-17040",
    "titulo": "Real Decreto-ley 18/2022, de 18 de octubre, por el que se aprueban medidas de refuerzo de la protección de los consumidores de energía y de contribución a la reducción del consumo de gas natural en ap"
   },
+  "Ley 20/2022": {
+   "tipo": "Ley",
+   "num": 20,
+   "fecha": "2022-10-19",
+   "ref": "BOE-A-2022-17099",
+   "titulo": "Ley 20/2022, de 19 de octubre, de Memoria Democrática."
+  },
   "Ley 21/2022": {
    "tipo": "Ley",
    "num": 21,
@@ -20764,13 +20771,6 @@
    "fecha": "2022-10-19",
    "ref": "BOE-A-2022-17101",
    "titulo": "Ley 22/2022, de 19 de octubre, por la que se modifica la Ley 28/1990, de 26 de diciembre, por la que se aprueba el Convenio Económico entre el Estado y la Comunidad Foral de Navarra."
-  },
-  "Ley 20/2022": {
-   "tipo": "Ley",
-   "num": 20,
-   "fecha": "2022-10-19",
-   "ref": "BOE-A-2022-17099",
-   "titulo": "Ley 20/2022, de 19 de octubre, de Memoria Democrática."
   },
   "Ley 23/2022": {
    "tipo": "Ley",
