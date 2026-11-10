@@ -1,5 +1,5 @@
 {
- "extraido": "2026-11-09T17:30:39+01:00",
+ "extraido": "2026-11-10T15:59:21+01:00",
  "fuente": "https://www.boe.es/buscar/boe.php",
  "nota": "Normas de la Jefatura del Estado en Sección I del BOE cuyo título empieza por 'Ley', 'Ley Orgánica' o 'Real Decreto-ley'; asignadas por fecha de la disposición. RDL derogados = 'Acuerdo de derogación' publicado por el Congreso (no convalidados).",
  "por_legislatura": [
@@ -231,7 +231,7 @@
   {
    "legislatura": "XV",
    "inicio": "2023-08-17",
-   "fin": "2026-11-09",
+   "fin": "2026-11-10",
    "gobierno": "Sánchez (PSOE-Sumar)",
    "años": 3.23,
    "leyes_ordinarias": 21,
@@ -1295,7 +1295,7 @@
    "año": 2026,
    "tipo": "normas",
    "url": "https://www.boe.es/buscar/boe.php?campo%5B0%5D=ORIS&dato%5B0%5D%5B1%5D=1&operador%5B0%5D=and&campo%5B1%5D=TITULOS&dato%5B1%5D=ley&operador%5B1%5D=and&operador%5B6%5D=and&campo%5B6%5D=FPU&dato%5B6%5D%5B0%5D=2026-01-01&dato%5B6%5D%5B1%5D=2026-12-31&page_hits=2000&sort_field%5B0%5D=FPU&sort_order%5B0%5D=asc&accion=Buscar",
-   "resultados": 311
+   "resultados": 312
   },
   {
    "año": 2026,
@@ -5064,13 +5064,6 @@
    "ref": "BOE-A-1982-18266",
    "titulo": "Ley 38/1982, de 3 de julio, por la que se establece el Grado de Carrera previsto en el artículo sexto de la Ley 75/1978, en los Cuerpos Ejecutivo Postal y de Telecomunicación y de Técnicos Especializa"
   },
-  "Ley 39/1982": {
-   "tipo": "Ley",
-   "num": 39,
-   "fecha": "1982-07-03",
-   "ref": "BOE-A-1982-18267",
-   "titulo": "Ley 39/1982, de 3 de julio, sobre concesión de un suplemento de crédito por importe de 319 980 487 pesetas al presupuesto en vigor de Presidencia del Gobierno, para cobertura del déficit de financiaci"
-  },
   "Ley 40/1982": {
    "tipo": "Ley",
    "num": 40,
@@ -5133,6 +5126,13 @@
    "fecha": "1982-07-12",
    "ref": "BOE-A-1982-18276",
    "titulo": "Ley 48/1982, de 12 de julio, por la que se incorporan al Plan General de Obras Públicas las obras de construcción de las presas de San Clemente y El Portillo (Granada)."
+  },
+  "Ley 39/1982": {
+   "tipo": "Ley",
+   "num": 39,
+   "fecha": "1982-07-03",
+   "ref": "BOE-A-1982-18267",
+   "titulo": "Ley 39/1982, de 3 de julio, sobre concesión de un suplemento de crédito por importe de 319.980.487 pesetas al presupuesto en vigor de Presidencia del Gobierno, para cobertura del déficit de financiaci"
   },
   "Ley Orgánica 7/1982": {
    "tipo": "Ley Orgánica",
@@ -13933,19 +13933,19 @@
    "ref": "BOE-A-2003-20976",
    "titulo": "Ley 37/2003, de 17 de noviembre, del Ruido."
   },
-  "Ley 38/2003": {
-   "tipo": "Ley",
-   "num": 38,
-   "fecha": "2003-11-17",
-   "ref": "BOE-A-2003-20977",
-   "titulo": "Ley 38/2003, de 17 de noviembre, General de Subvenciones."
-  },
   "Ley 39/2003": {
    "tipo": "Ley",
    "num": 39,
    "fecha": "2003-11-17",
    "ref": "BOE-A-2003-20978",
    "titulo": "Ley 39/2003, de 17 de noviembre, del Sector Ferroviario."
+  },
+  "Ley 38/2003": {
+   "tipo": "Ley",
+   "num": 38,
+   "fecha": "2003-11-17",
+   "ref": "BOE-A-2003-20977",
+   "titulo": "Ley 38/2003, de 17 de noviembre, General de Subvenciones."
   },
   "Ley 40/2003": {
    "tipo": "Ley",
@@ -14017,13 +14017,6 @@
    "ref": "BOE-A-2003-21539",
    "titulo": "Ley 46/2003, de 25 de noviembre, reguladora del Museo Nacional del Prado."
   },
-  "Ley 47/2003": {
-   "tipo": "Ley",
-   "num": 47,
-   "fecha": "2003-11-26",
-   "ref": "BOE-A-2003-21614",
-   "titulo": "Ley 47/2003, de 26 de noviembre, General Presupuestaria."
-  },
   "Ley 48/2003": {
    "tipo": "Ley",
    "num": 48,
@@ -14037,6 +14030,13 @@
    "fecha": "2003-11-26",
    "ref": "BOE-A-2003-21616",
    "titulo": "Ley 49/2003, de 26 de noviembre, de Arrendamientos Rústicos."
+  },
+  "Ley 47/2003": {
+   "tipo": "Ley",
+   "num": 47,
+   "fecha": "2003-11-26",
+   "ref": "BOE-A-2003-21614",
+   "titulo": "Ley 47/2003, de 26 de noviembre, General Presupuestaria."
   },
   "Ley Orgánica 16/2003": {
    "tipo": "Ley Orgánica",
@@ -20975,19 +20975,19 @@
    "ref": "BOE-A-2023-6967",
    "titulo": "Real Decreto-ley 2/2023, de 16 de marzo, de medidas urgentes para la ampliación de derechos de los pensionistas, la reducción de la brecha de género y el establecimiento de un nuevo marco de sostenibi"
   },
-  "Ley 5/2023": {
-   "tipo": "Ley",
-   "num": 5,
-   "fecha": "2023-03-17",
-   "ref": "BOE-A-2023-7052",
-   "titulo": "Ley 5/2023, de 17 de marzo, de pesca sostenible e investigación pesquera."
-  },
   "Ley 6/2023": {
    "tipo": "Ley",
    "num": 6,
    "fecha": "2023-03-17",
    "ref": "BOE-A-2023-7053",
    "titulo": "Ley 6/2023, de 17 de marzo, de los Mercados de Valores y de los Servicios de Inversión."
+  },
+  "Ley 5/2023": {
+   "tipo": "Ley",
+   "num": 5,
+   "fecha": "2023-03-17",
+   "ref": "BOE-A-2023-7052",
+   "titulo": "Ley 5/2023, de 17 de marzo, de pesca sostenible e investigación pesquera."
   },
   "Ley Orgánica 2/2023": {
    "tipo": "Ley Orgánica",
@@ -21521,19 +21521,19 @@
    "ref": "BOE-A-2026-5060",
    "titulo": "Real Decreto-ley 6/2026, de 3 de marzo, por el que se modifica la Ley 20/2022, de 19 de octubre, de Memoria Democrática, sobre reconocimiento a favor de personas fallecidas o con lesiones incapacitant"
   },
-  "Real Decreto-ley 7/2026": {
-   "tipo": "Real Decreto-ley",
-   "num": 7,
-   "fecha": "2026-03-20",
-   "ref": "BOE-A-2026-6544",
-   "titulo": "Real Decreto-ley 7/2026, de 20 de marzo, por el que se aprueba el Plan Integral de Respuesta a la Crisis en Oriente Medio."
-  },
   "Real Decreto-ley 8/2026": {
    "tipo": "Real Decreto-ley",
    "num": 8,
    "fecha": "2026-03-20",
    "ref": "BOE-A-2026-6545",
    "titulo": "Real Decreto-ley 8/2026, de 20 de marzo, de medidas en el alquiler en respuesta a las consecuencias económicas y sociales de la Guerra de Irán."
+  },
+  "Real Decreto-ley 7/2026": {
+   "tipo": "Real Decreto-ley",
+   "num": 7,
+   "fecha": "2026-03-20",
+   "ref": "BOE-A-2026-6544",
+   "titulo": "Real Decreto-ley 7/2026, de 20 de marzo, por el que se aprueba el Plan Integral de Respuesta a la Crisis en Oriente Medio."
   },
   "Ley Orgánica 1/2026": {
    "tipo": "Ley Orgánica",
