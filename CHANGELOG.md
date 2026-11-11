@@ -3,6 +3,9 @@
 Generado automáticamente por `scripts/changelog.py` en cada actualización: solo se anotan las cifras que cambian.
 Los cambios de código y metodología están en el historial de git.
 
+## 2026-11-11 15:31 (hora de Madrid) · 1 cifras
+- BOE · XV · rdl: 63 → 67
+
 ## 2026-11-06 15:23 (hora de Madrid) · 1 cifras
 - BOE · indultos · 2009: 400 → 399
 

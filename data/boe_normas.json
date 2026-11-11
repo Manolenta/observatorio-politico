@@ -1,5 +1,5 @@
 {
- "extraido": "2026-11-10T15:59:21+01:00",
+ "extraido": "2026-11-11T15:30:45+01:00",
  "fuente": "https://www.boe.es/buscar/boe.php",
  "nota": "Normas de la Jefatura del Estado en Sección I del BOE cuyo título empieza por 'Ley', 'Ley Orgánica' o 'Real Decreto-ley'; asignadas por fecha de la disposición. RDL derogados = 'Acuerdo de derogación' publicado por el Congreso (no convalidados).",
  "por_legislatura": [
@@ -231,17 +231,17 @@
   {
    "legislatura": "XV",
    "inicio": "2023-08-17",
-   "fin": "2026-11-10",
+   "fin": "2026-11-11",
    "gobierno": "Sánchez (PSOE-Sumar)",
-   "años": 3.23,
+   "años": 3.24,
    "leyes_ordinarias": 21,
    "leyes_organicas": 13,
-   "rdl": 63,
+   "rdl": 67,
    "rdl_derogados": 13,
    "rdl_convalidados_publicados": 45,
-   "rdl_por_año": 19.5,
+   "rdl_por_año": 20.7,
    "leyes_por_año": 10.5,
-   "ratio_rdl_leyes": 1.85
+   "ratio_rdl_leyes": 1.97
   }
  ],
  "por_año": {
@@ -494,7 +494,7 @@
    "RDL derogados": 2
   },
   "2026": {
-   "Real Decreto-ley": 32,
+   "Real Decreto-ley": 36,
    "Ley Orgánica": 4,
    "Ley": 4,
    "RDL derogados": 8
@@ -1295,7 +1295,7 @@
    "año": 2026,
    "tipo": "normas",
    "url": "https://www.boe.es/buscar/boe.php?campo%5B0%5D=ORIS&dato%5B0%5D%5B1%5D=1&operador%5B0%5D=and&campo%5B1%5D=TITULOS&dato%5B1%5D=ley&operador%5B1%5D=and&operador%5B6%5D=and&campo%5B6%5D=FPU&dato%5B6%5D%5B0%5D=2026-01-01&dato%5B6%5D%5B1%5D=2026-12-31&page_hits=2000&sort_field%5B0%5D=FPU&sort_order%5B0%5D=asc&accion=Buscar",
-   "resultados": 312
+   "resultados": 316
   },
   {
    "año": 2026,
@@ -3069,19 +3069,19 @@
    "ref": "BOE-A-1979-23452",
    "titulo": "Real Decreto-ley 15/1979, de 21 de septiembre, sobre medidas urgentes de apoyo a la vivienda."
   },
-  "Ley Orgánica 1/1979": {
-   "tipo": "Ley Orgánica",
-   "num": 1,
-   "fecha": "1979-09-26",
-   "ref": "BOE-A-1979-23708",
-   "titulo": "Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria."
-  },
   "Ley Orgánica 2/1979": {
    "tipo": "Ley Orgánica",
    "num": 2,
    "fecha": "1979-10-03",
    "ref": "BOE-A-1979-23709",
    "titulo": "Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional."
+  },
+  "Ley Orgánica 1/1979": {
+   "tipo": "Ley Orgánica",
+   "num": 1,
+   "fecha": "1979-09-26",
+   "ref": "BOE-A-1979-23708",
+   "titulo": "Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria."
   },
   "Ley 7/1979": {
    "tipo": "Ley",
@@ -13947,19 +13947,19 @@
    "ref": "BOE-A-2003-20977",
    "titulo": "Ley 38/2003, de 17 de noviembre, General de Subvenciones."
   },
-  "Ley 40/2003": {
-   "tipo": "Ley",
-   "num": 40,
-   "fecha": "2003-11-18",
-   "ref": "BOE-A-2003-21052",
-   "titulo": "Ley 40/2003, de 18 de noviembre, de Protección a las Familias Numerosas."
-  },
   "Ley 41/2003": {
    "tipo": "Ley",
    "num": 41,
    "fecha": "2003-11-18",
    "ref": "BOE-A-2003-21053",
    "titulo": "Ley 41/2003, de 18 de noviembre, de protección patrimonial de las personas con discapacidad y de modificación del Código Civil, de la Ley de Enjuiciamiento Civil y de la Normativa Tributaria con esta "
+  },
+  "Ley 40/2003": {
+   "tipo": "Ley",
+   "num": 40,
+   "fecha": "2003-11-18",
+   "ref": "BOE-A-2003-21052",
+   "titulo": "Ley 40/2003, de 18 de noviembre, de Protección a las Familias Numerosas."
   },
   "Ley Orgánica 14/2003": {
    "tipo": "Ley Orgánica",
@@ -15046,19 +15046,19 @@
    "ref": "BOE-A-2006-21408",
    "titulo": "Ley 38/2006, de 7 de diciembre, reguladora de la gestión de la deuda externa."
   },
-  "Ley 39/2006": {
-   "tipo": "Ley",
-   "num": 39,
-   "fecha": "2006-12-14",
-   "ref": "BOE-A-2006-21990",
-   "titulo": "Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia."
-  },
   "Ley 40/2006": {
    "tipo": "Ley",
    "num": 40,
    "fecha": "2006-12-14",
    "ref": "BOE-A-2006-21991",
    "titulo": "Ley 40/2006, de 14 de diciembre, del Estatuto de la ciudadanía española en el exterior."
+  },
+  "Ley 39/2006": {
+   "tipo": "Ley",
+   "num": 39,
+   "fecha": "2006-12-14",
+   "ref": "BOE-A-2006-21990",
+   "titulo": "Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia."
   },
   "Ley 41/2006": {
    "tipo": "Ley",
@@ -21758,6 +21758,34 @@
    "fecha": "2026-11-03",
    "ref": "BOE-A-2026-23104",
    "titulo": "Real Decreto-ley 32/2026, de 3 de noviembre, de ayudas a las víctimas del accidente ferroviario de Urda (Toledo) y por el que se garantiza la accesibilidad equitativa a bienes y servicios en situacion"
+  },
+  "Real Decreto-ley 33/2026": {
+   "tipo": "Real Decreto-ley",
+   "num": 33,
+   "fecha": "2026-11-10",
+   "ref": "BOE-A-2026-23602",
+   "titulo": "Real Decreto-ley 33/2026, de 10 de noviembre, por el que se adoptan medidas urgentes en respuesta a los daños causados por las inundaciones y otros sucesos acaecidos entre los días 17 y 19 de octubre "
+  },
+  "Real Decreto-ley 34/2026": {
+   "tipo": "Real Decreto-ley",
+   "num": 34,
+   "fecha": "2026-11-10",
+   "ref": "BOE-A-2026-23603",
+   "titulo": "Real Decreto-ley 34/2026, de 10 de noviembre, de medidas urgentes para el refuerzo de la seguridad operacional en el transporte ferroviario y la protección social del personal ferroviario."
+  },
+  "Real Decreto-ley 35/2026": {
+   "tipo": "Real Decreto-ley",
+   "num": 35,
+   "fecha": "2026-11-10",
+   "ref": "BOE-A-2026-23604",
+   "titulo": "Real Decreto-ley 35/2026, de 10 de noviembre, de medidas urgentes para el reconocimiento y protección a las familias monoparentales y otras medidas de apoyo a familias."
+  },
+  "Real Decreto-ley 36/2026": {
+   "tipo": "Real Decreto-ley",
+   "num": 36,
+   "fecha": "2026-11-10",
+   "ref": "BOE-A-2026-23605",
+   "titulo": "Real Decreto-ley 36/2026, de 10 de noviembre, de medidas para el adecuado despliegue de la reforma del Sistema para la Autonomía y Atención a la Dependencia."
   },
   "Ley 49/1960": {
    "tipo": "Ley",
