@@ -1,5 +1,5 @@
 {
- "extraido": "2026-11-11T15:30:45+01:00",
+ "extraido": "2026-11-12T16:24:55+01:00",
  "fuente": "https://www.boe.es/buscar/boe.php",
  "nota": "Normas de la Jefatura del Estado en Sección I del BOE cuyo título empieza por 'Ley', 'Ley Orgánica' o 'Real Decreto-ley'; asignadas por fecha de la disposición. RDL derogados = 'Acuerdo de derogación' publicado por el Congreso (no convalidados).",
  "por_legislatura": [
@@ -231,7 +231,7 @@
   {
    "legislatura": "XV",
    "inicio": "2023-08-17",
-   "fin": "2026-11-11",
+   "fin": "2026-11-12",
    "gobierno": "Sánchez (PSOE-Sumar)",
    "años": 3.24,
    "leyes_ordinarias": 21,
@@ -5057,13 +5057,6 @@
    "ref": "BOE-A-1982-18265",
    "titulo": "Ley 37/1982, de 3 de julio, sobre concesión de varios créditos extraordinarios por un importe total de 1.950.000.000 de pesetas para dar cumplimiento al Tratado de Amistad y Cooperación del Estado Esp"
   },
-  "Ley 38/1982": {
-   "tipo": "Ley",
-   "num": 38,
-   "fecha": "1982-07-03",
-   "ref": "BOE-A-1982-18266",
-   "titulo": "Ley 38/1982, de 3 de julio, por la que se establece el Grado de Carrera previsto en el artículo sexto de la Ley 75/1978, en los Cuerpos Ejecutivo Postal y de Telecomunicación y de Técnicos Especializa"
-  },
   "Ley 40/1982": {
    "tipo": "Ley",
    "num": 40,
@@ -5134,6 +5127,13 @@
    "ref": "BOE-A-1982-18267",
    "titulo": "Ley 39/1982, de 3 de julio, sobre concesión de un suplemento de crédito por importe de 319.980.487 pesetas al presupuesto en vigor de Presidencia del Gobierno, para cobertura del déficit de financiaci"
   },
+  "Ley 38/1982": {
+   "tipo": "Ley",
+   "num": 38,
+   "fecha": "1982-07-03",
+   "ref": "BOE-A-1982-18266",
+   "titulo": "Ley 38/1982, de 3 de julio, por la que se establece el Grado de Carrera previsto en el artículo sexto de la Ley 75/1978, en los Cuerpos Ejecutivo Postal y de Telecomunicación y de Técnicos Especializa"
+  },
   "Ley Orgánica 7/1982": {
    "tipo": "Ley Orgánica",
    "num": 7,
@@ -5183,13 +5183,6 @@
    "ref": "BOE-A-1982-20819",
    "titulo": "Ley Orgánica 8/1982, de 10 de agosto, de Estatuto de Autonomía de Aragón."
   },
-  "Ley Orgánica 10/1982": {
-   "tipo": "Ley Orgánica",
-   "num": 10,
-   "fecha": "1982-08-10",
-   "ref": "BOE-A-1982-20821",
-   "titulo": "Ley Orgánica 10/1982, de 10 de agosto, de Estatuto de Autonomía de Canarias."
-  },
   "Ley Orgánica 11/1982": {
    "tipo": "Ley Orgánica",
    "num": 11,
@@ -5217,6 +5210,13 @@
    "fecha": "1982-08-10",
    "ref": "BOE-A-1982-20820",
    "titulo": "Ley Orgánica 9/1982, de 10 de agosto, de Estatuto de Autonomía de Castilla-La Mancha."
+  },
+  "Ley Orgánica 10/1982": {
+   "tipo": "Ley Orgánica",
+   "num": 10,
+   "fecha": "1982-08-10",
+   "ref": "BOE-A-1982-20821",
+   "titulo": "Ley Orgánica 10/1982, de 10 de agosto, de Estatuto de Autonomía de Canarias."
   },
   "Real Decreto-ley 12/1982": {
    "tipo": "Real Decreto-ley",
@@ -19253,19 +19253,19 @@
    "ref": "BOE-A-2018-14747",
    "titulo": "Real Decreto-ley 16/2018, de 26 de octubre, por el que se adoptan determinadas medidas de lucha contra el tráfico ilícito de personas y mercancías en relación con las embarcaciones utilizadas."
   },
-  "Ley Orgánica 1/2018": {
-   "tipo": "Ley Orgánica",
-   "num": 1,
-   "fecha": "2018-11-05",
-   "ref": "BOE-A-2018-15138",
-   "titulo": "Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias."
-  },
   "Ley 8/2018": {
    "tipo": "Ley",
    "num": 8,
    "fecha": "2018-11-05",
    "ref": "BOE-A-2018-15139",
    "titulo": "Ley 8/2018, de 5 de noviembre, por la que se modifica la Ley 19/1994, de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias."
+  },
+  "Ley Orgánica 1/2018": {
+   "tipo": "Ley Orgánica",
+   "num": 1,
+   "fecha": "2018-11-05",
+   "ref": "BOE-A-2018-15138",
+   "titulo": "Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias."
   },
   "Real Decreto-ley 17/2018": {
    "tipo": "Real Decreto-ley",
@@ -20933,19 +20933,19 @@
    "ref": "BOE-A-2023-625",
    "titulo": "Real Decreto-ley 1/2023, de 10 de enero, de medidas urgentes en materia de incentivos a la contratación laboral y mejora de la protección social de las personas artistas."
   },
-  "Ley 1/2023": {
-   "tipo": "Ley",
-   "num": 1,
-   "fecha": "2023-02-20",
-   "ref": "BOE-A-2023-4512",
-   "titulo": "Ley 1/2023, de 20 de febrero, de Cooperación para el Desarrollo Sostenible y la Solidaridad Global."
-  },
   "Ley 2/2023": {
    "tipo": "Ley",
    "num": 2,
    "fecha": "2023-02-20",
    "ref": "BOE-A-2023-4513",
    "titulo": "Ley 2/2023, de 20 de febrero, reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción."
+  },
+  "Ley 1/2023": {
+   "tipo": "Ley",
+   "num": 1,
+   "fecha": "2023-02-20",
+   "ref": "BOE-A-2023-4512",
+   "titulo": "Ley 1/2023, de 20 de febrero, de Cooperación para el Desarrollo Sostenible y la Solidaridad Global."
   },
   "Ley Orgánica 1/2023": {
    "tipo": "Ley Orgánica",
