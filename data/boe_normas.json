@@ -1,5 +1,5 @@
 {
- "extraido": "2026-11-12T16:24:55+01:00",
+ "extraido": "2026-11-13T15:46:04+01:00",
  "fuente": "https://www.boe.es/buscar/boe.php",
  "nota": "Normas de la Jefatura del Estado en Sección I del BOE cuyo título empieza por 'Ley', 'Ley Orgánica' o 'Real Decreto-ley'; asignadas por fecha de la disposición. RDL derogados = 'Acuerdo de derogación' publicado por el Congreso (no convalidados).",
  "por_legislatura": [
@@ -231,14 +231,14 @@
   {
    "legislatura": "XV",
    "inicio": "2023-08-17",
-   "fin": "2026-11-12",
+   "fin": "2026-11-13",
    "gobierno": "Sánchez (PSOE-Sumar)",
    "años": 3.24,
    "leyes_ordinarias": 21,
    "leyes_organicas": 13,
    "rdl": 67,
-   "rdl_derogados": 13,
-   "rdl_convalidados_publicados": 45,
+   "rdl_derogados": 14,
+   "rdl_convalidados_publicados": 46,
    "rdl_por_año": 20.7,
    "leyes_por_año": 10.5,
    "ratio_rdl_leyes": 1.97
@@ -497,7 +497,7 @@
    "Real Decreto-ley": 36,
    "Ley Orgánica": 4,
    "Ley": 4,
-   "RDL derogados": 8
+   "RDL derogados": 9
   }
  },
  "indultos_por_año": [
@@ -1295,7 +1295,7 @@
    "año": 2026,
    "tipo": "normas",
    "url": "https://www.boe.es/buscar/boe.php?campo%5B0%5D=ORIS&dato%5B0%5D%5B1%5D=1&operador%5B0%5D=and&campo%5B1%5D=TITULOS&dato%5B1%5D=ley&operador%5B1%5D=and&operador%5B6%5D=and&campo%5B6%5D=FPU&dato%5B6%5D%5B0%5D=2026-01-01&dato%5B6%5D%5B1%5D=2026-12-31&page_hits=2000&sort_field%5B0%5D=FPU&sort_order%5B0%5D=asc&accion=Buscar",
-   "resultados": 316
+   "resultados": 318
   },
   {
    "año": 2026,
@@ -4952,13 +4952,6 @@
    "ref": "BOE-A-1982-16315",
    "titulo": "Ley 24/1982, de 16 de junio, sobre prácticas y enseñanzas sanitarias especializadas."
   },
-  "Ley Orgánica 5/1982": {
-   "tipo": "Ley Orgánica",
-   "num": 5,
-   "fecha": "1982-07-01",
-   "ref": "BOE-A-1982-17235",
-   "titulo": "Ley Orgánica 5/1982, de 1 de julio, de Estatuto de Autonomía de la Comunidad Valenciana."
-  },
   "Ley 25/1982": {
    "tipo": "Ley",
    "num": 25,
@@ -5021,6 +5014,13 @@
    "fecha": "1982-07-01",
    "ref": "BOE-A-1982-17244",
    "titulo": "Ley 33/1982, de 1 de julio, sobre concesión de un suplemento de crédito por importe de pesetas 18.000.000.000 al presupuesto en vigor del Ministerio de Industria y Energía, para dotar al Instituto Nac"
+  },
+  "Ley Orgánica 5/1982": {
+   "tipo": "Ley Orgánica",
+   "num": 5,
+   "fecha": "1982-07-01",
+   "ref": "BOE-A-1982-17235",
+   "titulo": "Ley Orgánica 5/1982, de 1 de julio, de Estatuto de Autonomía de la Comunidad Valenciana."
   },
   "Ley Orgánica 6/1982": {
    "tipo": "Ley Orgánica",
@@ -5204,19 +5204,19 @@
    "ref": "BOE-A-1982-20824",
    "titulo": "Ley Orgánica 13/1982, de 10 de agosto, de reintegración y amejoramiento del Régimen Foral de Navarra."
   },
-  "Ley Orgánica 9/1982": {
-   "tipo": "Ley Orgánica",
-   "num": 9,
-   "fecha": "1982-08-10",
-   "ref": "BOE-A-1982-20820",
-   "titulo": "Ley Orgánica 9/1982, de 10 de agosto, de Estatuto de Autonomía de Castilla-La Mancha."
-  },
   "Ley Orgánica 10/1982": {
    "tipo": "Ley Orgánica",
    "num": 10,
    "fecha": "1982-08-10",
    "ref": "BOE-A-1982-20821",
    "titulo": "Ley Orgánica 10/1982, de 10 de agosto, de Estatuto de Autonomía de Canarias."
+  },
+  "Ley Orgánica 9/1982": {
+   "tipo": "Ley Orgánica",
+   "num": 9,
+   "fecha": "1982-08-10",
+   "ref": "BOE-A-1982-20820",
+   "titulo": "Ley Orgánica 9/1982, de 10 de agosto, de Estatuto de Autonomía de Castilla-La Mancha."
   },
   "Real Decreto-ley 12/1982": {
    "tipo": "Real Decreto-ley",
@@ -9670,13 +9670,6 @@
    "ref": "BOE-A-1994-24612",
    "titulo": "Ley Orgánica 16/1994, de 8 de noviembre, por la que se reforma la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial."
   },
-  "Ley 29/1994": {
-   "tipo": "Ley",
-   "num": 29,
-   "fecha": "1994-11-24",
-   "ref": "BOE-A-1994-26003",
-   "titulo": "Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos."
-  },
   "Ley 30/1994": {
    "tipo": "Ley",
    "num": 30,
@@ -9690,6 +9683,13 @@
    "fecha": "1994-11-24",
    "ref": "BOE-A-1994-26005",
    "titulo": "Ley 31/1994, de 24 de noviembre, de modificación del artículo 9.1 de la Ley 29/1990, de 26 de diciembre, del Fondo de Compensación Interterritorial."
+  },
+  "Ley 29/1994": {
+   "tipo": "Ley",
+   "num": 29,
+   "fecha": "1994-11-24",
+   "ref": "BOE-A-1994-26003",
+   "titulo": "Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos."
   },
   "Real Decreto-ley 12/1994": {
    "tipo": "Real Decreto-ley",
@@ -21003,19 +21003,19 @@
    "ref": "BOE-A-2023-7935",
    "titulo": "Ley Orgánica 3/2023, de 28 de marzo, de modificación de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, en materia de maltrato animal."
   },
-  "Ley 7/2023": {
-   "tipo": "Ley",
-   "num": 7,
-   "fecha": "2023-03-28",
-   "ref": "BOE-A-2023-7936",
-   "titulo": "Ley 7/2023, de 28 de marzo, de protección de los derechos y el bienestar de los animales."
-  },
   "Real Decreto-ley 3/2023": {
    "tipo": "Real Decreto-ley",
    "num": 3,
    "fecha": "2023-03-28",
    "ref": "BOE-A-2023-7937",
    "titulo": "Real Decreto-ley 3/2023, de 28 de marzo, de prórroga del mecanismo de ajuste de costes de producción para la reducción del precio de la electricidad en el mercado mayorista regulado en el Real Decreto"
+  },
+  "Ley 7/2023": {
+   "tipo": "Ley",
+   "num": 7,
+   "fecha": "2023-03-28",
+   "ref": "BOE-A-2023-7936",
+   "titulo": "Ley 7/2023, de 28 de marzo, de protección de los derechos y el bienestar de los animales."
   },
   "Ley 8/2023": {
    "tipo": "Ley",
@@ -22256,6 +22256,10 @@
   "Real Decreto-ley 27/2026": {
    "fecha": "2026-09-29",
    "ref_acuerdo": "BOE-A-2026-20527"
+  },
+  "Real Decreto-ley 28/2026": {
+   "fecha": "2026-10-06",
+   "ref_acuerdo": "BOE-A-2026-23754"
   }
  },
  "rdl_convalidados": {
@@ -25018,6 +25022,10 @@
   "Real Decreto-ley 25/2026": {
    "fecha": "2026-09-29",
    "ref_acuerdo": "BOE-A-2026-21788"
+  },
+  "Real Decreto-ley 29/2026": {
+   "fecha": "2026-10-06",
+   "ref_acuerdo": "BOE-A-2026-23755"
   }
  },
  "nota_xv": "La XV Legislatura se cuenta hasta hoy: Cortes disueltas el 2026-10-06 (RD 806/2026); siguen publicándose normas aprobadas antes de la disolución y RDL que convalida la Diputación Permanente."

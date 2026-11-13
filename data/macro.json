@@ -1,5 +1,5 @@
 {
- "extraido": "2026-11-12T16:19:02+01:00",
+ "extraido": "2026-11-13T15:38:11+01:00",
  "indicadores": [
   {
    "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tec00115?unit=CLV_PCH_PRE&na_item=B1GQ&geo=ES&geo=EU27_2020&geo=EA20&geo=DE&geo=FR&geo=IT&geo=PT",
@@ -208,7 +208,7 @@
   {
    "url": "https://api.worldbank.org/v2/country/ESP;EUU;DEU;FRA;ITA;PRT/indicator/NY.GDP.PCAP.PP.KD?format=json&per_page=20000",
    "web": "https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.KD?locations=ES",
-   "actualizado_fuente": "2026-10-08",
+   "actualizado_fuente": "2026-11-11",
    "series": {
     "DEU": {
      "2025": 62823.7736648822,
