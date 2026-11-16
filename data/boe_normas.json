@@ -1,5 +1,5 @@
 {
- "extraido": "2026-11-15T15:01:41+01:00",
+ "extraido": "2026-11-16T16:57:59+01:00",
  "fuente": "https://www.boe.es/buscar/boe.php",
  "nota": "Normas de la Jefatura del Estado en Sección I del BOE cuyo título empieza por 'Ley', 'Ley Orgánica' o 'Real Decreto-ley'; asignadas por fecha de la disposición. RDL derogados = 'Acuerdo de derogación' publicado por el Congreso (no convalidados).",
  "por_legislatura": [
@@ -231,7 +231,7 @@
   {
    "legislatura": "XV",
    "inicio": "2023-08-17",
-   "fin": "2026-11-15",
+   "fin": "2026-11-16",
    "gobierno": "Sánchez (PSOE-Sumar)",
    "años": 3.25,
    "leyes_ordinarias": 21,
@@ -4644,13 +4644,6 @@
    "ref": "BOE-A-1982-634",
    "titulo": "Ley Orgánica 7/1981, de 30 de diciembre, de Estatuto de Autonomía para Asturias."
   },
-  "Ley Orgánica 8/1981": {
-   "tipo": "Ley Orgánica",
-   "num": 8,
-   "fecha": "1981-12-30",
-   "ref": "BOE-A-1982-635",
-   "titulo": "Ley Orgánica 8/1981, de 30 de diciembre, de Estatuto de Autonomía para Cantabria."
-  },
   "Ley 47/1981": {
    "tipo": "Ley",
    "num": 47,
@@ -4671,6 +4664,13 @@
    "fecha": "1981-12-24",
    "ref": "BOE-A-1982-638",
    "titulo": "Ley 49/1981, de 24 de diciembre, del Estatuto de la explotación familiar agraria y de los agricultores jóvenes."
+  },
+  "Ley Orgánica 8/1981": {
+   "tipo": "Ley Orgánica",
+   "num": 8,
+   "fecha": "1981-12-30",
+   "ref": "BOE-A-1982-635",
+   "titulo": "Ley Orgánica 8/1981, de 30 de diciembre, de Estatuto de Autonomía para Cantabria."
   },
   "Ley 50/1981": {
    "tipo": "Ley",
@@ -4903,13 +4903,6 @@
    "ref": "BOE-A-1982-15030",
    "titulo": "Ley Orgánica 3/1982, de 9 de junio, de Estatuto de Autonomía de La Rioja."
   },
-  "Ley Orgánica 4/1982": {
-   "tipo": "Ley Orgánica",
-   "num": 4,
-   "fecha": "1982-06-09",
-   "ref": "BOE-A-1982-15031",
-   "titulo": "Ley Orgánica 4/1982, de 9 de junio, de Estatuto de Autonomía para la Región de Murcia."
-  },
   "Ley 20/1982": {
    "tipo": "Ley",
    "num": 20,
@@ -4923,6 +4916,13 @@
    "fecha": "1982-06-09",
    "ref": "BOE-A-1982-15033",
    "titulo": "Ley 21/1982, de 9 de junio, sobre medidas para la reconversión industrial."
+  },
+  "Ley Orgánica 4/1982": {
+   "tipo": "Ley Orgánica",
+   "num": 4,
+   "fecha": "1982-06-09",
+   "ref": "BOE-A-1982-15031",
+   "titulo": "Ley Orgánica 4/1982, de 9 de junio, de Estatuto de Autonomía para la Región de Murcia."
   },
   "Ley 22/1982": {
    "tipo": "Ley",
@@ -5078,13 +5078,6 @@
    "ref": "BOE-A-1982-18268",
    "titulo": "Ley 40/1982, de 3 de julio, sobre concesión de un suplemento de crédito al Presupuesto del Estado por un importe de 125.000.000 de pesetas y de varias modificaciones presupuestarias que totalizan idén"
   },
-  "Ley 41/1982": {
-   "tipo": "Ley",
-   "num": 41,
-   "fecha": "1982-07-07",
-   "ref": "BOE-A-1982-18269",
-   "titulo": "Ley 41/1982, de 7 de julio, sobre concesión de dos créditos extraordinarios por importes de 17.398 y 4.968 millones de pesetas para reponer, a través del Instituto Nacional de Industria, la estructura"
-  },
   "Ley 42/1982": {
    "tipo": "Ley",
    "num": 42,
@@ -5133,6 +5126,13 @@
    "fecha": "1982-07-12",
    "ref": "BOE-A-1982-18276",
    "titulo": "Ley 48/1982, de 12 de julio, por la que se incorporan al Plan General de Obras Públicas las obras de construcción de las presas de San Clemente y El Portillo (Granada)."
+  },
+  "Ley 41/1982": {
+   "tipo": "Ley",
+   "num": 41,
+   "fecha": "1982-07-07",
+   "ref": "BOE-A-1982-18269",
+   "titulo": "Ley 41/1982, de 7 de julio, sobre concesión de dos créditos extraordinarios por importes de 17.398 y 4.968 millones de pesetas para reponer, a través del Instituto Nacional de Industria, la estructura"
   },
   "Ley Orgánica 7/1982": {
    "tipo": "Ley Orgánica",
@@ -18679,19 +18679,19 @@
    "ref": "BOE-A-2015-10440",
    "titulo": "Ley 38/2015, de 29 de septiembre, del sector ferroviario."
   },
-  "Ley 39/2015": {
-   "tipo": "Ley",
-   "num": 39,
-   "fecha": "2015-10-01",
-   "ref": "BOE-A-2015-10565",
-   "titulo": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas."
-  },
   "Ley 40/2015": {
    "tipo": "Ley",
    "num": 40,
    "fecha": "2015-10-01",
    "ref": "BOE-A-2015-10566",
    "titulo": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público."
+  },
+  "Ley 39/2015": {
+   "tipo": "Ley",
+   "num": 39,
+   "fecha": "2015-10-01",
+   "ref": "BOE-A-2015-10565",
+   "titulo": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas."
   },
   "Real Decreto-ley 11/2015": {
    "tipo": "Real Decreto-ley",
@@ -20506,19 +20506,19 @@
    "ref": "BOE-A-2022-4973",
    "titulo": "Real Decreto-ley 7/2022, de 29 de marzo, sobre requisitos para garantizar la seguridad de las redes y servicios de comunicaciones electrónicas de quinta generación."
   },
-  "Ley Orgánica 3/2022": {
-   "tipo": "Ley Orgánica",
-   "num": 3,
-   "fecha": "2022-03-31",
-   "ref": "BOE-A-2022-5139",
-   "titulo": "Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional."
-  },
   "Ley 6/2022": {
    "tipo": "Ley",
    "num": 6,
    "fecha": "2022-03-31",
    "ref": "BOE-A-2022-5140",
    "titulo": "Ley 6/2022, de 31 de marzo, de modificación del Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013"
+  },
+  "Ley Orgánica 3/2022": {
+   "tipo": "Ley Orgánica",
+   "num": 3,
+   "fecha": "2022-03-31",
+   "ref": "BOE-A-2022-5139",
+   "titulo": "Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional."
   },
   "Real Decreto-ley 8/2022": {
    "tipo": "Real Decreto-ley",
