@@ -1,5 +1,5 @@
 {
- "extraido": "2026-11-17T17:12:39+01:00",
+ "extraido": "2026-11-18T16:47:34+01:00",
  "fuente": "https://www.boe.es/buscar/boe.php",
  "nota": "Normas de la Jefatura del Estado en Sección I del BOE cuyo título empieza por 'Ley', 'Ley Orgánica' o 'Real Decreto-ley'; asignadas por fecha de la disposición. RDL derogados = 'Acuerdo de derogación' publicado por el Congreso (no convalidados).",
  "por_legislatura": [
@@ -231,17 +231,17 @@
   {
    "legislatura": "XV",
    "inicio": "2023-08-17",
-   "fin": "2026-11-17",
+   "fin": "2026-11-18",
    "gobierno": "Sánchez (PSOE-Sumar)",
-   "años": 3.25,
+   "años": 3.26,
    "leyes_ordinarias": 21,
    "leyes_organicas": 13,
-   "rdl": 67,
+   "rdl": 70,
    "rdl_derogados": 14,
    "rdl_convalidados_publicados": 46,
-   "rdl_por_año": 20.6,
-   "leyes_por_año": 10.5,
-   "ratio_rdl_leyes": 1.97
+   "rdl_por_año": 21.5,
+   "leyes_por_año": 10.4,
+   "ratio_rdl_leyes": 2.06
   }
  ],
  "por_año": {
@@ -494,7 +494,7 @@
    "RDL derogados": 2
   },
   "2026": {
-   "Real Decreto-ley": 36,
+   "Real Decreto-ley": 39,
    "Ley Orgánica": 4,
    "Ley": 4,
    "RDL derogados": 9
@@ -1295,7 +1295,7 @@
    "año": 2026,
    "tipo": "normas",
    "url": "https://www.boe.es/buscar/boe.php?campo%5B0%5D=ORIS&dato%5B0%5D%5B1%5D=1&operador%5B0%5D=and&campo%5B1%5D=TITULOS&dato%5B1%5D=ley&operador%5B1%5D=and&operador%5B6%5D=and&campo%5B6%5D=FPU&dato%5B6%5D%5B0%5D=2026-01-01&dato%5B6%5D%5B1%5D=2026-12-31&page_hits=2000&sort_field%5B0%5D=FPU&sort_order%5B0%5D=asc&accion=Buscar",
-   "resultados": 323
+   "resultados": 326
   },
   {
    "año": 2026,
@@ -13933,19 +13933,19 @@
    "ref": "BOE-A-2003-20976",
    "titulo": "Ley 37/2003, de 17 de noviembre, del Ruido."
   },
-  "Ley 38/2003": {
-   "tipo": "Ley",
-   "num": 38,
-   "fecha": "2003-11-17",
-   "ref": "BOE-A-2003-20977",
-   "titulo": "Ley 38/2003, de 17 de noviembre, General de Subvenciones."
-  },
   "Ley 39/2003": {
    "tipo": "Ley",
    "num": 39,
    "fecha": "2003-11-17",
    "ref": "BOE-A-2003-20978",
    "titulo": "Ley 39/2003, de 17 de noviembre, del Sector Ferroviario."
+  },
+  "Ley 38/2003": {
+   "tipo": "Ley",
+   "num": 38,
+   "fecha": "2003-11-17",
+   "ref": "BOE-A-2003-20977",
+   "titulo": "Ley 38/2003, de 17 de noviembre, General de Subvenciones."
   },
   "Ley 40/2003": {
    "tipo": "Ley",
@@ -16068,19 +16068,19 @@
    "ref": "BOE-A-2009-20374",
    "titulo": "Ley Orgánica 3/2009, de 18 de diciembre, de modificación de la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas."
   },
-  "Ley 22/2009": {
-   "tipo": "Ley",
-   "num": 22,
-   "fecha": "2009-12-18",
-   "ref": "BOE-A-2009-20375",
-   "titulo": "Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas t"
-  },
   "Ley 23/2009": {
    "tipo": "Ley",
    "num": 23,
    "fecha": "2009-12-18",
    "ref": "BOE-A-2009-20376",
    "titulo": "Ley 23/2009, de 18 de diciembre, de modificación de la Ley 22/2001, de 27 de diciembre, reguladora de los Fondos de Compensación Interterritorial."
+  },
+  "Ley 22/2009": {
+   "tipo": "Ley",
+   "num": 22,
+   "fecha": "2009-12-18",
+   "ref": "BOE-A-2009-20375",
+   "titulo": "Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas t"
   },
   "Ley 24/2009": {
    "tipo": "Ley",
@@ -16593,13 +16593,6 @@
    "ref": "BOE-A-2010-20140",
    "titulo": "Ley 44/2010, de 30 de diciembre, de aguas canarias."
   },
-  "Ley Orgánica 1/2011": {
-   "tipo": "Ley Orgánica",
-   "num": 1,
-   "fecha": "2011-01-28",
-   "ref": "BOE-A-2011-1638",
-   "titulo": "Ley Orgánica 1/2011, de 28 de enero, de reforma del Estatuto de Autonomía de la Comunidad Autónoma de Extremadura."
-  },
   "Ley Orgánica 2/2011": {
    "tipo": "Ley Orgánica",
    "num": 2,
@@ -16613,6 +16606,13 @@
    "fecha": "2011-01-28",
    "ref": "BOE-A-2011-1640",
    "titulo": "Ley Orgánica 3/2011, de 28 de enero, por la que se modifica la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General."
+  },
+  "Ley Orgánica 1/2011": {
+   "tipo": "Ley Orgánica",
+   "num": 1,
+   "fecha": "2011-01-28",
+   "ref": "BOE-A-2011-1638",
+   "titulo": "Ley Orgánica 1/2011, de 28 de enero, de reforma del Estatuto de Autonomía de la Comunidad Autónoma de Extremadura."
   },
   "Real Decreto-ley 1/2011": {
    "tipo": "Real Decreto-ley",
@@ -20954,19 +20954,19 @@
    "ref": "BOE-A-2023-5364",
    "titulo": "Ley Orgánica 1/2023, de 28 de febrero, por la que se modifica la Ley Orgánica 2/2010, de 3 de marzo, de salud sexual y reproductiva y de la interrupción voluntaria del embarazo."
   },
-  "Ley 3/2023": {
-   "tipo": "Ley",
-   "num": 3,
-   "fecha": "2023-02-28",
-   "ref": "BOE-A-2023-5365",
-   "titulo": "Ley 3/2023, de 28 de febrero, de Empleo."
-  },
   "Ley 4/2023": {
    "tipo": "Ley",
    "num": 4,
    "fecha": "2023-02-28",
    "ref": "BOE-A-2023-5366",
    "titulo": "Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI."
+  },
+  "Ley 3/2023": {
+   "tipo": "Ley",
+   "num": 3,
+   "fecha": "2023-02-28",
+   "ref": "BOE-A-2023-5365",
+   "titulo": "Ley 3/2023, de 28 de febrero, de Empleo."
   },
   "Real Decreto-ley 2/2023": {
    "tipo": "Real Decreto-ley",
@@ -21437,19 +21437,19 @@
    "ref": "BOE-A-2025-23911",
    "titulo": "Real Decreto-ley 13/2025, de 25 de noviembre, por el que se adoptan medidas complementarias urgentes para la recuperación económica y social de la isla de La Palma tras los daños ocasionados por las e"
   },
-  "Real Decreto-ley 14/2025": {
-   "tipo": "Real Decreto-ley",
-   "num": 14,
-   "fecha": "2025-12-02",
-   "ref": "BOE-A-2025-24445",
-   "titulo": "Real Decreto-ley 14/2025, de 2 de diciembre, por el que se aprueban medidas urgentes en materia de retribuciones en el ámbito del sector público."
-  },
   "Real Decreto-ley 15/2025": {
    "tipo": "Real Decreto-ley",
    "num": 15,
    "fecha": "2025-12-02",
    "ref": "BOE-A-2025-24446",
    "titulo": "Real Decreto-ley 15/2025, de 2 de diciembre, por el que se adoptan medidas urgentes para favorecer la actividad inversora de las entidades locales y de las comunidades autónomas, y por el que se modif"
+  },
+  "Real Decreto-ley 14/2025": {
+   "tipo": "Real Decreto-ley",
+   "num": 14,
+   "fecha": "2025-12-02",
+   "ref": "BOE-A-2025-24445",
+   "titulo": "Real Decreto-ley 14/2025, de 2 de diciembre, por el que se aprueban medidas urgentes en materia de retribuciones en el ámbito del sector público."
   },
   "Ley 9/2025": {
    "tipo": "Ley",
@@ -21786,6 +21786,27 @@
    "fecha": "2026-11-10",
    "ref": "BOE-A-2026-23605",
    "titulo": "Real Decreto-ley 36/2026, de 10 de noviembre, de medidas para el adecuado despliegue de la reforma del Sistema para la Autonomía y Atención a la Dependencia."
+  },
+  "Real Decreto-ley 37/2026": {
+   "tipo": "Real Decreto-ley",
+   "num": 37,
+   "fecha": "2026-11-17",
+   "ref": "BOE-A-2026-24119",
+   "titulo": "Real Decreto-ley 37/2026, de 17 de noviembre, por el que se aprueban medidas urgentes en materia de retribuciones del personal al servicio del sector público."
+  },
+  "Real Decreto-ley 38/2026": {
+   "tipo": "Real Decreto-ley",
+   "num": 38,
+   "fecha": "2026-11-17",
+   "ref": "BOE-A-2026-24120",
+   "titulo": "Real Decreto-ley 38/2026, de 17 de noviembre, por el que se adoptan medidas relativas a los recursos de los sistemas de financiación territorial y medidas fiscales urgentes para evitar la tributación "
+  },
+  "Real Decreto-ley 39/2026": {
+   "tipo": "Real Decreto-ley",
+   "num": 39,
+   "fecha": "2026-11-17",
+   "ref": "BOE-A-2026-24121",
+   "titulo": "Real Decreto-ley 39/2026, de 17 de noviembre, por el que se modifican el texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre; "
   },
   "Ley 49/1960": {
    "tipo": "Ley",
