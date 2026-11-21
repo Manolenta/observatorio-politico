@@ -1,5 +1,5 @@
 {
- "extraido": "2026-11-19T16:51:15+01:00",
+ "extraido": "2026-11-21T15:45:29+01:00",
  "fuente": "https://www.boe.es/buscar/boe.php",
  "nota": "Normas de la Jefatura del Estado en Sección I del BOE cuyo título empieza por 'Ley', 'Ley Orgánica' o 'Real Decreto-ley'; asignadas por fecha de la disposición. RDL derogados = 'Acuerdo de derogación' publicado por el Congreso (no convalidados).",
  "por_legislatura": [
@@ -231,17 +231,17 @@
   {
    "legislatura": "XV",
    "inicio": "2023-08-17",
-   "fin": "2026-11-19",
+   "fin": "2026-11-21",
    "gobierno": "Sánchez (PSOE-Sumar)",
    "años": 3.26,
    "leyes_ordinarias": 21,
    "leyes_organicas": 13,
-   "rdl": 70,
+   "rdl": 72,
    "rdl_derogados": 14,
-   "rdl_convalidados_publicados": 46,
-   "rdl_por_año": 21.5,
+   "rdl_convalidados_publicados": 53,
+   "rdl_por_año": 22.1,
    "leyes_por_año": 10.4,
-   "ratio_rdl_leyes": 2.06
+   "ratio_rdl_leyes": 2.12
   }
  ],
  "por_año": {
@@ -494,7 +494,7 @@
    "RDL derogados": 2
   },
   "2026": {
-   "Real Decreto-ley": 39,
+   "Real Decreto-ley": 41,
    "Ley Orgánica": 4,
    "Ley": 4,
    "RDL derogados": 9
@@ -1295,7 +1295,7 @@
    "año": 2026,
    "tipo": "normas",
    "url": "https://www.boe.es/buscar/boe.php?campo%5B0%5D=ORIS&dato%5B0%5D%5B1%5D=1&operador%5B0%5D=and&campo%5B1%5D=TITULOS&dato%5B1%5D=ley&operador%5B1%5D=and&operador%5B6%5D=and&campo%5B6%5D=FPU&dato%5B6%5D%5B0%5D=2026-01-01&dato%5B6%5D%5B1%5D=2026-12-31&page_hits=2000&sort_field%5B0%5D=FPU&sort_order%5B0%5D=asc&accion=Buscar",
-   "resultados": 326
+   "resultados": 337
   },
   {
    "año": 2026,
@@ -4644,6 +4644,13 @@
    "ref": "BOE-A-1982-634",
    "titulo": "Ley Orgánica 7/1981, de 30 de diciembre, de Estatuto de Autonomía para Asturias."
   },
+  "Ley Orgánica 8/1981": {
+   "tipo": "Ley Orgánica",
+   "num": 8,
+   "fecha": "1981-12-30",
+   "ref": "BOE-A-1982-635",
+   "titulo": "Ley Orgánica 8/1981, de 30 de diciembre, de Estatuto de Autonomía para Cantabria."
+  },
   "Ley 47/1981": {
    "tipo": "Ley",
    "num": 47,
@@ -4664,13 +4671,6 @@
    "fecha": "1981-12-24",
    "ref": "BOE-A-1982-638",
    "titulo": "Ley 49/1981, de 24 de diciembre, del Estatuto de la explotación familiar agraria y de los agricultores jóvenes."
-  },
-  "Ley Orgánica 8/1981": {
-   "tipo": "Ley Orgánica",
-   "num": 8,
-   "fecha": "1981-12-30",
-   "ref": "BOE-A-1982-635",
-   "titulo": "Ley Orgánica 8/1981, de 30 de diciembre, de Estatuto de Autonomía para Cantabria."
   },
   "Ley 50/1981": {
    "tipo": "Ley",
@@ -4903,6 +4903,13 @@
    "ref": "BOE-A-1982-15030",
    "titulo": "Ley Orgánica 3/1982, de 9 de junio, de Estatuto de Autonomía de La Rioja."
   },
+  "Ley Orgánica 4/1982": {
+   "tipo": "Ley Orgánica",
+   "num": 4,
+   "fecha": "1982-06-09",
+   "ref": "BOE-A-1982-15031",
+   "titulo": "Ley Orgánica 4/1982, de 9 de junio, de Estatuto de Autonomía para la Región de Murcia."
+  },
   "Ley 20/1982": {
    "tipo": "Ley",
    "num": 20,
@@ -4916,13 +4923,6 @@
    "fecha": "1982-06-09",
    "ref": "BOE-A-1982-15033",
    "titulo": "Ley 21/1982, de 9 de junio, sobre medidas para la reconversión industrial."
-  },
-  "Ley Orgánica 4/1982": {
-   "tipo": "Ley Orgánica",
-   "num": 4,
-   "fecha": "1982-06-09",
-   "ref": "BOE-A-1982-15031",
-   "titulo": "Ley Orgánica 4/1982, de 9 de junio, de Estatuto de Autonomía para la Región de Murcia."
   },
   "Ley 22/1982": {
    "tipo": "Ley",
@@ -5029,40 +5029,19 @@
    "ref": "BOE-A-1982-18261",
    "titulo": "Ley Orgánica 6/1982, de 7 de julio, por la que se autoriza la constitución de la Comunidad Autónoma de Madrid."
   },
-  "Ley 38/1982": {
-   "tipo": "Ley",
-   "num": 38,
-   "fecha": "1982-07-03",
-   "ref": "BOE-A-1982-18266",
-   "titulo": "Ley 38/1982, de 3 de julio, por la que se establece el Grado de Carrera previsto en el artículo sexto de la Ley 75/1978, en los Cuerpos Ejecutivo Postal y de Telecomunicación y de Técnicos Especializa"
-  },
-  "Ley 39/1982": {
-   "tipo": "Ley",
-   "num": 39,
-   "fecha": "1982-07-03",
-   "ref": "BOE-A-1982-18267",
-   "titulo": "Ley 39/1982, de 3 de julio, sobre concesión de un suplemento de crédito por importe de 319.980.487 pesetas al presupuesto en vigor de Presidencia del Gobierno, para cobertura del déficit de financiaci"
-  },
-  "Ley 46/1982": {
-   "tipo": "Ley",
-   "num": 46,
-   "fecha": "1982-07-09",
-   "ref": "BOE-A-1982-18274",
-   "titulo": "Ley 46/1982, de 9 de julio, sobre contribución de España a la sexta ampliación de recursos de la Asociación Internacional de Fomento."
-  },
-  "Ley 41/1982": {
-   "tipo": "Ley",
-   "num": 41,
-   "fecha": "1982-07-07",
-   "ref": "BOE-A-1982-18269",
-   "titulo": "Ley 41/1982, de 7 de julio, sobre concesión de dos créditos extraordinarios por importes de 17.398 y 4.968 millones de pesetas para reponer, a través del Instituto Nacional de Industria, la estructura"
-  },
   "Ley 34/1982": {
    "tipo": "Ley",
    "num": 34,
    "fecha": "1982-07-03",
    "ref": "BOE-A-1982-18262",
    "titulo": "Ley 34/1982, de 3 de julio, sobre concesión de un crédito extraordinario por importe de pesetas 485.817.300, para sufragar los gastos del nuevo referéndum del Estatuto de Autonomía de Andalucía."
+  },
+  "Ley 35/1982": {
+   "tipo": "Ley",
+   "num": 35,
+   "fecha": "1982-07-03",
+   "ref": "BOE-A-1982-18263",
+   "titulo": "Ley 35/1982, de 3 de julio, sobre concesión de un crédito extraordinario por importe de pesetas 1.650.000.000, para subvencionar a Empresas pesqueras por diferencias de precios de gas-oil utilizado po"
   },
   "Ley 36/1982": {
    "tipo": "Ley",
@@ -5078,6 +5057,20 @@
    "ref": "BOE-A-1982-18265",
    "titulo": "Ley 37/1982, de 3 de julio, sobre concesión de varios créditos extraordinarios por un importe total de 1.950.000.000 de pesetas para dar cumplimiento al Tratado de Amistad y Cooperación del Estado Esp"
   },
+  "Ley 38/1982": {
+   "tipo": "Ley",
+   "num": 38,
+   "fecha": "1982-07-03",
+   "ref": "BOE-A-1982-18266",
+   "titulo": "Ley 38/1982, de 3 de julio, por la que se establece el Grado de Carrera previsto en el artículo sexto de la Ley 75/1978, en los Cuerpos Ejecutivo Postal y de Telecomunicación y de Técnicos Especializa"
+  },
+  "Ley 39/1982": {
+   "tipo": "Ley",
+   "num": 39,
+   "fecha": "1982-07-03",
+   "ref": "BOE-A-1982-18267",
+   "titulo": "Ley 39/1982, de 3 de julio, sobre concesión de un suplemento de crédito por importe de 319.980.487 pesetas al presupuesto en vigor de Presidencia del Gobierno, para cobertura del déficit de financiaci"
+  },
   "Ley 40/1982": {
    "tipo": "Ley",
    "num": 40,
@@ -5085,12 +5078,26 @@
    "ref": "BOE-A-1982-18268",
    "titulo": "Ley 40/1982, de 3 de julio, sobre concesión de un suplemento de crédito al Presupuesto del Estado por un importe de 125.000.000 de pesetas y de varias modificaciones presupuestarias que totalizan idén"
   },
+  "Ley 41/1982": {
+   "tipo": "Ley",
+   "num": 41,
+   "fecha": "1982-07-07",
+   "ref": "BOE-A-1982-18269",
+   "titulo": "Ley 41/1982, de 7 de julio, sobre concesión de dos créditos extraordinarios por importes de 17.398 y 4.968 millones de pesetas para reponer, a través del Instituto Nacional de Industria, la estructura"
+  },
   "Ley 42/1982": {
    "tipo": "Ley",
    "num": 42,
    "fecha": "1982-07-07",
    "ref": "BOE-A-1982-18270",
    "titulo": "Ley 42/1982, de 7 de julio, de creación del Cuerpo Especial de Técnicos Especialistas en Reproducción Cartográfica, dependiente de la Presidencia del Gobierno."
+  },
+  "Ley 43/1982": {
+   "tipo": "Ley",
+   "num": 43,
+   "fecha": "1982-07-07",
+   "ref": "BOE-A-1982-18271",
+   "titulo": "Ley 43/1982, de 7 de julio, sobre inversiones extranjeras en Empresas editoriales."
   },
   "Ley 44/1982": {
    "tipo": "Ley",
@@ -5106,6 +5113,13 @@
    "ref": "BOE-A-1982-18273",
    "titulo": "Ley 45/1982, de 9 de julio, sobre concesión de un crédito extraordinario por un importe de 2.708.415.110 pesetas al presupuesto en vigor del Ministerio de Industria y Energía para compensar al Institu"
   },
+  "Ley 46/1982": {
+   "tipo": "Ley",
+   "num": 46,
+   "fecha": "1982-07-09",
+   "ref": "BOE-A-1982-18274",
+   "titulo": "Ley 46/1982, de 9 de julio, sobre contribución de España a la sexta ampliación de recursos de la Asociación Internacional de Fomento."
+  },
   "Ley 47/1982": {
    "tipo": "Ley",
    "num": 47,
@@ -5119,20 +5133,6 @@
    "fecha": "1982-07-12",
    "ref": "BOE-A-1982-18276",
    "titulo": "Ley 48/1982, de 12 de julio, por la que se incorporan al Plan General de Obras Públicas las obras de construcción de las presas de San Clemente y El Portillo (Granada)."
-  },
-  "Ley 35/1982": {
-   "tipo": "Ley",
-   "num": 35,
-   "fecha": "1982-07-03",
-   "ref": "BOE-A-1982-18263",
-   "titulo": "Ley 35/1982, de 3 de julio, sobre concesión de un crédito extraordinario por importe de pesetas 1.650.000.000, para subvencionar a Empresas pesqueras por diferencias de precios de gas-oil utilizado po"
-  },
-  "Ley 43/1982": {
-   "tipo": "Ley",
-   "num": 43,
-   "fecha": "1982-07-07",
-   "ref": "BOE-A-1982-18271",
-   "titulo": "Ley 43/1982, de 7 de julio, sobre inversiones extranjeras en Empresas editoriales."
   },
   "Ley Orgánica 7/1982": {
    "tipo": "Ley Orgánica",
@@ -5190,6 +5190,13 @@
    "ref": "BOE-A-1982-20820",
    "titulo": "Ley Orgánica 9/1982, de 10 de agosto, de Estatuto de Autonomía de Castilla-La Mancha."
   },
+  "Ley Orgánica 10/1982": {
+   "tipo": "Ley Orgánica",
+   "num": 10,
+   "fecha": "1982-08-10",
+   "ref": "BOE-A-1982-20821",
+   "titulo": "Ley Orgánica 10/1982, de 10 de agosto, de Estatuto de Autonomía de Canarias."
+  },
   "Ley Orgánica 11/1982": {
    "tipo": "Ley Orgánica",
    "num": 11,
@@ -5203,13 +5210,6 @@
    "fecha": "1982-08-10",
    "ref": "BOE-A-1982-20823",
    "titulo": "Ley Orgánica 12/1982, de 10 de agosto, de transferencia a la Comunidad Valenciana de competencias en materia de titularidad estatal."
-  },
-  "Ley Orgánica 10/1982": {
-   "tipo": "Ley Orgánica",
-   "num": 10,
-   "fecha": "1982-08-10",
-   "ref": "BOE-A-1982-20821",
-   "titulo": "Ley Orgánica 10/1982, de 10 de agosto, de Estatuto de Autonomía de Canarias."
   },
   "Ley Orgánica 13/1982": {
    "tipo": "Ley Orgánica",
@@ -7724,19 +7724,19 @@
    "ref": "BOE-A-1988-29621",
    "titulo": "Ley Orgánica 7/1988, de 28 de diciembre, de los Juzgados de lo Penal y por la que se modifican diversos preceptos de las Leyes Orgánica del Poder Judicial y de Enjuiciamiento Criminal."
   },
-  "Ley 39/1988": {
-   "tipo": "Ley",
-   "num": 39,
-   "fecha": "1988-12-28",
-   "ref": "BOE-A-1988-29623",
-   "titulo": "Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales."
-  },
   "Ley 38/1988": {
    "tipo": "Ley",
    "num": 38,
    "fecha": "1988-12-28",
    "ref": "BOE-A-1988-29622",
    "titulo": "Ley 38/1988, de 28 de diciembre, de Demarcación y de Planta Judicial."
+  },
+  "Ley 39/1988": {
+   "tipo": "Ley",
+   "num": 39,
+   "fecha": "1988-12-28",
+   "ref": "BOE-A-1988-29623",
+   "titulo": "Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales."
   },
   "Ley 40/1988": {
    "tipo": "Ley",
@@ -13933,19 +13933,19 @@
    "ref": "BOE-A-2003-20976",
    "titulo": "Ley 37/2003, de 17 de noviembre, del Ruido."
   },
-  "Ley 39/2003": {
-   "tipo": "Ley",
-   "num": 39,
-   "fecha": "2003-11-17",
-   "ref": "BOE-A-2003-20978",
-   "titulo": "Ley 39/2003, de 17 de noviembre, del Sector Ferroviario."
-  },
   "Ley 38/2003": {
    "tipo": "Ley",
    "num": 38,
    "fecha": "2003-11-17",
    "ref": "BOE-A-2003-20977",
    "titulo": "Ley 38/2003, de 17 de noviembre, General de Subvenciones."
+  },
+  "Ley 39/2003": {
+   "tipo": "Ley",
+   "num": 39,
+   "fecha": "2003-11-17",
+   "ref": "BOE-A-2003-20978",
+   "titulo": "Ley 39/2003, de 17 de noviembre, del Sector Ferroviario."
   },
   "Ley 40/2003": {
    "tipo": "Ley",
@@ -15326,13 +15326,6 @@
    "ref": "BOE-A-2007-13025",
    "titulo": "Ley 18/2007, de 4 de julio, por la que se procede a la integración de los trabajadores por cuenta propia del Régimen Especial Agrario de la Seguridad Social en el Régimen Especial de la Seguridad Soci"
   },
-  "Ley 22/2007": {
-   "tipo": "Ley",
-   "num": 22,
-   "fecha": "2007-07-11",
-   "ref": "BOE-A-2007-13411",
-   "titulo": "Ley 22/2007, de 11 de julio, sobre comercialización a distancia de servicios financieros destinados a los consumidores."
-  },
   "Ley 19/2007": {
    "tipo": "Ley",
    "num": 19,
@@ -15353,6 +15346,13 @@
    "fecha": "2007-07-11",
    "ref": "BOE-A-2007-13410",
    "titulo": "Ley 21/2007, de 11 de julio, por la que se modifica el texto refundido de la Ley sobre responsabilidad civil y seguro en la circulación de vehículos a motor, aprobado por el Real Decreto Legislativo 8"
+  },
+  "Ley 22/2007": {
+   "tipo": "Ley",
+   "num": 22,
+   "fecha": "2007-07-11",
+   "ref": "BOE-A-2007-13411",
+   "titulo": "Ley 22/2007, de 11 de julio, sobre comercialización a distancia de servicios financieros destinados a los consumidores."
   },
   "Real Decreto-ley 6/2007": {
    "tipo": "Real Decreto-ley",
@@ -16068,19 +16068,19 @@
    "ref": "BOE-A-2009-20374",
    "titulo": "Ley Orgánica 3/2009, de 18 de diciembre, de modificación de la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas."
   },
-  "Ley 23/2009": {
-   "tipo": "Ley",
-   "num": 23,
-   "fecha": "2009-12-18",
-   "ref": "BOE-A-2009-20376",
-   "titulo": "Ley 23/2009, de 18 de diciembre, de modificación de la Ley 22/2001, de 27 de diciembre, reguladora de los Fondos de Compensación Interterritorial."
-  },
   "Ley 22/2009": {
    "tipo": "Ley",
    "num": 22,
    "fecha": "2009-12-18",
    "ref": "BOE-A-2009-20375",
    "titulo": "Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas t"
+  },
+  "Ley 23/2009": {
+   "tipo": "Ley",
+   "num": 23,
+   "fecha": "2009-12-18",
+   "ref": "BOE-A-2009-20376",
+   "titulo": "Ley 23/2009, de 18 de diciembre, de modificación de la Ley 22/2001, de 27 de diciembre, reguladora de los Fondos de Compensación Interterritorial."
   },
   "Ley 24/2009": {
    "tipo": "Ley",
@@ -16593,6 +16593,13 @@
    "ref": "BOE-A-2010-20140",
    "titulo": "Ley 44/2010, de 30 de diciembre, de aguas canarias."
   },
+  "Ley Orgánica 1/2011": {
+   "tipo": "Ley Orgánica",
+   "num": 1,
+   "fecha": "2011-01-28",
+   "ref": "BOE-A-2011-1638",
+   "titulo": "Ley Orgánica 1/2011, de 28 de enero, de reforma del Estatuto de Autonomía de la Comunidad Autónoma de Extremadura."
+  },
   "Ley Orgánica 2/2011": {
    "tipo": "Ley Orgánica",
    "num": 2,
@@ -16606,13 +16613,6 @@
    "fecha": "2011-01-28",
    "ref": "BOE-A-2011-1640",
    "titulo": "Ley Orgánica 3/2011, de 28 de enero, por la que se modifica la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General."
-  },
-  "Ley Orgánica 1/2011": {
-   "tipo": "Ley Orgánica",
-   "num": 1,
-   "fecha": "2011-01-28",
-   "ref": "BOE-A-2011-1638",
-   "titulo": "Ley Orgánica 1/2011, de 28 de enero, de reforma del Estatuto de Autonomía de la Comunidad Autónoma de Extremadura."
   },
   "Real Decreto-ley 1/2011": {
    "tipo": "Real Decreto-ley",
@@ -18679,19 +18679,19 @@
    "ref": "BOE-A-2015-10440",
    "titulo": "Ley 38/2015, de 29 de septiembre, del sector ferroviario."
   },
-  "Ley 40/2015": {
-   "tipo": "Ley",
-   "num": 40,
-   "fecha": "2015-10-01",
-   "ref": "BOE-A-2015-10566",
-   "titulo": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público."
-  },
   "Ley 39/2015": {
    "tipo": "Ley",
    "num": 39,
    "fecha": "2015-10-01",
    "ref": "BOE-A-2015-10565",
    "titulo": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas."
+  },
+  "Ley 40/2015": {
+   "tipo": "Ley",
+   "num": 40,
+   "fecha": "2015-10-01",
+   "ref": "BOE-A-2015-10566",
+   "titulo": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público."
   },
   "Real Decreto-ley 11/2015": {
    "tipo": "Real Decreto-ley",
@@ -20506,19 +20506,19 @@
    "ref": "BOE-A-2022-4973",
    "titulo": "Real Decreto-ley 7/2022, de 29 de marzo, sobre requisitos para garantizar la seguridad de las redes y servicios de comunicaciones electrónicas de quinta generación."
   },
-  "Ley 6/2022": {
-   "tipo": "Ley",
-   "num": 6,
-   "fecha": "2022-03-31",
-   "ref": "BOE-A-2022-5140",
-   "titulo": "Ley 6/2022, de 31 de marzo, de modificación del Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013"
-  },
   "Ley Orgánica 3/2022": {
    "tipo": "Ley Orgánica",
    "num": 3,
    "fecha": "2022-03-31",
    "ref": "BOE-A-2022-5139",
    "titulo": "Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional."
+  },
+  "Ley 6/2022": {
+   "tipo": "Ley",
+   "num": 6,
+   "fecha": "2022-03-31",
+   "ref": "BOE-A-2022-5140",
+   "titulo": "Ley 6/2022, de 31 de marzo, de modificación del Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013"
   },
   "Real Decreto-ley 8/2022": {
    "tipo": "Real Decreto-ley",
@@ -20954,19 +20954,19 @@
    "ref": "BOE-A-2023-5364",
    "titulo": "Ley Orgánica 1/2023, de 28 de febrero, por la que se modifica la Ley Orgánica 2/2010, de 3 de marzo, de salud sexual y reproductiva y de la interrupción voluntaria del embarazo."
   },
-  "Ley 4/2023": {
-   "tipo": "Ley",
-   "num": 4,
-   "fecha": "2023-02-28",
-   "ref": "BOE-A-2023-5366",
-   "titulo": "Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI."
-  },
   "Ley 3/2023": {
    "tipo": "Ley",
    "num": 3,
    "fecha": "2023-02-28",
    "ref": "BOE-A-2023-5365",
    "titulo": "Ley 3/2023, de 28 de febrero, de Empleo."
+  },
+  "Ley 4/2023": {
+   "tipo": "Ley",
+   "num": 4,
+   "fecha": "2023-02-28",
+   "ref": "BOE-A-2023-5366",
+   "titulo": "Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI."
   },
   "Real Decreto-ley 2/2023": {
    "tipo": "Real Decreto-ley",
@@ -21437,19 +21437,19 @@
    "ref": "BOE-A-2025-23911",
    "titulo": "Real Decreto-ley 13/2025, de 25 de noviembre, por el que se adoptan medidas complementarias urgentes para la recuperación económica y social de la isla de La Palma tras los daños ocasionados por las e"
   },
-  "Real Decreto-ley 15/2025": {
-   "tipo": "Real Decreto-ley",
-   "num": 15,
-   "fecha": "2025-12-02",
-   "ref": "BOE-A-2025-24446",
-   "titulo": "Real Decreto-ley 15/2025, de 2 de diciembre, por el que se adoptan medidas urgentes para favorecer la actividad inversora de las entidades locales y de las comunidades autónomas, y por el que se modif"
-  },
   "Real Decreto-ley 14/2025": {
    "tipo": "Real Decreto-ley",
    "num": 14,
    "fecha": "2025-12-02",
    "ref": "BOE-A-2025-24445",
    "titulo": "Real Decreto-ley 14/2025, de 2 de diciembre, por el que se aprueban medidas urgentes en materia de retribuciones en el ámbito del sector público."
+  },
+  "Real Decreto-ley 15/2025": {
+   "tipo": "Real Decreto-ley",
+   "num": 15,
+   "fecha": "2025-12-02",
+   "ref": "BOE-A-2025-24446",
+   "titulo": "Real Decreto-ley 15/2025, de 2 de diciembre, por el que se adoptan medidas urgentes para favorecer la actividad inversora de las entidades locales y de las comunidades autónomas, y por el que se modif"
   },
   "Ley 9/2025": {
    "tipo": "Ley",
@@ -21807,6 +21807,20 @@
    "fecha": "2026-11-17",
    "ref": "BOE-A-2026-24121",
    "titulo": "Real Decreto-ley 39/2026, de 17 de noviembre, por el que se modifican el texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre; "
+  },
+  "Real Decreto-ley 40/2026": {
+   "tipo": "Real Decreto-ley",
+   "num": 40,
+   "fecha": "2026-11-20",
+   "ref": "BOE-A-2026-24437",
+   "titulo": "Real Decreto-ley 40/2026, de 20 de noviembre, de medidas urgentes para el impulso de la competitividad y la soberanía tecnológica en el ámbito científico e investigador."
+  },
+  "Real Decreto-ley 41/2026": {
+   "tipo": "Real Decreto-ley",
+   "num": 41,
+   "fecha": "2026-11-20",
+   "ref": "BOE-A-2026-24438",
+   "titulo": "Real Decreto-ley 41/2026, de 20 de noviembre, por el que se modifica la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero."
   },
   "Ley 49/1960": {
    "tipo": "Ley",
@@ -25047,6 +25061,34 @@
   "Real Decreto-ley 29/2026": {
    "fecha": "2026-10-06",
    "ref_acuerdo": "BOE-A-2026-23755"
+  },
+  "Real Decreto-ley 30/2026": {
+   "fecha": "2026-10-13",
+   "ref_acuerdo": "BOE-A-2026-24291"
+  },
+  "Real Decreto-ley 31/2026": {
+   "fecha": "2026-10-20",
+   "ref_acuerdo": "BOE-A-2026-24292"
+  },
+  "Real Decreto-ley 32/2026": {
+   "fecha": "2026-11-03",
+   "ref_acuerdo": "BOE-A-2026-24293"
+  },
+  "Real Decreto-ley 33/2026": {
+   "fecha": "2026-11-10",
+   "ref_acuerdo": "BOE-A-2026-24294"
+  },
+  "Real Decreto-ley 34/2026": {
+   "fecha": "2026-11-10",
+   "ref_acuerdo": "BOE-A-2026-24295"
+  },
+  "Real Decreto-ley 35/2026": {
+   "fecha": "2026-11-10",
+   "ref_acuerdo": "BOE-A-2026-24296"
+  },
+  "Real Decreto-ley 36/2026": {
+   "fecha": "2026-11-10",
+   "ref_acuerdo": "BOE-A-2026-24297"
   }
  },
  "nota_xv": "La XV Legislatura se cuenta hasta hoy: Cortes disueltas el 2026-10-06 (RD 806/2026); siguen publicándose normas aprobadas antes de la disolución y RDL que convalida la Diputación Permanente."
