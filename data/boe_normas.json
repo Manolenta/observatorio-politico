@@ -1,5 +1,5 @@
 {
- "extraido": "2026-11-23T19:18:05+01:00",
+ "extraido": "2026-11-24T18:53:11+01:00",
  "fuente": "https://www.boe.es/buscar/boe.php",
  "nota": "Normas de la Jefatura del Estado en Sección I del BOE cuyo título empieza por 'Ley', 'Ley Orgánica' o 'Real Decreto-ley'; asignadas por fecha de la disposición. RDL derogados = 'Acuerdo de derogación' publicado por el Congreso (no convalidados).",
  "por_legislatura": [
@@ -231,7 +231,7 @@
   {
    "legislatura": "XV",
    "inicio": "2023-08-17",
-   "fin": "2026-11-23",
+   "fin": "2026-11-24",
    "gobierno": "Sánchez (PSOE-Sumar)",
    "años": 3.27,
    "leyes_ordinarias": 21,
@@ -1295,7 +1295,7 @@
    "año": 2026,
    "tipo": "normas",
    "url": "https://www.boe.es/buscar/boe.php?campo%5B0%5D=ORIS&dato%5B0%5D%5B1%5D=1&operador%5B0%5D=and&campo%5B1%5D=TITULOS&dato%5B1%5D=ley&operador%5B1%5D=and&operador%5B6%5D=and&campo%5B6%5D=FPU&dato%5B6%5D%5B0%5D=2026-01-01&dato%5B6%5D%5B1%5D=2026-12-31&page_hits=2000&sort_field%5B0%5D=FPU&sort_order%5B0%5D=asc&accion=Buscar",
-   "resultados": 338
+   "resultados": 343
   },
   {
    "año": 2026,
@@ -20506,19 +20506,19 @@
    "ref": "BOE-A-2022-4973",
    "titulo": "Real Decreto-ley 7/2022, de 29 de marzo, sobre requisitos para garantizar la seguridad de las redes y servicios de comunicaciones electrónicas de quinta generación."
   },
-  "Ley Orgánica 3/2022": {
-   "tipo": "Ley Orgánica",
-   "num": 3,
-   "fecha": "2022-03-31",
-   "ref": "BOE-A-2022-5139",
-   "titulo": "Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional."
-  },
   "Ley 6/2022": {
    "tipo": "Ley",
    "num": 6,
    "fecha": "2022-03-31",
    "ref": "BOE-A-2022-5140",
    "titulo": "Ley 6/2022, de 31 de marzo, de modificación del Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013"
+  },
+  "Ley Orgánica 3/2022": {
+   "tipo": "Ley Orgánica",
+   "num": 3,
+   "fecha": "2022-03-31",
+   "ref": "BOE-A-2022-5139",
+   "titulo": "Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional."
   },
   "Real Decreto-ley 8/2022": {
    "tipo": "Real Decreto-ley",
