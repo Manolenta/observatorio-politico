@@ -3,6 +3,9 @@
 Generado automáticamente por `scripts/changelog.py` en cada actualización: solo se anotan las cifras que cambian.
 Los cambios de código y metodología están en el historial de git.
 
+## 2026-11-25 18:21 (hora de Madrid) · 1 cifras
+- BOE · XV · rdl: 72 → 76
+
 ## 2026-11-21 15:46 (hora de Madrid) · 2 cifras
 - BOE · XV · rdl: 70 → 72
 - BOE · XV · rdl_convalidados_publicados: 46 → 53

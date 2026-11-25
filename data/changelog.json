@@ -1,6 +1,18 @@
 {
  "entradas": [
   {
+   "fecha": "2026-11-25T18:21:56+01:00",
+   "n_cambios": 1,
+   "cambios": [
+    {
+     "cifra": "BOE · XV · rdl",
+     "antes": 72,
+     "ahora": 76
+    }
+   ],
+   "nota": ""
+  },
+  {
    "fecha": "2026-11-21T15:46:23+01:00",
    "n_cambios": 2,
    "cambios": [
@@ -228,7 +240,7 @@
   "BOE · XIV · rdl_derogados": 1,
   "BOE · XV · leyes_ordinarias": 21,
   "BOE · XV · leyes_organicas": 13,
-  "BOE · XV · rdl": 72,
+  "BOE · XV · rdl": 76,
   "BOE · XV · rdl_convalidados_publicados": 53,
   "BOE · XV · rdl_derogados": 14,
   "BOE · indultos · 1977": 199,
@@ -376,6 +388,6 @@
   "RDL tramitados como PL · XV": 43,
   "RDL tramitados como PL · XV · ley": 0
  },
- "ultima_ejecucion": "2026-11-24T18:54:06+01:00",
- "ultima_actualizacion_datos": "2026-11-21T15:46:23+01:00"
+ "ultima_ejecucion": "2026-11-25T18:21:56+01:00",
+ "ultima_actualizacion_datos": "2026-11-25T18:21:56+01:00"
 }
