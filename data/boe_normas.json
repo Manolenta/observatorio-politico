@@ -1,5 +1,5 @@
 {
- "extraido": "2026-11-26T18:00:42+01:00",
+ "extraido": "2026-11-27T17:46:11+01:00",
  "fuente": "https://www.boe.es/buscar/boe.php",
  "nota": "Normas de la Jefatura del Estado en Sección I del BOE cuyo título empieza por 'Ley', 'Ley Orgánica' o 'Real Decreto-ley'; asignadas por fecha de la disposición. RDL derogados = 'Acuerdo de derogación' publicado por el Congreso (no convalidados).",
  "por_legislatura": [
@@ -231,7 +231,7 @@
   {
    "legislatura": "XV",
    "inicio": "2023-08-17",
-   "fin": "2026-11-26",
+   "fin": "2026-11-27",
    "gobierno": "Sánchez (PSOE-Sumar)",
    "años": 3.28,
    "leyes_ordinarias": 21,
@@ -1295,7 +1295,7 @@
    "año": 2026,
    "tipo": "normas",
    "url": "https://www.boe.es/buscar/boe.php?campo%5B0%5D=ORIS&dato%5B0%5D%5B1%5D=1&operador%5B0%5D=and&campo%5B1%5D=TITULOS&dato%5B1%5D=ley&operador%5B1%5D=and&operador%5B6%5D=and&campo%5B6%5D=FPU&dato%5B6%5D%5B0%5D=2026-01-01&dato%5B6%5D%5B1%5D=2026-12-31&page_hits=2000&sort_field%5B0%5D=FPU&sort_order%5B0%5D=asc&accion=Buscar",
-   "resultados": 347
+   "resultados": 348
   },
   {
    "año": 2026,
@@ -3720,13 +3720,6 @@
    "ref": "BOE-A-1980-15890",
    "titulo": "Ley 38/1980, de 8 de julio, sobre actualización del Estatuto General de la Abogacía."
   },
-  "Ley Orgánica 7/1980": {
-   "tipo": "Ley Orgánica",
-   "num": 7,
-   "fecha": "1980-07-05",
-   "ref": "BOE-A-1980-15955",
-   "titulo": "Ley Orgánica 7/1980, de 5 de julio, de Libertad Religiosa."
-  },
   "Ley 39/1980": {
    "tipo": "Ley",
    "num": 39,
@@ -3747,6 +3740,13 @@
    "fecha": "1980-07-05",
    "ref": "BOE-A-1980-15958",
    "titulo": "Ley 41/1980, de 5 de julio, de medidas urgentes de apoyo a la vivienda."
+  },
+  "Ley Orgánica 7/1980": {
+   "tipo": "Ley Orgánica",
+   "num": 7,
+   "fecha": "1980-07-05",
+   "ref": "BOE-A-1980-15955",
+   "titulo": "Ley Orgánica 7/1980, de 5 de julio, de Libertad Religiosa."
   },
   "Real Decreto-ley 7/1980": {
    "tipo": "Real Decreto-ley",
@@ -13415,19 +13415,19 @@
    "ref": "BOE-A-2002-22187",
    "titulo": "Ley 40/2002, de 14 de noviembre, reguladora del contrato de aparcamiento de vehículos."
   },
-  "Ley 41/2002": {
-   "tipo": "Ley",
-   "num": 41,
-   "fecha": "2002-11-14",
-   "ref": "BOE-A-2002-22188",
-   "titulo": "Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica."
-  },
   "Ley 42/2002": {
    "tipo": "Ley",
    "num": 42,
    "fecha": "2002-11-14",
    "ref": "BOE-A-2002-22189",
    "titulo": "Ley 42/2002, de 14 de noviembre, de creación del Colegio de Prácticos de Puerto."
+  },
+  "Ley 41/2002": {
+   "tipo": "Ley",
+   "num": 41,
+   "fecha": "2002-11-14",
+   "ref": "BOE-A-2002-22188",
+   "titulo": "Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica."
   },
   "Ley 43/2002": {
    "tipo": "Ley",
@@ -15494,19 +15494,19 @@
    "ref": "BOE-A-2007-19322",
    "titulo": "Ley 33/2007, de 7 de noviembre, de reforma de la Ley 15/1980, de 22 de abril, de creación del Consejo de Seguridad Nuclear."
   },
-  "Ley 34/2007": {
-   "tipo": "Ley",
-   "num": 34,
-   "fecha": "2007-11-15",
-   "ref": "BOE-A-2007-19744",
-   "titulo": "Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera."
-  },
   "Ley 35/2007": {
    "tipo": "Ley",
    "num": 35,
    "fecha": "2007-11-15",
    "ref": "BOE-A-2007-19745",
    "titulo": "Ley 35/2007, de 15 de noviembre, por la que se establece la deducción por nacimiento o adopción en el Impuesto sobre la Renta de las Personas Físicas y la prestación económica de pago único de la Segu"
+  },
+  "Ley 34/2007": {
+   "tipo": "Ley",
+   "num": 34,
+   "fecha": "2007-11-15",
+   "ref": "BOE-A-2007-19744",
+   "titulo": "Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera."
   },
   "Ley 36/2007": {
    "tipo": "Ley",
